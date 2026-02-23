@@ -23,31 +23,19 @@ jobs:
           DASHBOARD_REPO="$GITHUB_REPOSITORY"
           CUTOFF=$(date -u -d '72 hours ago' +"%Y-%m-%dT%H:%M:%SZ")
           
-          # Initialize empty array for all runs
           ALL_RUNS="[]"
           
-          # Loop over all repos
           gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | while read repo; do
             # Skip the dashboard repo itself
             if [ "$repo" = "$DASHBOARD_REPO" ]; then
               continue
             fi
-
-            PAGE=1
-            while true; do
-              RUNS=$(gh run list -R "$repo" --limit 50 --json databaseId,workflowName,status,conclusion,createdAt,url --page $PAGE)
-              # Filter only runs within 72h
-              FILTERED=$(echo "$RUNS" | jq --arg repo "$repo" --arg cutoff "$CUTOFF" '.[] | select(.createdAt >= $cutoff) + {repository: $repo}')
-              if [ -z "$FILTERED" ]; then
-                break
-              fi
-              # Append filtered runs to ALL_RUNS
-              ALL_RUNS=$(echo "$ALL_RUNS" | jq --argjson new "$FILTERED" '. + [$new[]]')
-              ((PAGE++))
-            done
+          
+            RUNS=$(gh run list -R "$repo" --limit 100 --json databaseId,workflowName,status,conclusion,createdAt,url --created "$CUTOFF")
+            FILTERED=$(echo "$RUNS" | jq --arg repo "$repo" '.[] + {repository: $repo}')
+            ALL_RUNS=$(echo "$ALL_RUNS" | jq --argjson new "$FILTERED" '. + [$new[]]')
           done
           
-          # Sort all runs by createdAt descending and save
           echo "$ALL_RUNS" | jq 'sort_by(.createdAt) | reverse' > runs.json
       - name: Commit & Push
         run: |
