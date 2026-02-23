@@ -20,11 +20,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           OWNER="${GITHUB_REPOSITORY%%/*}"
+          CUTOFF=$(date -u -d '72 hours ago' +"%Y-%m-%dT%H:%M:%SZ")
           gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | \
           while read repo; do
-            gh run list -R "$repo" --limit 5 --json databaseId,workflowName,status,conclusion,createdAt,url | \
-            jq --arg repo "$repo" '.[] + {repository: $repo}'
-          done | jq -s 'sort_by(.createdAt) | reverse | .[:100]' > runs.json
+            gh run list -R "$repo" --limit 100 --json databaseId,workflowName,status,conclusion,createdAt,url | \
+            jq --arg repo "$repo" --arg cutoff "$CUTOFF" '.[] | select(.createdAt >= $cutoff) + {repository: $repo}'
+          done | jq -s 'sort_by(.createdAt) | reverse'
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
