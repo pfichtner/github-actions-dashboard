@@ -20,6 +20,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           OWNER="${GITHUB_REPOSITORY%%/*}"
+          DASHBOARD_REPO="$GITHUB_REPOSITORY"
           CUTOFF=$(date -u -d '72 hours ago' +"%Y-%m-%dT%H:%M:%SZ")
           
           # Initialize empty array for all runs
@@ -27,6 +28,11 @@ jobs:
           
           # Loop over all repos
           gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | while read repo; do
+            # Skip the dashboard repo itself
+            if [ "$repo" = "$DASHBOARD_REPO" ]; then
+              continue
+            fi
+
             PAGE=1
             while true; do
               RUNS=$(gh run list -R "$repo" --limit 50 --json databaseId,workflowName,status,conclusion,createdAt,url --page $PAGE)
