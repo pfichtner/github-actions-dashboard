@@ -16,6 +16,8 @@ jobs:
       - name: Setup GitHub CLI
         run: sudo apt install gh -y
       - name: Generate runs.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           OWNER="${GITHUB_REPOSITORY%%/*}"
           gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | \
