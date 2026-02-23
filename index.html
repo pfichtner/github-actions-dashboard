@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Actions Dashboard</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 6px; text-align: left; }
+    .success { background-color: #c8f7c5; }
+    .failure { background-color: #f7c5c5; }
+    .neutral { background-color: #f0f0f0; }
+  </style>
+</head>
+<body>
+  <h1>Latest GitHub Actions Runs</h1>
+  <table id="runsTable">
+    <thead>
+      <tr>
+        <th>Repository</th>
+        <th>Workflow</th>
+        <th>Status</th>
+        <th>Conclusion</th>
+        <th>Created</th>
+        <th>URL</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    async function loadRuns() {
+      try {
+        const resp = await fetch('runs.json?' + Date.now());
+        const data = await resp.json();
+        const tbody = document.querySelector('#runsTable tbody');
+        tbody.innerHTML = '';
+        data.forEach(run => {
+          const tr = document.createElement('tr');
+          tr.className = run.conclusion === 'success' ? 'success' :
+                         run.conclusion === 'failure' ? 'failure' : 'neutral';
+          tr.innerHTML = `
+            <td>${run.repository}</td>
+            <td>${run.workflowName}</td>
+            <td>${run.status}</td>
+            <td>${run.conclusion || '-'}</td>
+            <td>${new Date(run.createdAt).toLocaleString()}</td>
+            <td><a href="${run.url}" target="_blank">link</a></td>
+          `;
+          tbody.appendChild(tr);
+        });
+      } catch (e) {
+        console.error('Failed to load runs.json', e);
+      }
+    }
+
+    loadRuns();
+    setInterval(loadRuns, 300000); // refresh every 5 minutes
+  </script>
+</body>
+</html>

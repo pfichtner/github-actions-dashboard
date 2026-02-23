@@ -1,0 +1,30 @@
+# .github/workflows/update-runs.yml
+name: Update Runs JSON
+on:
+  schedule:
+    - cron: "5 * * * *"  # every hour
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup GitHub CLI
+        run: sudo apt install gh -y
+      - name: Generate runs.json
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | \
+          while read repo; do
+            gh run list -R "$repo" --limit 5 --json databaseId,workflowName,status,conclusion,createdAt,url | \
+            jq --arg repo "$repo" '.[] + {repository: $repo}'
+          done | jq -s 'sort_by(.createdAt) | reverse | .[:100]' > runs.json
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add runs.json
+          git commit -m "Update runs.json" || echo "No changes"
+          git push
+
