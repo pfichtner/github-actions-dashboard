@@ -27,7 +27,15 @@ jobs:
 
             gh run list -R "$repo" --limit 5 --json databaseId,workflowName,status,conclusion,createdAt,url,headBranch,event | \
             jq --arg repo "$repo" '.[] + {repository: $repo}'
-          done | jq -s 'sort_by(.createdAt) | reverse | .[:100]' > runs.json
+          done | jq -s '
+            now as $now |
+            map(select(
+              (.createdAt | fromdateiso8601) >= ($now - (72 * 3600))
+            ))
+            | sort_by(.createdAt)
+            | reverse
+            | .[:100]
+          ' > runs.json
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
