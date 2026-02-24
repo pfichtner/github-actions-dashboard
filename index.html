@@ -94,83 +94,36 @@
       const workflow = (run.workflowName || '').toLowerCase();
 
       const isPR = event === 'pull_request';
-
-      // Bot PR branches
       const isRenovateBranch = branch.startsWith('renovate/');
       const isDependabotBranch = branch.startsWith('dependabot/');
 
-      // Maintenance bot workflows
+      // Bot workflows
       const botWorkflows = ['renovate', 'dependabot', 'scorecard', 'supply-chain'];
       const isBotWorkflow = botWorkflows.some(bot => workflow.includes(bot));
 
-      // Maintenance runs (scheduled/manual bot runs, not PRs)
+      // Maintenance runs (scheduled/manual bot runs)
       if (isBotWorkflow && !isPR) {
-        return {
-          type: 'bot-maintenance',
-          label: '⚙ Bot',
-          css: 'type-bot-maintenance'
-        };
+        return { type: 'bot-maintenance', label: '⚙ Bot', css: 'type-bot-maintenance' };
       }
 
       // Bot PRs
-      if (isPR && isRenovateBranch) {
-        return {
-          type: 'renovate-pr',
-          label: '🟣 Renovate PR',
-          css: 'type-renovate-pr'
-        };
-      }
+      if (isPR && isRenovateBranch) return { type: 'renovate-pr', label: '🟣 Renovate PR', css: 'type-renovate-pr' };
+      if (isPR && isDependabotBranch) return { type: 'dependabot-pr', label: '🟠 Dependabot PR', css: 'type-dependabot-pr' };
 
-      if (isPR && isDependabotBranch) {
-        return {
-          type: 'dependabot-pr',
-          label: '🟠 Dependabot PR',
-          css: 'type-dependabot-pr'
-        };
-      }
-
-      // Human PRs
-      if (isPR) {
-        return {
-          type: 'human-pr',
-          label: '👤 PR',
-          css: 'type-human-pr'
-        };
-      }
+      // Human PR
+      if (isPR) return { type: 'human-pr', label: '👤 PR', css: 'type-human-pr' };
 
       // Main push
-      if (event === 'push' && branch === 'main') {
-        return {
-          type: 'main-push',
-          label: '🚀 Main',
-          css: 'type-main'
-        };
-      }
+      if (event === 'push' && branch === 'main') return { type: 'main-push', label: '🚀 Main', css: 'type-main' };
 
-      // Scheduled workflow (other)
-      if (event === 'schedule') {
-        return {
-          type: 'scheduled',
-          label: '⏰ Scheduled',
-          css: 'type-scheduled'
-        };
-      }
+      // Scheduled workflow
+      if (event === 'schedule') return { type: 'scheduled', label: '⏰ Scheduled', css: 'type-scheduled' };
 
       // Manual dispatch
-      if (event === 'workflow_dispatch') {
-        return {
-          type: 'manual',
-          label: '▶ Manual',
-          css: 'type-manual'
-        };
-      }
+      if (event === 'workflow_dispatch') return { type: 'manual', label: '▶ Manual', css: 'type-manual' };
 
       // Fallback
-      return {
-        type: 'other',
-        label: event,
-        css: 'type-other'
-      };
+      return { type: 'other', label: event, css: 'type-other' };
     }
 
     async function loadRuns() {
@@ -184,24 +137,19 @@
           const classification = classifyRun(run);
 
           if (currentFilter === 'no-bots') {
-            return !classification.type.includes('renovate')
-                && !classification.type.includes('dependabot');
+            // Reuse classifyRun() to detect all bot types
+            const botTypes = ['bot-maintenance', 'renovate-pr', 'dependabot-pr'];
+            return !botTypes.includes(classification.type);
           }
 
-          if (currentFilter === 'only-pr') {
-            return run.event === 'pull_request';
-          }
-
-          if (currentFilter === 'failures') {
-            return run.conclusion === 'failure';
-          }
+          if (currentFilter === 'only-pr') return run.event === 'pull_request';
+          if (currentFilter === 'failures') return run.conclusion === 'failure';
 
           return true;
         });
 
         filteredData.forEach(run => {
           const tr = document.createElement('tr');
-
           tr.className =
             run.conclusion === 'success' ? 'success' :
             run.conclusion === 'failure' ? 'failure' :
@@ -220,7 +168,6 @@
             <td>${new Date(run.createdAt).toLocaleString()}</td>
             <td><a href="${run.url}" target="_blank">link</a></td>
           `;
-
           tbody.appendChild(tr);
         });
 
