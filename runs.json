@@ -1,6 +1,24 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-02-24T03:25:00Z",
+    "databaseId": 22335268030,
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22335268030",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-02-24T03:25:00Z",
+    "databaseId": 22335268066,
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22335268066",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-02-23T08:35:31Z",
     "databaseId": 22298500826,
     "status": "completed",
@@ -353,15 +371,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-02-23T03:28:43Z",
-    "databaseId": 22291873559,
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22291873559",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-23T03:28:43Z",
     "databaseId": 22291873688,
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/22291873688",
@@ -439,15 +448,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22250745523",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-20T07:34:29Z",
-    "databaseId": 22215526476,
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22215526476",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
