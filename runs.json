@@ -1,6 +1,15 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-02-24T11:42:47Z",
+    "databaseId": 22349317750,
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/22349317750",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-02-24T08:01:28Z",
     "databaseId": 22341871171,
     "status": "completed",
@@ -322,15 +331,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/22298412333",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-23T08:32:15Z",
-    "databaseId": 22298410392,
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/22298410392",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
