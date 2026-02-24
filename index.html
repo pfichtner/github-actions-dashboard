@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>GitHub Actions Dashboard</title>
+
   <style>
     body { font-family: sans-serif; padding: 20px; }
     table { border-collapse: collapse; width: 100%; }
@@ -12,20 +13,64 @@
     .failure { background-color: #f7c5c5; }
     .neutral { background-color: #f0f0f0; }
 
-    .pr-human { border-left: 6px solid #4a90e2; }
-    .pr-renovate { border-left: 6px solid #8e44ad; }
-    .pr-dependabot { border-left: 6px solid #f39c12; }
+    /* Type styling */
+    .type-human-pr { border-left: 6px solid #4a90e2; }
+    .type-renovate-pr { border-left: 6px solid #8e44ad; opacity: 0.95; }
+    .type-dependabot-pr { border-left: 6px solid #f39c12; opacity: 0.95; }
+    .type-renovate-maintenance { border-left: 6px solid #2c3e50; font-style: italic; }
+    .type-main { border-left: 6px solid #27ae60; }
+    .type-scheduled { border-left: 6px solid #7f8c8d; }
+    .type-manual { border-left: 6px solid #16a085; }
+
+    /* Legend */
+    #legend { margin-bottom: 15px; }
+    .legend-item {
+      display: inline-block;
+      padding: 4px 8px;
+      margin-right: 8px;
+      border-left: 6px solid transparent;
+      background: #fafafa;
+      font-size: 0.9em;
+    }
+
+    /* Filters */
+    #filters { margin-bottom: 15px; }
+    #filters button {
+      margin-right: 8px;
+      padding: 5px 10px;
+      cursor: pointer;
+    }
   </style>
 </head>
+
 <body>
   <h1>Latest GitHub Actions Runs</h1>
+
+  <!-- Legend -->
+  <div id="legend">
+    <strong>Legend:</strong>
+    <span class="legend-item type-human-pr">👤 PR</span>
+    <span class="legend-item type-renovate-pr">🟣 Renovate PR</span>
+    <span class="legend-item type-dependabot-pr">🟠 Dependabot PR</span>
+    <span class="legend-item type-renovate-maintenance">⚙ Renovate</span>
+    <span class="legend-item type-main">🚀 Main</span>
+  </div>
+
+  <!-- Filters -->
+  <div id="filters">
+    <button onclick="setFilter('all')">All</button>
+    <button onclick="setFilter('no-bots')">Hide Bots</button>
+    <button onclick="setFilter('only-pr')">Only PRs</button>
+    <button onclick="setFilter('failures')">Only Failures</button>
+  </div>
+
   <table id="runsTable">
     <thead>
       <tr>
         <th>Repository</th>
         <th>Workflow</th>
         <th>Branch</th>
-        <th>Event</th>
+        <th>Type</th>
         <th>Status</th>
         <th>Conclusion</th>
         <th>Created</th>
@@ -36,41 +81,96 @@
   </table>
 
   <script>
+    let currentFilter = 'all';
+
+    function setFilter(filter) {
+      currentFilter = filter;
+      loadRuns();
+    }
+
+    function classifyRun(run) {
+      const event = run.event || '';
+      const branch = run.headBranch || '';
+      const workflow = (run.workflowName || '').toLowerCase();
+
+      const isPR = event === 'pull_request';
+      const isRenovateBranch = branch.startsWith('renovate/');
+      const isDependabotBranch = branch.startsWith('dependabot/');
+      const isRenovateWorkflow = workflow.includes('renovate');
+
+      if (isRenovateWorkflow && !isPR) {
+        return { type: 'renovate-maintenance', label: '⚙ Renovate', css: 'type-renovate-maintenance' };
+      }
+
+      if (isPR && isRenovateBranch) {
+        return { type: 'renovate-pr', label: '🟣 Renovate PR', css: 'type-renovate-pr' };
+      }
+
+      if (isPR && isDependabotBranch) {
+        return { type: 'dependabot-pr', label: '🟠 Dependabot PR', css: 'type-dependabot-pr' };
+      }
+
+      if (isPR) {
+        return { type: 'human-pr', label: '👤 PR', css: 'type-human-pr' };
+      }
+
+      if (event === 'push' && branch === 'main') {
+        return { type: 'main-push', label: '🚀 Main', css: 'type-main' };
+      }
+
+      if (event === 'schedule') {
+        return { type: 'scheduled', label: '⏰ Scheduled', css: 'type-scheduled' };
+      }
+
+      if (event === 'workflow_dispatch') {
+        return { type: 'manual', label: '▶ Manual', css: 'type-manual' };
+      }
+
+      return { type: 'other', label: event, css: 'type-other' };
+    }
+
     async function loadRuns() {
       try {
         const resp = await fetch('runs.json?' + Date.now());
         const data = await resp.json();
         const tbody = document.querySelector('#runsTable tbody');
         tbody.innerHTML = '';
-        data.forEach(run => {
+
+        const filteredData = data.filter(run => {
+          const classification = classifyRun(run);
+
+          if (currentFilter === 'no-bots') {
+            return !classification.type.includes('renovate')
+                && !classification.type.includes('dependabot');
+          }
+
+          if (currentFilter === 'only-pr') {
+            return run.event === 'pull_request';
+          }
+
+          if (currentFilter === 'failures') {
+            return run.conclusion === 'failure';
+          }
+
+          return true;
+        });
+
+        filteredData.forEach(run => {
           const tr = document.createElement('tr');
 
-          // Status coloring
           tr.className =
             run.conclusion === 'success' ? 'success' :
             run.conclusion === 'failure' ? 'failure' :
             'neutral';
 
-          const isPR = run.event === 'pull_request';
-          const isRenovate = isPR && run.headBranch?.startsWith('renovate/');
-          const isDependabot = isPR && run.headBranch?.startsWith('dependabot/');
-          const isHumanPR = isPR && !isRenovate && !isDependabot;
-
-          if (isHumanPR) tr.classList.add('pr-human');
-          if (isRenovate) tr.classList.add('pr-renovate');
-          if (isDependabot) tr.classList.add('pr-dependabot');
-
-          const badge =
-            isHumanPR ? 'PR' :
-            isRenovate ? 'Renovate' :
-            isDependabot ? 'Dependabot' :
-            '';
+          const classification = classifyRun(run);
+          tr.classList.add(classification.css);
 
           tr.innerHTML = `
             <td>${run.repository}</td>
             <td>${run.workflowName}</td>
             <td>${run.headBranch || '-'}</td>
-            <td>${badge}</td>
+            <td>${classification.label}</td>
             <td>${run.status}</td>
             <td>${run.conclusion || '-'}</td>
             <td>${new Date(run.createdAt).toLocaleString()}</td>
@@ -79,6 +179,7 @@
 
           tbody.appendChild(tr);
         });
+
       } catch (e) {
         console.error('Failed to load runs.json', e);
       }
