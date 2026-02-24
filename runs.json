@@ -1,6 +1,15 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-02-24T08:01:28Z",
+    "databaseId": 22341871171,
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22341871171",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-02-24T05:44:25Z",
     "databaseId": 22338335171,
     "status": "completed",
@@ -232,15 +241,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/22298468413",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-23T08:33:53Z",
-    "databaseId": 22298455494,
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22298455494",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
