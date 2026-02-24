@@ -1,6 +1,15 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-02-24T05:44:25Z",
+    "databaseId": 22338335171,
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22338335171",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-02-24T05:15:32Z",
     "databaseId": 22337680947,
     "status": "completed",
@@ -322,15 +331,6 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/22298410392",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-23T05:50:22Z",
-    "databaseId": 22294521693,
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22294521693",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
