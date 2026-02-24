@@ -7,9 +7,14 @@
     body { font-family: sans-serif; padding: 20px; }
     table { border-collapse: collapse; width: 100%; }
     th, td { border: 1px solid #ccc; padding: 6px; text-align: left; }
+
     .success { background-color: #c8f7c5; }
     .failure { background-color: #f7c5c5; }
     .neutral { background-color: #f0f0f0; }
+
+    .pr-human { border-left: 6px solid #4a90e2; }
+    .pr-renovate { border-left: 6px solid #8e44ad; }
+    .pr-dependabot { border-left: 6px solid #f39c12; }
   </style>
 </head>
 <body>
@@ -19,6 +24,8 @@
       <tr>
         <th>Repository</th>
         <th>Workflow</th>
+        <th>Branch</th>
+        <th>Event</th>
         <th>Status</th>
         <th>Conclusion</th>
         <th>Created</th>
@@ -37,16 +44,39 @@
         tbody.innerHTML = '';
         data.forEach(run => {
           const tr = document.createElement('tr');
-          tr.className = run.conclusion === 'success' ? 'success' :
-                         run.conclusion === 'failure' ? 'failure' : 'neutral';
+
+          // Status coloring
+          tr.className =
+            run.conclusion === 'success' ? 'success' :
+            run.conclusion === 'failure' ? 'failure' :
+            'neutral';
+
+          const isPR = run.event === 'pull_request';
+          const isRenovate = isPR && run.headBranch?.startsWith('renovate/');
+          const isDependabot = isPR && run.headBranch?.startsWith('dependabot/');
+          const isHumanPR = isPR && !isRenovate && !isDependabot;
+
+          if (isHumanPR) tr.classList.add('pr-human');
+          if (isRenovate) tr.classList.add('pr-renovate');
+          if (isDependabot) tr.classList.add('pr-dependabot');
+
+          const badge =
+            isHumanPR ? 'PR' :
+            isRenovate ? 'Renovate' :
+            isDependabot ? 'Dependabot' :
+            '';
+
           tr.innerHTML = `
             <td>${run.repository}</td>
             <td>${run.workflowName}</td>
+            <td>${run.headBranch || '-'}</td>
+            <td>${badge}</td>
             <td>${run.status}</td>
             <td>${run.conclusion || '-'}</td>
             <td>${new Date(run.createdAt).toLocaleString()}</td>
             <td><a href="${run.url}" target="_blank">link</a></td>
           `;
+
           tbody.appendChild(tr);
         });
       } catch (e) {

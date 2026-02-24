@@ -25,7 +25,7 @@ jobs:
               continue
             fi
 
-            gh run list -R "$repo" --limit 5 --json databaseId,workflowName,status,conclusion,createdAt,url | \
+            gh run list -R "$repo" --limit 5 --json databaseId,workflowName,status,conclusion,createdAt,url,headBranch,event | \
             jq --arg repo "$repo" '.[] + {repository: $repo}'
           done | jq -s 'sort_by(.createdAt) | reverse | .[:100]' > runs.json
       - name: Commit & Push
