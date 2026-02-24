@@ -17,7 +17,7 @@
     .type-human-pr { border-left: 6px solid #4a90e2; }
     .type-renovate-pr { border-left: 6px solid #8e44ad; opacity: 0.95; }
     .type-dependabot-pr { border-left: 6px solid #f39c12; opacity: 0.95; }
-    .type-renovate-maintenance { border-left: 6px solid #2c3e50; font-style: italic; }
+    .type-dependabot-renovate-maintenance { border-left: 6px solid #2c3e50; font-style: italic; }
     .type-main { border-left: 6px solid #27ae60; }
     .type-scheduled { border-left: 6px solid #7f8c8d; }
     .type-manual { border-left: 6px solid #16a085; }
@@ -52,7 +52,7 @@
     <span class="legend-item type-human-pr">👤 PR</span>
     <span class="legend-item type-renovate-pr">🟣 Renovate PR</span>
     <span class="legend-item type-dependabot-pr">🟠 Dependabot PR</span>
-    <span class="legend-item type-renovate-maintenance">⚙ Renovate</span>
+    <span class="legend-item type-dependabot-renovate-maintenance">⚙ Dependabot/Renovate</span>
     <span class="legend-item type-main">🚀 Main</span>
   </div>
 
@@ -96,10 +96,11 @@
       const isPR = event === 'pull_request';
       const isRenovateBranch = branch.startsWith('renovate/');
       const isDependabotBranch = branch.startsWith('dependabot/');
+      const isDependabotWorkflow = workflow.includes('dependabot');
       const isRenovateWorkflow = workflow.includes('renovate');
 
-      if (isRenovateWorkflow && !isPR) {
-        return { type: 'renovate-maintenance', label: '⚙ Renovate', css: 'type-renovate-maintenance' };
+      if ((isRenovateWorkflow || isDependabotWorkflow) && !isPR) {
+        return { type: 'dependabot-renovate-maintenance', label: '⚙ Dependabot/Renovate', css: 'type-dependabot-renovate-maintenance' };
       }
 
       if (isPR && isRenovateBranch) {
