@@ -17,7 +17,7 @@
     .type-human-pr { border-left: 6px solid #4a90e2; }
     .type-renovate-pr { border-left: 6px solid #8e44ad; opacity: 0.95; }
     .type-dependabot-pr { border-left: 6px solid #f39c12; opacity: 0.95; }
-    .type-dependabot-renovate-maintenance { border-left: 6px solid #2c3e50; font-style: italic; }
+    .type-bot-maintenance { border-left: 6px solid #34495e; font-style: italic; opacity: 0.9; }
     .type-main { border-left: 6px solid #27ae60; }
     .type-scheduled { border-left: 6px solid #7f8c8d; }
     .type-manual { border-left: 6px solid #16a085; }
@@ -52,7 +52,7 @@
     <span class="legend-item type-human-pr">👤 PR</span>
     <span class="legend-item type-renovate-pr">🟣 Renovate PR</span>
     <span class="legend-item type-dependabot-pr">🟠 Dependabot PR</span>
-    <span class="legend-item type-dependabot-renovate-maintenance">⚙ Dependabot/Renovate</span>
+    <span class="legend-item type-bot-maintenance">⚙ Bot maintenance runs</span>
     <span class="legend-item type-main">🚀 Main</span>
   </div>
 
@@ -94,40 +94,83 @@
       const workflow = (run.workflowName || '').toLowerCase();
 
       const isPR = event === 'pull_request';
+
+      // Bot PR branches
       const isRenovateBranch = branch.startsWith('renovate/');
       const isDependabotBranch = branch.startsWith('dependabot/');
-      const isDependabotWorkflow = workflow.includes('dependabot');
-      const isRenovateWorkflow = workflow.includes('renovate');
 
-      if ((isRenovateWorkflow || isDependabotWorkflow) && !isPR) {
-        return { type: 'dependabot-renovate-maintenance', label: '⚙ Dependabot/Renovate', css: 'type-dependabot-renovate-maintenance' };
+      // Maintenance bot workflows
+      const botWorkflows = ['renovate', 'dependabot', 'scorecard', 'supply-chain'];
+      const isBotWorkflow = botWorkflows.some(bot => workflow.includes(bot));
+
+      // Maintenance runs (scheduled/manual bot runs, not PRs)
+      if (isBotWorkflow && !isPR) {
+        return {
+          type: 'bot-maintenance',
+          label: '⚙ Bot',
+          css: 'type-bot-maintenance'
+        };
       }
 
+      // Bot PRs
       if (isPR && isRenovateBranch) {
-        return { type: 'renovate-pr', label: '🟣 Renovate PR', css: 'type-renovate-pr' };
+        return {
+          type: 'renovate-pr',
+          label: '🟣 Renovate PR',
+          css: 'type-renovate-pr'
+        };
       }
 
       if (isPR && isDependabotBranch) {
-        return { type: 'dependabot-pr', label: '🟠 Dependabot PR', css: 'type-dependabot-pr' };
+        return {
+          type: 'dependabot-pr',
+          label: '🟠 Dependabot PR',
+          css: 'type-dependabot-pr'
+        };
       }
 
+      // Human PRs
       if (isPR) {
-        return { type: 'human-pr', label: '👤 PR', css: 'type-human-pr' };
+        return {
+          type: 'human-pr',
+          label: '👤 PR',
+          css: 'type-human-pr'
+        };
       }
 
+      // Main push
       if (event === 'push' && branch === 'main') {
-        return { type: 'main-push', label: '🚀 Main', css: 'type-main' };
+        return {
+          type: 'main-push',
+          label: '🚀 Main',
+          css: 'type-main'
+        };
       }
 
+      // Scheduled workflow (other)
       if (event === 'schedule') {
-        return { type: 'scheduled', label: '⏰ Scheduled', css: 'type-scheduled' };
+        return {
+          type: 'scheduled',
+          label: '⏰ Scheduled',
+          css: 'type-scheduled'
+        };
       }
 
+      // Manual dispatch
       if (event === 'workflow_dispatch') {
-        return { type: 'manual', label: '▶ Manual', css: 'type-manual' };
+        return {
+          type: 'manual',
+          label: '▶ Manual',
+          css: 'type-manual'
+        };
       }
 
-      return { type: 'other', label: event, css: 'type-other' };
+      // Fallback
+      return {
+        type: 'other',
+        label: event,
+        css: 'type-other'
+      };
     }
 
     async function loadRuns() {
