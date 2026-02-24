@@ -133,10 +133,7 @@
         const filteredData = data.filter(run => {
           const classification = classifyRun(run);
 
-          if (currentFilter === 'no-bots') {
-            return !classification.type.startsWith('bot');
-          }
-
+          if (currentFilter === 'no-bots') return !classification.type.startsWith('bot');
           if (currentFilter === 'only-pr') return run.event === 'pull_request';
           if (currentFilter === 'failures') return run.conclusion === 'failure';
 
