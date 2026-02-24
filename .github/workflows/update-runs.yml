@@ -19,32 +19,33 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+
           OWNER="${GITHUB_REPOSITORY%%/*}"
           DASHBOARD_REPO="$GITHUB_REPOSITORY"
           CUTOFF=$(date -u -d '72 hours ago' +"%Y-%m-%dT%H:%M:%SZ")
-          
           ALL_RUNS="[]"
-          
-          gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | while read repo; do
+
+          # Use process substitution to avoid subshell
+          while read repo; do
             # Skip the dashboard repo itself
             if [ "$repo" = "$DASHBOARD_REPO" ]; then
               continue
             fi
-          
+
             # Get runs from last 72h
-            RUNS=$(gh run list -R "$repo" --limit 100 --json databaseId,workflowName,status,conclusion,createdAt,url --created "$CUTOFF")
-          
-            # Only proceed if RUNS is not empty
+            RUNS=$(gh run list -R "$repo" --limit 100 \
+              --json databaseId,workflowName,status,conclusion,createdAt,url \
+              --created "$CUTOFF")
+
             if [ "$RUNS" != "[]" ]; then
-              # Add repository field to each run
               FILTERED=$(echo "$RUNS" | jq --arg repo "$repo" '.[] + {repository: $repo}')
-              # Merge into ALL_RUNS
               ALL_RUNS=$(echo "$ALL_RUNS" | jq --argjson arr "[$FILTERED]" '. + $arr')
             fi
-          done
-          
+          done < <(gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner')
+
           # Sort by createdAt descending
           echo "$ALL_RUNS" | jq 'sort_by(.createdAt) | reverse' > runs.json
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
