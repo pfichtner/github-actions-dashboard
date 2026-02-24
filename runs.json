@@ -506,17 +506,6 @@
     "repository": "pfichtner/esphome-configs"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-02-22T10:37:53Z",
-    "databaseId": 22275511119,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/22275511119",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-02-22T09:42:24Z",
     "databaseId": 22274704402,
