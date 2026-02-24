@@ -2,7 +2,7 @@
 name: Update Runs JSON
 on:
   schedule:
-    - cron: "0 */4 * * *"  # every 4 hours
+    - cron: "5 * * * *"  # every hour
   workflow_dispatch:
 
 permissions:
@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update:
-    runs-on: ubuntu-slim
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Setup GitHub CLI
@@ -21,28 +21,15 @@ jobs:
         run: |
           OWNER="${GITHUB_REPOSITORY%%/*}"
           DASHBOARD_REPO="$GITHUB_REPOSITORY"
-          CUTOFF=$(date -u -d '72 hours ago' +"%Y-%m-%dT%H:%M:%SZ")
-          
-          ALL_RUNS="[]"
-          
+          gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | \
           while read repo; do
             if [ "$repo" = "$DASHBOARD_REPO" ]; then
               continue
             fi
-          
-            # Fetch last 100 runs (per repo)
-            RUNS=$(gh run list -R "$repo" --limit 100 --json databaseId,workflowName,status,conclusion,createdAt,url)
-          
-            # Filter runs in jq based on createdAt
-            FILTERED=$(echo "$RUNS" | jq --arg repo "$repo" --arg cutoff "$CUTOFF" '.[] | select(.createdAt >= $cutoff) + {repository: $repo}')
-          
-            if [ -n "$FILTERED" ]; then
-              ALL_RUNS=$(echo "$ALL_RUNS" | jq --argjson arr "[$FILTERED]" '. + $arr')
-            fi
-          done < <(gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner')
-          
-          echo "$ALL_RUNS" | jq 'sort_by(.createdAt) | reverse' > runs.json
 
+            gh run list -R "$repo" --limit 5 --json databaseId,workflowName,status,conclusion,createdAt,url | \
+            jq --arg repo "$repo" '.[] + {repository: $repo}'
+          done | jq -s 'sort_by(.createdAt) | reverse | .[:100]' > runs.json
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
