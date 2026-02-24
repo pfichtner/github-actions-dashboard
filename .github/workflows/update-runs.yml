@@ -31,11 +31,19 @@ jobs:
               continue
             fi
           
+            # Get runs from last 72h
             RUNS=$(gh run list -R "$repo" --limit 100 --json databaseId,workflowName,status,conclusion,createdAt,url --created "$CUTOFF")
-            FILTERED=$(echo "$RUNS" | jq --arg repo "$repo" '.[] + {repository: $repo}')
-            ALL_RUNS=$(echo "$ALL_RUNS" | jq --argjson new "$FILTERED" '. + [$new[]]')
+          
+            # Only proceed if RUNS is not empty
+            if [ "$RUNS" != "[]" ]; then
+              # Add repository field to each run
+              FILTERED=$(echo "$RUNS" | jq --arg repo "$repo" '.[] + {repository: $repo}')
+              # Merge into ALL_RUNS
+              ALL_RUNS=$(echo "$ALL_RUNS" | jq --argjson arr "[$FILTERED]" '. + $arr')
+            fi
           done
           
+          # Sort by createdAt descending
           echo "$ALL_RUNS" | jq 'sort_by(.createdAt) | reverse' > runs.json
       - name: Commit & Push
         run: |
