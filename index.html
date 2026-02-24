@@ -15,8 +15,7 @@
 
     /* Type styling */
     .type-human-pr { border-left: 6px solid #4a90e2; }
-    .type-renovate-pr { border-left: 6px solid #8e44ad; opacity: 0.95; }
-    .type-dependabot-pr { border-left: 6px solid #f39c12; opacity: 0.95; }
+    .type-bot-pr { border-left: 6px solid #9b59b6; opacity: 0.95; }
     .type-bot-maintenance { border-left: 6px solid #34495e; font-style: italic; opacity: 0.9; }
     .type-main { border-left: 6px solid #27ae60; }
     .type-scheduled { border-left: 6px solid #7f8c8d; }
@@ -50,8 +49,7 @@
   <div id="legend">
     <strong>Legend:</strong>
     <span class="legend-item type-human-pr">👤 PR</span>
-    <span class="legend-item type-renovate-pr">🟣 Renovate PR</span>
-    <span class="legend-item type-dependabot-pr">🟠 Dependabot PR</span>
+    <span class="legend-item type-bot-pr">🤖 Bot PR</span>
     <span class="legend-item type-bot-maintenance">⚙ Bot maintenance runs</span>
     <span class="legend-item type-main">🚀 Main</span>
   </div>
@@ -107,8 +105,7 @@
       }
 
       // Bot PRs
-      if (isPR && isRenovateBranch) return { type: 'renovate-pr', label: '🟣 Renovate PR', css: 'type-renovate-pr' };
-      if (isPR && isDependabotBranch) return { type: 'dependabot-pr', label: '🟠 Dependabot PR', css: 'type-dependabot-pr' };
+      if (isPR && (isRenovateBranch || isDependabotBranch)) return { type: 'bot-pr', label: '🤖 Bot PR', css: 'type-bot-pr' };
 
       // Human PR
       if (isPR) return { type: 'human-pr', label: '👤 PR', css: 'type-human-pr' };
@@ -137,9 +134,7 @@
           const classification = classifyRun(run);
 
           if (currentFilter === 'no-bots') {
-            // Reuse classifyRun() to detect all bot types
-            const botTypes = ['bot-maintenance', 'renovate-pr', 'dependabot-pr'];
-            return !botTypes.includes(classification.type);
+            return !classification.type.startsWith('bot');
           }
 
           if (currentFilter === 'only-pr') return run.event === 'pull_request';
