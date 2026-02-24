@@ -96,7 +96,14 @@
       const isDependabotBranch = branch.startsWith('dependabot/');
 
       // Bot workflows
-      const botWorkflows = ['renovate', 'dependabot', 'scorecard', 'supply-chain'];
+      const botWorkflows = [
+        'renovate',
+        'dependabot',
+        'scorecard',
+        'supply-chain',
+        'codeql',
+        'code scanning'
+      ];
       const isBotWorkflow = botWorkflows.some(bot => workflow.includes(bot));
 
       // Maintenance runs (scheduled/manual bot runs)
