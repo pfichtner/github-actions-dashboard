@@ -36,6 +36,27 @@ jobs:
             | reverse
             | .[:100]
           ' > runs.json
+
+      - name: Generate open-prs.json
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OWNER="${GITHUB_REPOSITORY%%/*}"
+          DASHBOARD_REPO="$GITHUB_REPOSITORY"
+
+          gh repo list $OWNER --limit 200 --json nameWithOwner -q '.[].nameWithOwner' | \
+          while read repo; do
+            if [ "$repo" = "$DASHBOARD_REPO" ]; then
+              continue
+            fi
+
+            gh pr list -R "$repo" --state open --limit 100 --json number,title,author,url,createdAt,headRefName,baseRefName | \
+            jq --arg repo "$repo" '.[] + {repository: $repo}'
+          done | jq -s '
+            sort_by(.createdAt)
+            | reverse
+          ' > open-prs.json
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
