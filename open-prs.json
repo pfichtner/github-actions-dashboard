@@ -1,0 +1,196 @@
+[
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-16T04:05:11Z",
+    "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
+    "number": 462,
+    "title": "Bump org.junit:junit-bom from 5.13.4 to 6.0.3",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/462",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-05T21:07:23Z",
+    "headRefName": "pr-10",
+    "number": 10,
+    "title": "second box ticked",
+    "url": "https://github.com/pfichtner/GildedRose-Refactoring-Kata/pull/10",
+    "repository": "pfichtner/GildedRose-Refactoring-Kata"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-05T21:03:11Z",
+    "headRefName": "pr-9",
+    "number": 9,
+    "title": "second box ticked",
+    "url": "https://github.com/pfichtner/GildedRose-Refactoring-Kata/pull/9",
+    "repository": "pfichtner/GildedRose-Refactoring-Kata"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-05T20:56:12Z",
+    "headRefName": "pr-8",
+    "number": 8,
+    "title": "only one box checked",
+    "url": "https://github.com/pfichtner/GildedRose-Refactoring-Kata/pull/8",
+    "repository": "pfichtner/GildedRose-Refactoring-Kata"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-05T20:46:58Z",
+    "headRefName": "pr-7",
+    "number": 7,
+    "title": "initial version",
+    "url": "https://github.com/pfichtner/GildedRose-Refactoring-Kata/pull/7",
+    "repository": "pfichtner/GildedRose-Refactoring-Kata"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-05T20:41:48Z",
+    "headRefName": "pr-6",
+    "number": 6,
+    "title": "initial version",
+    "url": "https://github.com/pfichtner/GildedRose-Refactoring-Kata/pull/6",
+    "repository": "pfichtner/GildedRose-Refactoring-Kata"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-02-05T20:33:15Z",
+    "headRefName": "pr-5",
+    "number": 5,
+    "title": "Pr 5",
+    "url": "https://github.com/pfichtner/GildedRose-Refactoring-Kata/pull/5",
+    "repository": "pfichtner/GildedRose-Refactoring-Kata"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "master",
+    "createdAt": "2026-01-30T04:07:59Z",
+    "headRefName": "dependabot/github_actions/actions/cache-5.0.3",
+    "number": 40,
+    "title": "Bump actions/cache from 4.3.0 to 5.0.3",
+    "url": "https://github.com/pfichtner/heapwatch/pull/40",
+    "repository": "pfichtner/heapwatch"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "master",
+    "createdAt": "2025-11-21T04:18:08Z",
+    "headRefName": "dependabot/github_actions/actions/checkout-6",
+    "number": 36,
+    "title": "Bump actions/checkout from 5 to 6",
+    "url": "https://github.com/pfichtner/heapwatch/pull/36",
+    "repository": "pfichtner/heapwatch"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2025-04-22T04:25:03Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.12.0",
+    "number": 170,
+    "title": "Bump step-security/harden-runner from 2.10.4 to 2.12.0",
+    "url": "https://github.com/pfichtner/SipDoorbell/pull/170",
+    "repository": "pfichtner/SipDoorbell"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2025-04-14T04:59:06Z",
+    "headRefName": "dependabot/github_actions/actions/setup-node-4.4.0",
+    "number": 169,
+    "title": "Bump actions/setup-node from 4.1.0 to 4.4.0",
+    "url": "https://github.com/pfichtner/SipDoorbell/pull/169",
+    "repository": "pfichtner/SipDoorbell"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2025-04-08T04:42:11Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-3.28.15",
+    "number": 168,
+    "title": "Bump github/codeql-action from 3.28.1 to 3.28.15",
+    "url": "https://github.com/pfichtner/SipDoorbell/pull/168",
+    "repository": "pfichtner/SipDoorbell"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2025-03-20T04:50:25Z",
+    "headRefName": "dependabot/github_actions/actions/cache-4.2.3",
+    "number": 164,
+    "title": "Bump actions/cache from 4.2.0 to 4.2.3",
+    "url": "https://github.com/pfichtner/SipDoorbell/pull/164",
+    "repository": "pfichtner/SipDoorbell"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2025-02-24T04:22:28Z",
+    "headRefName": "dependabot/github_actions/ncipollo/release-action-1.16.0",
+    "number": 159,
+    "title": "Bump ncipollo/release-action from 1.15.0 to 1.16.0",
+    "url": "https://github.com/pfichtner/SipDoorbell/pull/159",
+    "repository": "pfichtner/SipDoorbell"
+  }
+]
