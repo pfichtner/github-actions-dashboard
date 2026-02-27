@@ -1,0 +1,53 @@
+<h1>Open Pull Requests</h1>
+
+<table id="prsTable">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>PR #</th>
+      <th>Title</th>
+      <th>Author</th>
+      <th>Branch</th>
+      <th>Base</th>
+      <th>Created</th>
+      <th>URL</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+<script>
+  async function loadPRs() {
+    try {
+      const resp = await fetch('open-prs.json?' + Date.now());
+      const data = await resp.json();
+      const tbody = document.querySelector('#prsTable tbody');
+      tbody.innerHTML = '';
+
+      // Sort by creation date descending
+      data.sort((a, b) => new Date(b.createdAt) - new Date(a.createdAt));
+
+      data.forEach(pr => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${pr.repository}</td>
+          <td>#${pr.number}</td>
+          <td>${pr.title}</td>
+          <td>${pr.author?.login || '-'}</td>
+          <td>${pr.headRefName}</td>
+          <td>${pr.baseRefName}</td>
+          <td>${new Date(pr.createdAt).toLocaleString()}</td>
+          <td><a href="${pr.url}" target="_blank">link</a></td>
+        `;
+        tbody.appendChild(tr);
+      });
+
+    } catch (e) {
+      console.error('Failed to load open-prs.json', e);
+    }
+  }
+
+  loadPRs();
+  setInterval(loadPRs, 300000); // refresh every 5 minutes
+</script>
+
