@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-02-28T03:46:13Z",
+    "databaseId": 22512671089,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22512671089",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-02-27T09:21:47Z",
     "databaseId": 22480372302,
     "event": "push",
@@ -493,16 +504,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/22395801370",
     "workflowName": "Update Vagrant Box",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-25T05:17:45Z",
-    "databaseId": 22383360463,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22383360463",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
