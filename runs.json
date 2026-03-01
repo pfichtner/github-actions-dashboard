@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-01T05:12:49Z",
+    "databaseId": 22536572483,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22536572483",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-01T04:54:35Z",
+    "databaseId": 22536295096,
+    "event": "dynamic",
+    "headBranch": "gh-pages",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/22536295096",
+    "workflowName": "pages-build-deployment",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-01T04:49:03Z",
+    "databaseId": 22536212309,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/22536212309",
+    "workflowName": "Mutation Testing",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-01T02:44:58Z",
     "databaseId": 22534386072,
     "event": "schedule",
@@ -287,28 +320,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-02-27T04:45:09Z",
-    "databaseId": 22473151261,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.approvaltests-approvaltests-29.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/22473151261",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-27T04:45:08Z",
-    "databaseId": 22473150920,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/actions/upload-artifact-7",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/22473150920",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-02-27T04:06:34Z",
     "databaseId": 22472308174,
     "event": "pull_request",
@@ -469,28 +480,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/22471424685",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-26T05:14:36Z",
-    "databaseId": 22428888746,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22428888746",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-26T03:24:46Z",
-    "databaseId": 22426481607,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22426481607",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
   }
