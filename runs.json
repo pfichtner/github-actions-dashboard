@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-02T05:38:52Z",
+    "databaseId": 22562983246,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22562983246",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-02T05:09:08Z",
+    "databaseId": 22562308992,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22562308992",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-02T04:48:16Z",
     "databaseId": 22561859891,
     "event": "pull_request",
@@ -172,17 +194,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/22560920349",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-02T04:05:21Z",
-    "databaseId": 22560920239,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22560920239",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/virtualavr"
   },
@@ -371,17 +382,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22513621510",
     "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-28T03:46:13Z",
-    "databaseId": 22512671089,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22512671089",
-    "workflowName": "Cleanup untagged GHCR images",
     "repository": "pfichtner/pfichtner-freetz"
   },
   {
