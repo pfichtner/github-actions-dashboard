@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-02T02:03:56Z",
+    "databaseId": 22558432343,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22558432343",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-02T01:25:45Z",
+    "databaseId": 22557678848,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/22557678848",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-01T14:47:11Z",
     "databaseId": 22545734284,
     "event": "schedule",
@@ -221,17 +243,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-02-27T09:20:22Z",
-    "databaseId": 22480327054,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22480327054",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-02-27T09:20:14Z",
     "databaseId": 22480322127,
     "event": "push",
@@ -382,17 +393,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/22472296841",
     "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-27T04:06:01Z",
-    "databaseId": 22472295851,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/actions/upload-artifact-7",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/22472295851",
-    "workflowName": "Go",
     "repository": "pfichtner/mqtt-machine-state"
   },
   {
