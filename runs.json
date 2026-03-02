@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-02T07:45:15Z",
+    "databaseId": 22566291833,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22566291833",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-03-02T07:45:00Z",
+    "databaseId": 22566284387,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/22566284387",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-02T07:44:26Z",
+    "databaseId": 22566269577,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22566269577",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-02T07:44:23Z",
+    "databaseId": 22566267942,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22566267942",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-02T07:43:05Z",
+    "databaseId": 22566230720,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/22566230720",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-02T05:38:52Z",
     "databaseId": 22562983246,
     "event": "schedule",
@@ -199,17 +254,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-03-02T04:05:21Z",
-    "databaseId": 22560920279,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22560920279",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-03-02T04:04:05Z",
     "databaseId": 22560892751,
     "event": "dynamic",
@@ -277,17 +321,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-03-02T03:27:55Z",
-    "databaseId": 22560152062,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22560152062",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-02T03:27:55Z",
     "databaseId": 22560152074,
     "event": "dynamic",
     "headBranch": "main",
@@ -342,17 +375,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-03-01T04:54:35Z",
-    "databaseId": 22536295096,
-    "event": "dynamic",
-    "headBranch": "gh-pages",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/22536295096",
-    "workflowName": "pages-build-deployment",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-03-01T02:44:58Z",
     "databaseId": 22534386072,
     "event": "schedule",
@@ -383,17 +405,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/22513621510",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-27T09:21:47Z",
-    "databaseId": 22480372302,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/22480372302",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/mockapproval"
   },
   {
     "conclusion": "success",
@@ -482,16 +493,5 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/22480322134",
     "workflowName": "Scorecard supply-chain security",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-02-27T09:19:22Z",
-    "databaseId": 22480293338,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22480293338",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   }
 ]
