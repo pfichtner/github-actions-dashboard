@@ -5,6 +5,45 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-03-03T04:07:06Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.32.5",
+    "number": 219,
+    "title": "Bump github/codeql-action from 4.32.4 to 4.32.5",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/219",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-03T04:04:48Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.32.5",
+    "number": 470,
+    "title": "Bump github/codeql-action from 4.32.4 to 4.32.5",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/470",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-03T04:04:02Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.32.5",
+    "number": 509,
+    "title": "Bump github/codeql-action from 4.32.4 to 4.32.5",
+    "url": "https://github.com/pfichtner/testtypes/pull/509",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-02-16T04:05:11Z",
     "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
     "number": 462,
