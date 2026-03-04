@@ -5,19 +5,6 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-03-04T04:04:23Z",
-    "headRefName": "dependabot/github_actions/actions/dependency-review-action-4.9.0",
-    "number": 471,
-    "title": "Bump actions/dependency-review-action from 4.8.3 to 4.9.0",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/471",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-02-16T04:05:11Z",
     "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
     "number": 462,

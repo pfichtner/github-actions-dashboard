@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-04T07:42:54Z",
+    "databaseId": 22659866291,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22659866291",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-04T07:42:54Z",
+    "databaseId": 22659866303,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22659866303",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-04T07:42:54Z",
+    "databaseId": 22659866310,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22659866310",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-04T05:31:28Z",
     "databaseId": 22656536005,
     "event": "schedule",
@@ -167,45 +200,12 @@
   {
     "conclusion": "success",
     "createdAt": "2026-03-04T04:04:26Z",
-    "databaseId": 22654536943,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/actions/dependency-review-action-4.9.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22654536943",
-    "workflowName": "Dependency Review",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-04T04:04:26Z",
     "databaseId": 22654536958,
     "event": "pull_request",
     "headBranch": "dependabot/github_actions/actions/dependency-review-action-4.9.0",
     "status": "completed",
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22654536958",
     "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-04T04:03:49Z",
-    "databaseId": 22654522415,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22654522415",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-04T04:03:48Z",
-    "databaseId": 22654522315,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/22654522315",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/log4shell-hunter"
   },
   {
