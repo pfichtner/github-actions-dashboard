@@ -2,6 +2,19 @@
   {
     "author": {
       "is_bot": true,
+      "login": "app/github-actions"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-04T11:49:59Z",
+    "headRefName": "update-vagrant-box-3.23",
+    "number": 5,
+    "title": "Update Vagrant box to 3.23",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/pull/5",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "author": {
+      "is_bot": true,
       "login": "app/dependabot"
     },
     "baseRefName": "main",
