@@ -5,6 +5,45 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-03-05T04:05:14Z",
+    "headRefName": "dependabot/github_actions/docker/login-action-4",
+    "number": 76,
+    "title": "Bump docker/login-action from 3 to 4",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/76",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-05T04:04:54Z",
+    "headRefName": "dependabot/github_actions/docker/setup-qemu-action-4",
+    "number": 323,
+    "title": "Bump docker/setup-qemu-action from 3 to 4",
+    "url": "https://github.com/pfichtner/virtualavr/pull/323",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-05T04:04:49Z",
+    "headRefName": "dependabot/github_actions/docker/login-action-4.0.0",
+    "number": 322,
+    "title": "Bump docker/login-action from 3.7.0 to 4.0.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/322",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-02-16T04:05:11Z",
     "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
     "number": 462,
