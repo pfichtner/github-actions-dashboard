@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-05T06:52:46Z",
+    "databaseId": 22706096877,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22706096877",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-05T06:52:32Z",
+    "databaseId": 22706090025,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22706090025",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-05T05:35:20Z",
     "databaseId": 22703977720,
     "event": "schedule",
@@ -128,28 +150,6 @@
     "headBranch": "dependabot/github_actions/docker/setup-qemu-action-4",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/22701735300",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-05T04:04:53Z",
-    "databaseId": 22701734020,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/docker/login-action-4.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22701734020",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-05T04:04:50Z",
-    "databaseId": 22701733021,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/docker/login-action-4.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22701733021",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
