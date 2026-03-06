@@ -5,6 +5,162 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-03-06T04:06:53Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.15.1",
+    "number": 221,
+    "title": "Bump step-security/harden-runner from 2.15.0 to 2.15.1",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/221",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:06:48Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.32.6",
+    "number": 220,
+    "title": "Bump github/codeql-action from 4.32.5 to 4.32.6",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/220",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:06:00Z",
+    "headRefName": "dependabot/github_actions/docker/build-push-action-7",
+    "number": 78,
+    "title": "Bump docker/build-push-action from 6 to 7",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/78",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:05:56Z",
+    "headRefName": "dependabot/github_actions/docker/metadata-action-6",
+    "number": 77,
+    "title": "Bump docker/metadata-action from 5 to 6",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/77",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:05:33Z",
+    "headRefName": "dependabot/github_actions/docker/build-push-action-7.0.0",
+    "number": 326,
+    "title": "Bump docker/build-push-action from 6.19.2 to 7.0.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/326",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:05:27Z",
+    "headRefName": "dependabot/github_actions/docker/metadata-action-6.0.0",
+    "number": 325,
+    "title": "Bump docker/metadata-action from 5.10.0 to 6.0.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/325",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:05:22Z",
+    "headRefName": "dependabot/github_actions/docker/setup-buildx-action-4",
+    "number": 324,
+    "title": "Bump docker/setup-buildx-action from 3 to 4",
+    "url": "https://github.com/pfichtner/virtualavr/pull/324",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:04:41Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.32.6",
+    "number": 473,
+    "title": "Bump github/codeql-action from 4.32.5 to 4.32.6",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/473",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:04:21Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.15.1",
+    "number": 472,
+    "title": "Bump step-security/harden-runner from 2.15.0 to 2.15.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/472",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T04:03:54Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.32.6",
+    "number": 510,
+    "title": "Bump github/codeql-action from 4.32.5 to 4.32.6",
+    "url": "https://github.com/pfichtner/testtypes/pull/510",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T03:25:54Z",
+    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.6.2",
+    "number": 57,
+    "title": "Bump org.apache.maven.plugins:maven-shade-plugin from 3.6.1 to 3.6.2",
+    "url": "https://github.com/pfichtner/vaadoo/pull/57",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-06T03:25:34Z",
+    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-resources-plugin-3.5.0",
+    "number": 56,
+    "title": "Bump org.apache.maven.plugins:maven-resources-plugin from 3.4.0 to 3.5.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/56",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-02-16T04:05:11Z",
     "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
     "number": 462,
