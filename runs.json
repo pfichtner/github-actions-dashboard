@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-07T05:23:11Z",
+    "databaseId": 22792848461,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22792848461",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-07T04:52:51Z",
     "databaseId": 22792391902,
     "event": "schedule",
@@ -284,17 +295,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/22748583917",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-06T04:05:37Z",
-    "databaseId": 22748561707,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/docker/build-push-action-7.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22748561707",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
