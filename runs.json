@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-08T05:31:19Z",
+    "databaseId": 22814787810,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22814787810",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-08T05:03:45Z",
     "databaseId": 22814394040,
     "event": "schedule",
@@ -229,17 +240,6 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/22756149233",
     "workflowName": "CodeQL",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-06T05:33:57Z",
-    "databaseId": 22750629084,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22750629084",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
