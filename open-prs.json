@@ -5,32 +5,6 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-03-11T04:45:56Z",
-    "headRefName": "dependabot/maven/net.javacrumbs.json-unit-json-unit-assertj-5.1.1",
-    "number": 79,
-    "title": "Bump net.javacrumbs.json-unit:json-unit-assertj from 5.1.0 to 5.1.1",
-    "url": "https://github.com/pfichtner/pacto/pull/79",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-11T04:45:49Z",
-    "headRefName": "dependabot/maven/org.projectlombok-lombok-1.18.44",
-    "number": 78,
-    "title": "Bump org.projectlombok:lombok from 1.18.42 to 1.18.44",
-    "url": "https://github.com/pfichtner/pacto/pull/78",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-03-11T03:25:37Z",
     "headRefName": "dependabot/maven/org.projectlombok-lombok-1.18.44",
     "number": 58,

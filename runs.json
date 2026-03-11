@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-11T07:39:23Z",
+    "databaseId": 22941953522,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/22941953522",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-11T07:38:58Z",
+    "databaseId": 22941941762,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/22941941762",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-11T05:35:32Z",
+    "databaseId": 22938465699,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22938465699",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-11T05:05:00Z",
     "databaseId": 22937689779,
     "event": "schedule",
@@ -41,28 +74,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/pacto/actions/runs/22937209442",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-11T04:45:50Z",
-    "databaseId": 22937208359,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.projectlombok-lombok-1.18.44",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/22937208359",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-11T04:45:11Z",
-    "databaseId": 22937193106,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/22937193106",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
   },
   {
@@ -282,17 +293,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/22890321751",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-10T05:35:35Z",
-    "databaseId": 22888743919,
-    "event": "pull_request",
-    "headBranch": "renovate/jest-monorepo",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22888743919",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
