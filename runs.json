@@ -1,5 +1,38 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-03-12T18:50:41Z",
+    "databaseId": 23018545318,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/23018545318",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-12T18:45:15Z",
+    "databaseId": 23018331220,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/23018331220",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-12T18:45:15Z",
+    "databaseId": 23018331236,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/23018331236",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-03-12T07:14:19Z",
     "databaseId": 22990774033,
@@ -383,17 +416,6 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/22936206744",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-11T04:05:22Z",
-    "databaseId": 22936192911,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/22936192911",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
   },
   {
     "conclusion": "success",
