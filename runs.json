@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-12T07:14:19Z",
+    "databaseId": 22990774033,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22990774033",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-12T05:38:40Z",
+    "databaseId": 22988253658,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22988253658",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-12T05:09:10Z",
     "databaseId": 22987548172,
     "event": "schedule",
@@ -386,17 +408,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-03-11T04:04:32Z",
-    "databaseId": 22936170444,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/22936170444",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-03-11T04:03:50Z",
     "databaseId": 22936152231,
     "event": "dynamic",
@@ -438,17 +449,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/22936142040",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-11T03:25:40Z",
-    "databaseId": 22935227986,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.projectlombok-lombok-1.18.44",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/22935227986",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
