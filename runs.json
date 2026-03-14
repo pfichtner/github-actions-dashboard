@@ -515,16 +515,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/22986085773",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-11T11:51:43Z",
-    "databaseId": 22951195817,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/22951195817",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
