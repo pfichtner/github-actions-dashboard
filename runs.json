@@ -1,5 +1,16 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-03-15T02:27:43Z",
+    "databaseId": 23101583689,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/23101583689",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-03-14T05:33:52Z",
     "databaseId": 23081481858,
@@ -315,17 +326,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/23035682367",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-13T04:05:22Z",
-    "databaseId": 23035682231,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/23035682231",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
   },
