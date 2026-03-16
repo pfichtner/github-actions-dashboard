@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-16T02:24:59Z",
+    "databaseId": 23125330160,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23125330160",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-16T01:50:16Z",
+    "databaseId": 23124592682,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/23124592682",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-15T14:53:32Z",
     "databaseId": 23112781036,
     "event": "schedule",
@@ -387,17 +409,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-03-13T04:04:21Z",
-    "databaseId": 23035657928,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/com.approvaltests-approvaltests-30.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23035657928",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-13T04:04:21Z",
     "databaseId": 23035657934,
     "event": "pull_request",
     "headBranch": "dependabot/maven/com.approvaltests-approvaltests-30.0.0",
@@ -427,38 +438,5 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/23035633510",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-13T03:25:30Z",
-    "databaseId": 23034794119,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/com.approvaltests-approvaltests-30.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23034794119",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-13T03:24:44Z",
-    "databaseId": 23034777365,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23034777365",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-13T03:24:44Z",
-    "databaseId": 23034777385,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23034777385",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
