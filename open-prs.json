@@ -5,6 +5,45 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-03-16T04:07:59Z",
+    "headRefName": "dependabot/github_actions/ncipollo/release-action-1.21.0",
+    "number": 113,
+    "title": "Bump ncipollo/release-action from 1.20.0 to 1.21.0",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/113",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-16T04:05:11Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.5",
+    "number": 330,
+    "title": "Bump renovatebot/github-action from 46.1.4 to 46.1.5",
+    "url": "https://github.com/pfichtner/virtualavr/pull/330",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-16T04:04:32Z",
+    "headRefName": "dependabot/github_actions/ncipollo/release-action-1.21.0",
+    "number": 475,
+    "title": "Bump ncipollo/release-action from 1.20.0 to 1.21.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/475",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-02-16T04:05:11Z",
     "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
     "number": 462,
