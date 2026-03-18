@@ -537,16 +537,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23112781036",
     "workflowName": "Matrix Docker Build & Push",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-03-15T02:27:43Z",
-    "databaseId": 23101583689,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/23101583689",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/mockapproval"
   }
 ]
