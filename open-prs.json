@@ -1,28 +1,17 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-03-19T04:45:09Z",
-    "headRefName": "dependabot/github_actions/codecov/codecov-action-5.5.3",
-    "number": 82,
-    "title": "Bump codecov/codecov-action from 5.5.2 to 5.5.3",
-    "url": "https://github.com/pfichtner/pacto/pull/82",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-19T04:04:34Z",
-    "headRefName": "dependabot/maven/demo/java/sketchtest/org.testcontainers-testcontainers-2.0.4",
-    "number": 332,
-    "title": "Bump org.testcontainers:testcontainers from 2.0.3 to 2.0.4 in /demo/java/sketchtest",
-    "url": "https://github.com/pfichtner/virtualavr/pull/332",
+    "createdAt": "2026-03-19T05:44:39Z",
+    "headRefName": "renovate/testcontainers-java-monorepo",
+    "number": 333,
+    "title": "Update testcontainers-java monorepo to v2.0.4",
+    "url": "https://github.com/pfichtner/virtualavr/pull/333",
     "repository": "pfichtner/virtualavr"
   },
   {
@@ -37,32 +26,6 @@
     "title": "Bump org.testcontainers:testcontainers-junit-jupiter from 2.0.3 to 2.0.4 in /demo/java/sketchtest",
     "url": "https://github.com/pfichtner/virtualavr/pull/331",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-19T04:04:15Z",
-    "headRefName": "dependabot/github_actions/codecov/codecov-action-5.5.3",
-    "number": 478,
-    "title": "Bump codecov/codecov-action from 5.5.2 to 5.5.3",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/478",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-19T04:03:49Z",
-    "headRefName": "dependabot/github_actions/codecov/codecov-action-5.5.3",
-    "number": 514,
-    "title": "Bump codecov/codecov-action from 5.5.2 to 5.5.3",
-    "url": "https://github.com/pfichtner/testtypes/pull/514",
-    "repository": "pfichtner/testtypes"
   },
   {
     "author": {
