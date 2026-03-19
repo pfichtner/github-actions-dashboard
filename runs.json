@@ -537,49 +537,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/23176942569",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-16T20:02:43Z",
-    "databaseId": 23163401268,
-    "event": "workflow_dispatch",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/23163401268",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-16T20:02:07Z",
-    "databaseId": 23163376116,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/23163376116",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-16T19:59:13Z",
-    "databaseId": 23163257994,
-    "event": "workflow_dispatch",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/23163257994",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-16T19:56:43Z",
-    "databaseId": 23163159037,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/23163159037",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
   }
 ]
