@@ -5,6 +5,84 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-03-20T04:45:03Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-30.1.0",
+    "number": 83,
+    "title": "Bump com.approvaltests:approvaltests from 30.0.0 to 30.1.0",
+    "url": "https://github.com/pfichtner/pacto/pull/83",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-20T04:05:55Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-30.1.0",
+    "number": 114,
+    "title": "Bump com.approvaltests:approvaltests from 30.0.0 to 30.1.0",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/114",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-20T04:05:05Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-30.1.0",
+    "number": 148,
+    "title": "Bump com.approvaltests:approvaltests from 30.0.0 to 30.1.0",
+    "url": "https://github.com/pfichtner/mockapproval/pull/148",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-20T04:04:02Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-30.1.0",
+    "number": 479,
+    "title": "Bump com.approvaltests:approvaltests from 30.0.0 to 30.1.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/479",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-20T04:03:35Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-30.1.0",
+    "number": 515,
+    "title": "Bump com.approvaltests:approvaltests from 30.0.0 to 30.1.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/515",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-20T03:25:24Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-30.1.0",
+    "number": 61,
+    "title": "Bump com.approvaltests:approvaltests from 30.0.0 to 30.1.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/61",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-02-16T04:05:11Z",
     "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
     "number": 462,
