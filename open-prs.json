@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-02-16T04:05:11Z",
-    "headRefName": "dependabot/maven/org.junit-junit-bom-6.0.3",
-    "number": 462,
-    "title": "Bump org.junit:junit-bom from 5.13.4 to 6.0.3",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/462",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
