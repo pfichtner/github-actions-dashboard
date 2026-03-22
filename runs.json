@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-22T05:40:34Z",
+    "databaseId": 23396672814,
+    "event": "pull_request",
+    "headBranch": "renovate/ws-8.x-lockfile",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23396672814",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-22T05:40:31Z",
+    "databaseId": 23396671980,
+    "event": "push",
+    "headBranch": "renovate/ws-8.x-lockfile",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23396671980",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-22T05:39:35Z",
+    "databaseId": 23396658952,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23396658952",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-22T05:13:54Z",
     "databaseId": 23396294230,
     "event": "schedule",
@@ -372,39 +405,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23328551665",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T04:03:48Z",
-    "databaseId": 23328545309,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23328545309",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T04:03:48Z",
-    "databaseId": 23328545310,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23328545310",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T04:03:48Z",
-    "databaseId": 23328545316,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23328545316",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
