@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-22T12:19:28Z",
+    "databaseId": 23402915402,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23402915402",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-22T05:40:34Z",
     "databaseId": 23396672814,
     "event": "pull_request",
@@ -207,17 +218,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/23338419275",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T05:38:28Z",
-    "databaseId": 23330623440,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23330623440",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",

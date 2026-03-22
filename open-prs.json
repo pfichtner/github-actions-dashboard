@@ -7,21 +7,6 @@
       "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-03-22T05:40:31Z",
-    "headRefName": "renovate/ws-8.x-lockfile",
-    "number": 334,
-    "title": "Update dependency ws to v8.20.0",
-    "url": "https://github.com/pfichtner/virtualavr/pull/334",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-02-05T21:07:23Z",
     "headRefName": "pr-10",
     "number": 10,
