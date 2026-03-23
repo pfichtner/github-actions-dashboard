@@ -1,6 +1,50 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-23T02:10:23Z",
+    "databaseId": 23418452183,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23418452183",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-23T01:44:31Z",
+    "databaseId": 23417891492,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/23417891492",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-22T22:05:00Z",
+    "databaseId": 23413600387,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23413600387",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-22T21:26:20Z",
+    "databaseId": 23412887382,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23412887382",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-22T14:51:20Z",
     "databaseId": 23405568701,
     "event": "schedule",
@@ -95,17 +139,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23378255555",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-21T11:02:27Z",
-    "databaseId": 23378250475,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23378250475",
     "workflowName": "Scorecard supply-chain security",
     "repository": "pfichtner/log4shell-hunter"
   },
@@ -437,17 +470,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/23327746092",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T03:24:32Z",
-    "databaseId": 23327727313,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23327727313",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
   },
   {
