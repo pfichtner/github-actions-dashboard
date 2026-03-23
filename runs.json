@@ -1,5 +1,16 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-03-23T20:43:22Z",
+    "databaseId": 23459158996,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23459158996",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-03-23T15:28:26Z",
     "databaseId": 23445377939,
@@ -370,17 +381,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/23413600387",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-22T21:26:20Z",
-    "databaseId": 23412887382,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23412887382",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
