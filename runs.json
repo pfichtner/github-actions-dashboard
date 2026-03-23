@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-23T10:36:38Z",
+    "databaseId": 23433070046,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23433070046",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-23T10:35:21Z",
+    "databaseId": 23433021352,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23433021352",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-23T07:33:29Z",
     "databaseId": 23426314003,
     "event": "push",
@@ -232,28 +254,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-03-23T04:05:20Z",
-    "databaseId": 23420948853,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.1.6",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23420948853",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-23T04:05:17Z",
-    "databaseId": 23420947677,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.1.6",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23420947677",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-03-23T04:05:13Z",
     "databaseId": 23420946396,
     "event": "dynamic",
@@ -416,49 +416,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23372488569",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T12:13:23Z",
-    "databaseId": 23342315130,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/23342315130",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-03-20T12:13:18Z",
-    "databaseId": 23342312229,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/23342312229",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T10:16:03Z",
-    "databaseId": 23338426161,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23338426161",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-20T10:15:52Z",
-    "databaseId": 23338419275,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/23338419275",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
   }
 ]

@@ -14,32 +14,6 @@
   },
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-23T04:05:21Z",
-    "headRefName": "dependabot/github_actions/dorny/test-reporter-3",
-    "number": 336,
-    "title": "Bump dorny/test-reporter from 2 to 3",
-    "url": "https://github.com/pfichtner/virtualavr/pull/336",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-23T04:05:15Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.6",
-    "number": 335,
-    "title": "Bump renovatebot/github-action from 46.1.5 to 46.1.6",
-    "url": "https://github.com/pfichtner/virtualavr/pull/335",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
