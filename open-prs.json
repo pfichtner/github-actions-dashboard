@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-23T04:06:24Z",
-    "headRefName": "dependabot/github_actions/dorny/test-reporter-3",
-    "number": 149,
-    "title": "Bump dorny/test-reporter from 2 to 3",
-    "url": "https://github.com/pfichtner/mockapproval/pull/149",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
