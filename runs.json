@@ -1,6 +1,28 @@
 [
   {
-    "conclusion": "failure",
+    "conclusion": "success",
+    "createdAt": "2026-03-24T08:02:38Z",
+    "databaseId": 23479146706,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23479146706",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-24T05:45:33Z",
+    "databaseId": 23475082530,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23475082530",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-24T05:17:39Z",
     "databaseId": 23474343331,
     "event": "schedule",
@@ -298,17 +320,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-03-23T10:35:21Z",
-    "databaseId": 23433021352,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23433021352",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-03-23T07:33:29Z",
     "databaseId": 23426314003,
     "event": "push",
@@ -470,17 +481,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23420914393",
     "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-23T02:10:23Z",
-    "databaseId": 23418452183,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23418452183",
-    "workflowName": "CodeQL",
     "repository": "pfichtner/log4shell-hunter"
   },
   {
