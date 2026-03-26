@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-26T04:05:04Z",
-    "headRefName": "dependabot/github_actions/actions/deploy-pages-5",
-    "number": 80,
-    "title": "Bump actions/deploy-pages from 4 to 5",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/80",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "author": {
       "id": "U_kgDOBvlojQ",
       "is_bot": false,
       "login": "ThomasToka",
