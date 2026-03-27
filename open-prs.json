@@ -1,6 +1,45 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-27T04:45:22Z",
+    "headRefName": "dependabot/github_actions/codecov/codecov-action-6.0.0",
+    "number": 84,
+    "title": "Bump codecov/codecov-action from 5.5.3 to 6.0.0",
+    "url": "https://github.com/pfichtner/pacto/pull/84",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-27T04:04:02Z",
+    "headRefName": "dependabot/github_actions/codecov/codecov-action-6.0.0",
+    "number": 482,
+    "title": "Bump codecov/codecov-action from 5.5.3 to 6.0.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/482",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-03-27T04:03:39Z",
+    "headRefName": "dependabot/github_actions/codecov/codecov-action-6.0.0",
+    "number": 517,
+    "title": "Bump codecov/codecov-action from 5.5.3 to 6.0.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/517",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
       "id": "U_kgDOBvlojQ",
       "is_bot": false,
       "login": "ThomasToka",
