@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-03-31T08:15:57Z",
+    "databaseId": 23787436174,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23787436174",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-03-31T06:04:43Z",
+    "databaseId": 23783020398,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23783020398",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-03-31T05:29:33Z",
     "databaseId": 23782051283,
     "event": "schedule",
@@ -244,17 +266,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-03-30T06:42:59Z",
-    "databaseId": 23731525053,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23731525053",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-30T06:42:59Z",
     "databaseId": 23731525063,
     "event": "push",
     "headBranch": "main",
@@ -316,17 +327,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/23731510954",
     "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-30T06:17:07Z",
-    "databaseId": 23730747579,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23730747579",
-    "workflowName": "Renovate",
     "repository": "pfichtner/virtualavr"
   },
   {
