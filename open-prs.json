@@ -1,58 +1,17 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjgyNTkyNTU2",
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
-      "login": "LizenzFass78851",
-      "name": ""
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-04-01T13:28:28Z",
-    "headRefName": "package-filtering",
-    "number": 82,
-    "title": "Add general support for arm64 Docker images (building, publishing, and testing)",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/82",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-01T05:04:42Z",
-    "headRefName": "dependabot/maven/net.bytebuddy-byte-buddy-1.18.8",
-    "number": 85,
-    "title": "Bump net.bytebuddy:byte-buddy from 1.18.7 to 1.18.8",
-    "url": "https://github.com/pfichtner/pacto/pull/85",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-01T04:04:43Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.16.1",
-    "number": 484,
-    "title": "Bump step-security/harden-runner from 2.16.0 to 2.16.1",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/484",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
-      "id": "U_kgDOBvlojQ",
-      "is_bot": false,
-      "login": "ThomasToka",
-      "name": ""
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-03-24T09:37:10Z",
-    "headRefName": "macos-arm64-support",
-    "number": 79,
-    "title": "Apple Silicon compatibility and prerequisite hardening",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/79",
+    "createdAt": "2026-04-01T18:42:23Z",
+    "headRefName": "arm64-support",
+    "number": 83,
+    "title": "Arm64 support",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/83",
     "repository": "pfichtner/pfichtner-freetz"
   },
   {
