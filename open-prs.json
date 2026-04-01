@@ -40,19 +40,6 @@
   },
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-01T03:34:39Z",
-    "headRefName": "dependabot/maven/bytebuddy.version-1.18.8",
-    "number": 64,
-    "title": "Bump bytebuddy.version from 1.18.7 to 1.18.8",
-    "url": "https://github.com/pfichtner/vaadoo/pull/64",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
       "id": "U_kgDOBvlojQ",
       "is_bot": false,
       "login": "ThomasToka",
