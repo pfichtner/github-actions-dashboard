@@ -1,6 +1,58 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-01T05:04:42Z",
+    "headRefName": "dependabot/maven/net.bytebuddy-byte-buddy-1.18.8",
+    "number": 85,
+    "title": "Bump net.bytebuddy:byte-buddy from 1.18.7 to 1.18.8",
+    "url": "https://github.com/pfichtner/pacto/pull/85",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-01T04:10:14Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.16.1",
+    "number": 226,
+    "title": "Bump step-security/harden-runner from 2.16.0 to 2.16.1",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/226",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-01T04:04:43Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.16.1",
+    "number": 484,
+    "title": "Bump step-security/harden-runner from 2.16.0 to 2.16.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/484",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-01T03:34:39Z",
+    "headRefName": "dependabot/maven/bytebuddy.version-1.18.8",
+    "number": 64,
+    "title": "Bump bytebuddy.version from 1.18.7 to 1.18.8",
+    "url": "https://github.com/pfichtner/vaadoo/pull/64",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "U_kgDOBvlojQ",
       "is_bot": false,
       "login": "ThomasToka",
