@@ -1,6 +1,21 @@
 [
   {
     "author": {
+      "id": "MDQ6VXNlcjgyNTkyNTU2",
+      "is_bot": false,
+      "login": "LizenzFass78851",
+      "name": ""
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-01T13:28:28Z",
+    "headRefName": "package-filtering",
+    "number": 82,
+    "title": "Add general support for arm64 Docker images (building, publishing, and testing)",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/82",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
       "is_bot": true,
       "login": "app/dependabot"
     },
@@ -11,19 +26,6 @@
     "title": "Bump net.bytebuddy:byte-buddy from 1.18.7 to 1.18.8",
     "url": "https://github.com/pfichtner/pacto/pull/85",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-01T04:10:14Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.16.1",
-    "number": 226,
-    "title": "Bump step-security/harden-runner from 2.16.0 to 2.16.1",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/226",
-    "repository": "pfichtner/mqtt-machine-state"
   },
   {
     "author": {
