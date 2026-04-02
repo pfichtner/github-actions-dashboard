@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-02T05:26:13Z",
+    "databaseId": 23885430457,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23885430457",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-01T20:36:29Z",
     "databaseId": 23869638341,
     "event": "push",
@@ -493,49 +504,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23779909125",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-30T05:53:01Z",
-    "databaseId": 23730081801,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23730081801",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-30T04:59:05Z",
-    "databaseId": 23728679043,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/23728679043",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-30T04:13:18Z",
-    "databaseId": 23727609888,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/23727609888",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-03-30T04:06:47Z",
-    "databaseId": 23727467954,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/23727467954",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
   }
 ]
