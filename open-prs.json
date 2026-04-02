@@ -1,21 +1,6 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjgyNTkyNTU2",
-      "is_bot": false,
-      "login": "LizenzFass78851",
-      "name": ""
-    },
-    "baseRefName": "arm64-support",
-    "createdAt": "2026-04-02T07:16:04Z",
-    "headRefName": "arm64-support",
-    "number": 84,
-    "title": "fix Build Freetz Workflow",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/84",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
