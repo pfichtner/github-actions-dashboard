@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-03T10:16:38Z",
+    "databaseId": 23942857759,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23942857759",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-03T07:40:52Z",
     "databaseId": 23938529110,
     "event": "push",
@@ -150,17 +161,6 @@
     "headBranch": "dependabot/github_actions/docker/login-action-4.1.0",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/23933260742",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-03T04:04:58Z",
-    "databaseId": 23933259807,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/docker/login-action-4.1.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23933259807",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
