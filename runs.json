@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-03T21:12:03Z",
+    "databaseId": 23962396893,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23962396893",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-03T21:08:12Z",
+    "databaseId": 23962277688,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23962277688",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-03T18:53:50Z",
     "databaseId": 23958155964,
     "event": "push",
@@ -29,17 +51,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/23955680543",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-03T17:34:56Z",
-    "databaseId": 23955627044,
-    "event": "pull_request",
-    "headBranch": "current-value",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23955627044",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
@@ -262,17 +273,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/23933218643",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-03T03:24:53Z",
-    "databaseId": 23932343217,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23932343217",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
