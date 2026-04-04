@@ -471,27 +471,5 @@
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/23865248496",
     "workflowName": "CodeQL",
     "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-01T12:05:35Z",
-    "databaseId": 23847691744,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/23847691744",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-01T10:24:21Z",
-    "databaseId": 23843992739,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/23843992739",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
   }
 ]
