@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-04T05:42:42Z",
+    "databaseId": 23972491688,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23972491688",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-04T05:15:52Z",
     "databaseId": 23972071221,
     "event": "schedule",
@@ -229,17 +240,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/23933266841",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-03T04:05:01Z",
-    "databaseId": 23933260742,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/docker/login-action-4.1.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/23933260742",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
