@@ -1,56 +1,45 @@
 [
   {
-    "conclusion": "failure",
-    "createdAt": "2026-04-05T13:14:44Z",
-    "databaseId": 24002281742,
+    "conclusion": "success",
+    "createdAt": "2026-04-05T16:17:00Z",
+    "databaseId": 24005438171,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24005438171",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-05T14:59:08Z",
+    "databaseId": 24004061784,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24004061784",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-05T13:52:31Z",
+    "databaseId": 24002923140,
     "event": "push",
     "headBranch": "master",
     "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24002281742",
+    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24002923140",
     "workflowName": "ESPHome CI Compile",
     "repository": "pfichtner/esphome-configs"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-04-05T13:10:49Z",
-    "databaseId": 24002215714,
+    "conclusion": "success",
+    "createdAt": "2026-04-05T13:39:50Z",
+    "databaseId": 24002706083,
     "event": "push",
     "headBranch": "master",
     "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24002215714",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-04-05T12:44:52Z",
-    "databaseId": 24001784617,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24001784617",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-04-05T12:40:51Z",
-    "databaseId": 24001720030,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24001720030",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-04-05T12:38:00Z",
-    "databaseId": 24001675537,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24001675537",
+    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/24002706083",
     "workflowName": "ESPHome CI Compile",
     "repository": "pfichtner/esphome-configs"
   },
@@ -150,17 +139,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/23958155964",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-03T17:43:01Z",
-    "databaseId": 23955885126,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/23955885126",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
@@ -306,17 +284,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/23933266841",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-03T04:04:39Z",
-    "databaseId": 23933252322,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23933252322",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
