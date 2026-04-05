@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-05T05:39:43Z",
+    "databaseId": 23995237446,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23995237446",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-04T17:34:53Z",
     "databaseId": 23984027065,
     "event": "push",
@@ -394,17 +405,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/23886498634",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-02T06:02:12Z",
-    "databaseId": 23886480059,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/23886480059",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
