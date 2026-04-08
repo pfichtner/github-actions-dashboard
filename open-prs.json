@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-08T04:46:12Z",
-    "headRefName": "dependabot/maven/nl.jqno.equalsverifier-equalsverifier-4.4.2",
-    "number": 86,
-    "title": "Bump nl.jqno.equalsverifier:equalsverifier from 4.4.1 to 4.4.2",
-    "url": "https://github.com/pfichtner/pacto/pull/86",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
