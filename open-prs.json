@@ -1,32 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-10T04:08:58Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.17.0",
-    "number": 227,
-    "title": "Bump step-security/harden-runner from 2.16.1 to 2.17.0",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/227",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-10T04:04:16Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.17.0",
-    "number": 485,
-    "title": "Bump step-security/harden-runner from 2.16.1 to 2.17.0",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/485",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
