@@ -1,6 +1,21 @@
 [
   {
     "author": {
+      "id": "MDQ6VXNlcjgyNTkyNTU2",
+      "is_bot": false,
+      "login": "LizenzFass78851",
+      "name": ""
+    },
+    "baseRefName": "arm64-support",
+    "createdAt": "2026-04-11T09:53:20Z",
+    "headRefName": "arm64/build-to-ghcr",
+    "number": 91,
+    "title": "build-ghcr: use central docker action for docker build",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/91",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
