@@ -460,16 +460,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/24170712031",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-08T13:40:17Z",
-    "databaseId": 24138498802,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24138498802",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
   }
 ]
