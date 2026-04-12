@@ -6,6 +6,21 @@
       "login": "LizenzFass78851",
       "name": ""
     },
+    "baseRefName": "main",
+    "createdAt": "2026-04-12T08:00:46Z",
+    "headRefName": "licence",
+    "number": 92,
+    "title": "Add Unlicense",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/92",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjgyNTkyNTU2",
+      "is_bot": false,
+      "login": "LizenzFass78851",
+      "name": ""
+    },
     "baseRefName": "arm64-support",
     "createdAt": "2026-04-11T09:53:20Z",
     "headRefName": "arm64/build-to-ghcr",
