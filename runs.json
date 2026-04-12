@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-12T05:48:20Z",
+    "databaseId": 24299848294,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24299848294",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-11T05:45:30Z",
     "databaseId": 24275966107,
     "event": "schedule",
@@ -328,115 +339,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/24224739129",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T05:43:02Z",
-    "databaseId": 24174542069,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24174542069",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:45:12Z",
-    "databaseId": 24172868004,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/24172868004",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:45:12Z",
-    "databaseId": 24172867999,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24172867999",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:45:12Z",
-    "databaseId": 24172868002,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24172868002",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:11:12Z",
-    "databaseId": 24171927155,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/24171927155",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:11:12Z",
-    "databaseId": 24171927164,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/24171927164",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:05:19Z",
-    "databaseId": 24171765157,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/24171765157",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:05:19Z",
-    "databaseId": 24171765311,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/24171765311",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:03:15Z",
-    "databaseId": 24171709737,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/24171709737",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-09T04:03:15Z",
-    "databaseId": 24171709853,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/24171709853",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   }
 ]
