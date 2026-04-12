@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-12T15:02:14Z",
+    "databaseId": 24309545371,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24309545371",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-12T14:15:35Z",
+    "databaseId": 24308698016,
+    "event": "workflow_dispatch",
+    "headBranch": "arm64-support",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24308698016",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-12T06:12:24Z",
     "databaseId": 24300227185,
     "event": "schedule",
@@ -122,17 +144,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-10T05:51:06Z",
-    "databaseId": 24228640508,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24228640508",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-04-10T04:45:02Z",
     "databaseId": 24226840858,
     "event": "dynamic",
@@ -240,17 +251,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/24225799069",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-10T04:04:49Z",
-    "databaseId": 24225778748,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24225778748",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
