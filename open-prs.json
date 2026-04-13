@@ -1,6 +1,58 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-13T04:05:59Z",
+    "headRefName": "dependabot/github_actions/docker/build-push-action-7.1.0",
+    "number": 341,
+    "title": "Bump docker/build-push-action from 7.0.0 to 7.1.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/341",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-13T04:05:56Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.9",
+    "number": 340,
+    "title": "Bump renovatebot/github-action from 46.1.8 to 46.1.9",
+    "url": "https://github.com/pfichtner/virtualavr/pull/340",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-13T04:05:02Z",
+    "headRefName": "dependabot/github_actions/actions/upload-artifact-7.0.1",
+    "number": 486,
+    "title": "Bump actions/upload-artifact from 7.0.0 to 7.0.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/486",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-13T04:04:13Z",
+    "headRefName": "dependabot/github_actions/actions/upload-artifact-7.0.1",
+    "number": 519,
+    "title": "Bump actions/upload-artifact from 7.0.0 to 7.0.1",
+    "url": "https://github.com/pfichtner/testtypes/pull/519",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
