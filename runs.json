@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-14T03:25:33Z",
+    "databaseId": 24379339617,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24379339617",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-14T03:25:33Z",
+    "databaseId": 24379339675,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24379339675",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-04-13T23:12:45Z",
+    "databaseId": 24371692655,
+    "event": "push",
+    "headBranch": "hacking/vaadoo",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/spring-restbucks/actions/runs/24371692655",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/spring-restbucks"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-13T22:12:22Z",
+    "databaseId": 24369562432,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24369562432",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-13T22:11:27Z",
+    "databaseId": 24369526713,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24369526713",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-13T07:15:32Z",
     "databaseId": 24330651564,
     "event": "push",
@@ -284,17 +339,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/24325093292",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-13T03:32:35Z",
-    "databaseId": 24324381247,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24324381247",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
