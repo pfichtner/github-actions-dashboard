@@ -1,5 +1,49 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-04-14T08:59:54Z",
+    "databaseId": 24390318903,
+    "event": "workflow_dispatch",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24390318903",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-14T08:55:49Z",
+    "databaseId": 24390143976,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/24390143976",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-14T08:54:37Z",
+    "databaseId": 24390090773,
+    "event": "workflow_dispatch",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24390090773",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-14T06:18:27Z",
+    "databaseId": 24384134954,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24384134954",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-04-14T05:53:01Z",
     "databaseId": 24383337542,
@@ -287,28 +331,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-13T07:15:07Z",
-    "databaseId": 24330635236,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24330635236",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-13T07:14:55Z",
-    "databaseId": 24330627315,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/24330627315",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-04-13T07:14:55Z",
     "databaseId": 24330627322,
     "event": "push",
@@ -452,17 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-13T04:06:00Z",
-    "databaseId": 24325151357,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24325151357",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-04-13T03:32:35Z",
     "databaseId": 24324381316,
     "event": "dynamic",
@@ -482,16 +493,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/24322246698",
     "workflowName": "CodeQL",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-12T21:56:24Z",
-    "databaseId": 24317339317,
-    "event": "release",
-    "headBranch": "0.4.4",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24317339317",
-    "workflowName": "Publish Docker image",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
