@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-14T04:05:38Z",
+    "headRefName": "dependabot/github_actions/actions/upload-pages-artifact-5",
+    "number": 94,
+    "title": "Bump actions/upload-pages-artifact from 4 to 5",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/94",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
