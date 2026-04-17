@@ -1,34 +1,56 @@
 [
   {
-    "conclusion": "success",
-    "createdAt": "2026-04-16T16:48:10Z",
-    "databaseId": 24522667953,
-    "event": "push",
-    "headBranch": "main",
+    "conclusion": "failure",
+    "createdAt": "2026-04-17T03:25:58Z",
+    "databaseId": 24546092724,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.0",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24522667953",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24546092724",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-04-17T03:25:55Z",
+    "databaseId": 24546091607,
+    "event": "push",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24546091607",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-16T16:35:56Z",
-    "databaseId": 24522116109,
-    "event": "push",
+    "createdAt": "2026-04-17T03:25:25Z",
+    "databaseId": 24546079592,
+    "event": "dynamic",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24522116109",
-    "workflowName": "Java CI with Maven",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24546079592",
+    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-16T14:22:28Z",
-    "databaseId": 24515627014,
+    "createdAt": "2026-04-17T03:25:25Z",
+    "databaseId": 24546079610,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24546079610",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-04-16T22:30:04Z",
+    "databaseId": 24537341100,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24515627014",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24537341100",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
@@ -342,28 +364,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-16T03:25:25Z",
-    "databaseId": 24490349321,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24490349321",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-16T03:25:25Z",
-    "databaseId": 24490349326,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24490349326",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-04-15T12:08:56Z",
     "databaseId": 24453636858,
     "event": "schedule",
@@ -537,16 +537,5 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/24380571324",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-04-13T23:12:45Z",
-    "databaseId": 24371692655,
-    "event": "push",
-    "headBranch": "hacking/vaadoo",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/spring-restbucks/actions/runs/24371692655",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/spring-restbucks"
   }
 ]

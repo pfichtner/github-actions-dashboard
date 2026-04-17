@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-17T03:25:54Z",
+    "headRefName": "dependabot/github_actions/codecov/codecov-action-6.0.0",
+    "number": 69,
+    "title": "Bump codecov/codecov-action from 5.5.2 to 6.0.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/69",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
