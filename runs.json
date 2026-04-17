@@ -1,5 +1,27 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-04-17T06:32:57Z",
+    "databaseId": 24551415638,
+    "event": "push",
+    "headBranch": "is-whitespace",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24551415638",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-17T06:21:57Z",
+    "databaseId": 24551052545,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24551052545",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-04-17T05:56:17Z",
     "databaseId": 24550209971,
@@ -242,17 +264,6 @@
     "repository": "pfichtner/vaadoo"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-04-16T22:30:04Z",
-    "databaseId": 24537341100,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24537341100",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-04-16T06:34:18Z",
     "databaseId": 24495835911,
@@ -460,17 +471,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24491435942",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-16T04:04:37Z",
-    "databaseId": 24491425109,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24491425109",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
