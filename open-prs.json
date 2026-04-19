@@ -7,21 +7,6 @@
       "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-04-19T11:43:44Z",
-    "headRefName": "feature/validate-method-per-parameter",
-    "number": 74,
-    "title": "Feature/validate method per parameter",
-    "url": "https://github.com/pfichtner/vaadoo/pull/74",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-02-05T21:07:23Z",
     "headRefName": "pr-10",
     "number": 10,

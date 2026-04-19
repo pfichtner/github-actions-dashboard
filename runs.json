@@ -1,56 +1,67 @@
 [
   {
     "conclusion": "success",
-    "createdAt": "2026-04-19T11:43:48Z",
-    "databaseId": 24628280452,
-    "event": "pull_request",
-    "headBranch": "feature/validate-method-per-parameter",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24628280452",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-19T11:18:40Z",
-    "databaseId": 24627831673,
-    "event": "push",
-    "headBranch": "feature/validate-method-per-parameter",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24627831673",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-19T09:24:58Z",
-    "databaseId": 24625823205,
-    "event": "push",
-    "headBranch": "feature/validate-method-per-parameter",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24625823205",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-19T08:12:37Z",
-    "databaseId": 24624560734,
+    "createdAt": "2026-04-19T15:31:44Z",
+    "databaseId": 24632627053,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24624560734",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24632627053",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-19T07:12:19Z",
-    "databaseId": 24623540416,
+    "createdAt": "2026-04-19T15:29:57Z",
+    "databaseId": 24632588621,
+    "event": "pull_request",
+    "headBranch": "feature/validate-method-per-parameter",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24632588621",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-19T15:29:55Z",
+    "databaseId": 24632587861,
     "event": "push",
     "headBranch": "feature/validate-method-per-parameter",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24623540416",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24632587861",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-19T15:21:08Z",
+    "databaseId": 24632412020,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24632412020",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-19T15:03:12Z",
+    "databaseId": 24632059720,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24632059720",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-19T13:30:27Z",
+    "databaseId": 24630262339,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24630262339",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
@@ -240,17 +251,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/24547070216",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-17T04:04:57Z",
-    "databaseId": 24547048866,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24547048866",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
