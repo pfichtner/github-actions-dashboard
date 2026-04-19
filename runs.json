@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-19T20:36:42Z",
+    "databaseId": 24638571212,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24638571212",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-19T15:31:44Z",
     "databaseId": 24632627053,
     "event": "push",
@@ -53,17 +64,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24632059720",
     "workflowName": "Matrix Docker Build & Push",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-19T13:30:27Z",
-    "databaseId": 24630262339,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24630262339",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
