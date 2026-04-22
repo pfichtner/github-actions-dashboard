@@ -5,6 +5,19 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-04-22T03:26:08Z",
+    "headRefName": "dependabot/maven/org.projectlombok-lombok-1.18.46",
+    "number": 75,
+    "title": "Bump org.projectlombok:lombok from 1.18.44 to 1.18.46",
+    "url": "https://github.com/pfichtner/vaadoo/pull/75",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-04-21T04:45:49Z",
     "headRefName": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.0",
     "number": 88,
