@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-23T19:11:41Z",
+    "databaseId": 24853887821,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24853887821",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-23T16:57:57Z",
     "databaseId": 24847899993,
     "event": "push",
@@ -460,17 +471,6 @@
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/24759540422",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-22T03:26:11Z",
-    "databaseId": 24758567769,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.projectlombok-lombok-1.18.46",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24758567769",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
