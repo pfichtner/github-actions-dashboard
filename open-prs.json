@@ -94,32 +94,6 @@
       "is_bot": true,
       "login": "app/dependabot"
     },
-    "baseRefName": "master",
-    "createdAt": "2026-01-30T04:07:59Z",
-    "headRefName": "dependabot/github_actions/actions/cache-5.0.3",
-    "number": 40,
-    "title": "Bump actions/cache from 4.3.0 to 5.0.3",
-    "url": "https://github.com/pfichtner/heapwatch/pull/40",
-    "repository": "pfichtner/heapwatch"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "master",
-    "createdAt": "2025-11-21T04:18:08Z",
-    "headRefName": "dependabot/github_actions/actions/checkout-6",
-    "number": 36,
-    "title": "Bump actions/checkout from 5 to 6",
-    "url": "https://github.com/pfichtner/heapwatch/pull/36",
-    "repository": "pfichtner/heapwatch"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
     "baseRefName": "main",
     "createdAt": "2025-04-22T04:25:03Z",
     "headRefName": "dependabot/github_actions/step-security/harden-runner-2.12.0",
