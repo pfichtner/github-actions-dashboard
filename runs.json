@@ -1,34 +1,67 @@
 [
   {
     "conclusion": "success",
-    "createdAt": "2026-04-23T09:16:53Z",
-    "databaseId": 24827180625,
+    "createdAt": "2026-04-23T16:57:57Z",
+    "databaseId": 24847899993,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24827180625",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24847899993",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
+    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-23T09:15:22Z",
-    "databaseId": 24827117990,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24827117990",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T09:15:20Z",
-    "databaseId": 24827116303,
+    "createdAt": "2026-04-23T16:55:06Z",
+    "databaseId": 24847774762,
     "event": "push",
-    "headBranch": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.0",
+    "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24827116303",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/24847774762",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-23T15:39:49Z",
+    "databaseId": 24844381741,
+    "event": "push",
+    "headBranch": "v0.0.8",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/24844381741",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-23T15:38:20Z",
+    "databaseId": 24844309452,
+    "event": "push",
+    "headBranch": "0.0.8",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/24844309452",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-23T14:46:50Z",
+    "databaseId": 24841591529,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/24841591529",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-23T14:45:14Z",
+    "databaseId": 24841501369,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/24841501369",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/pacto"
   },
@@ -64,28 +97,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/24817249340",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T04:45:20Z",
-    "databaseId": 24817249356,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24817249356",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T04:45:20Z",
-    "databaseId": 24817249363,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24817249363",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
@@ -458,17 +469,6 @@
     "headBranch": "dependabot/maven/org.projectlombok-lombok-1.18.46",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/24758567769",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-22T03:26:10Z",
-    "databaseId": 24758567000,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.projectlombok-lombok-1.18.46",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24758567000",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
