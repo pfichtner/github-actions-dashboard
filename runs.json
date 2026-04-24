@@ -1,23 +1,56 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-24T03:26:24Z",
+    "databaseId": 24870629862,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.4.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24870629862",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T03:26:22Z",
+    "databaseId": 24870629303,
+    "event": "push",
+    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.4.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24870629303",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T03:25:43Z",
+    "databaseId": 24870612439,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24870612439",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T03:25:43Z",
+    "databaseId": 24870612448,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24870612448",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-23T19:11:41Z",
     "databaseId": 24853887821,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/24853887821",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T16:57:57Z",
-    "databaseId": 24847899993,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24847899993",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
@@ -265,28 +298,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-23T03:25:20Z",
-    "databaseId": 24815017991,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24815017991",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T03:25:20Z",
-    "databaseId": 24815018018,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24815018018",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-04-22T12:11:44Z",
     "databaseId": 24777532179,
     "event": "schedule",
@@ -306,17 +317,6 @@
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/24763542734",
     "workflowName": "Renovate",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-22T06:14:33Z",
-    "databaseId": 24763302142,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24763302142",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
