@@ -1,6 +1,72 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-24T09:20:51Z",
+    "databaseId": 24882150705,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24882150705",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T08:58:46Z",
+    "databaseId": 24881253661,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24881253661",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T08:58:22Z",
+    "databaseId": 24881238380,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/24881238380",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T06:28:39Z",
+    "databaseId": 24875700451,
+    "event": "pull_request",
+    "headBranch": "renovate/com.google.code.gson-gson-2.x",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24875700451",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T06:28:36Z",
+    "databaseId": 24875698650,
+    "event": "push",
+    "headBranch": "renovate/com.google.code.gson-gson-2.x",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24875698650",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-24T06:27:45Z",
+    "databaseId": 24875669426,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24875669426",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-24T06:01:12Z",
     "databaseId": 24874825173,
     "event": "schedule",
@@ -132,24 +198,13 @@
     "repository": "pfichtner/mockapproval"
   },
   {
-    "conclusion": "failure",
+    "conclusion": "success",
     "createdAt": "2026-04-24T04:05:25Z",
     "databaseId": 24871622097,
     "event": "pull_request",
     "headBranch": "dependabot/maven/demo/java/sketchtest/com.google.code.gson-gson-2.14.0",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/24871622097",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-24T04:05:23Z",
-    "databaseId": 24871621120,
-    "event": "push",
-    "headBranch": "dependabot/maven/demo/java/sketchtest/com.google.code.gson-gson-2.14.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24871621120",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
@@ -163,39 +218,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24871614292",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-24T04:04:43Z",
-    "databaseId": 24871602870,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24871602870",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-24T04:04:43Z",
-    "databaseId": 24871602891,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24871602891",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-24T04:04:43Z",
-    "databaseId": 24871602916,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24871602916",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -284,28 +306,6 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/24870612448",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T19:11:41Z",
-    "databaseId": 24853887821,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24853887821",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-23T16:55:06Z",
-    "databaseId": 24847774762,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24847774762",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
