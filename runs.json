@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-25T06:08:46Z",
+    "databaseId": 24924325747,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24924325747",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-25T05:41:39Z",
     "databaseId": 24923842129,
     "event": "schedule",
@@ -218,17 +229,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/24871632343",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-24T04:05:25Z",
-    "databaseId": 24871622097,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/demo/java/sketchtest/com.google.code.gson-gson-2.14.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24871622097",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -471,16 +471,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/24777532179",
     "workflowName": "Update Vagrant Box",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-22T06:14:31Z",
-    "databaseId": 24763300903,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/24763300903",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
   }
 ]
