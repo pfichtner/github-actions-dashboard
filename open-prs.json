@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-04-27T03:31:06Z",
+    "headRefName": "dependabot/maven/org.junit-junit-bom-5.14.4",
+    "number": 78,
+    "title": "Bump org.junit:junit-bom from 5.14.3 to 5.14.4",
+    "url": "https://github.com/pfichtner/vaadoo/pull/78",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
