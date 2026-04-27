@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-27T07:17:55Z",
+    "databaseId": 24981747064,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24981747064",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-27T06:20:08Z",
     "databaseId": 24979689608,
     "event": "schedule",
@@ -141,17 +152,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24976010785",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-27T04:05:04Z",
-    "databaseId": 24975992726,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/24975992726",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -350,16 +350,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/24923842129",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-24T08:58:22Z",
-    "databaseId": 24881238380,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/24881238380",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
   }
 ]
