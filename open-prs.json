@@ -1,45 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-27T04:05:40Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.11",
-    "number": 348,
-    "title": "Bump renovatebot/github-action from 46.1.10 to 46.1.11",
-    "url": "https://github.com/pfichtner/virtualavr/pull/348",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-27T04:04:52Z",
-    "headRefName": "dependabot/maven/org.junit-junit-bom-5.14.4",
-    "number": 490,
-    "title": "Bump org.junit:junit-bom from 5.14.3 to 5.14.4",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/490",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-04-27T03:31:06Z",
-    "headRefName": "dependabot/maven/org.junit-junit-bom-5.14.4",
-    "number": 78,
-    "title": "Bump org.junit:junit-bom from 5.14.3 to 5.14.4",
-    "url": "https://github.com/pfichtner/vaadoo/pull/78",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
