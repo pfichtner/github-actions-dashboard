@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-04-29T03:26:16Z",
+    "databaseId": 25089377119,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25089377119",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-04-29T03:26:16Z",
+    "databaseId": 25089377163,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25089377163",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-28T09:34:33Z",
     "databaseId": 25045313992,
     "event": "schedule",
@@ -438,28 +460,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/24975952657",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-27T03:31:09Z",
-    "databaseId": 24975203216,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.junit-junit-bom-5.14.4",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24975203216",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-27T03:31:08Z",
-    "databaseId": 24975202624,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.junit-junit-bom-5.14.4",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/24975202624",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
