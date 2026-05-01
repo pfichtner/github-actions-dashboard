@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-01T03:49:10Z",
+    "databaseId": 25201321662,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/25201321662",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-01T03:42:43Z",
+    "databaseId": 25201174883,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25201174883",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-01T03:42:42Z",
+    "databaseId": 25201174466,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25201174466",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-01T03:37:04Z",
+    "databaseId": 25201047128,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25201047128",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-01T01:55:30Z",
+    "databaseId": 25198578460,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/25198578460",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-04-30T07:11:12Z",
     "databaseId": 25152403119,
     "event": "schedule",
@@ -276,17 +331,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-04-29T07:06:13Z",
-    "databaseId": 25095530133,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25095530133",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-04-29T06:14:17Z",
     "databaseId": 25093823880,
     "event": "schedule",
@@ -431,17 +475,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-04-29T03:26:16Z",
-    "databaseId": 25089377119,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25089377119",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-29T03:26:16Z",
     "databaseId": 25089377163,
     "event": "dynamic",
     "headBranch": "main",
@@ -449,17 +482,6 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/25089377163",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-28T09:34:33Z",
-    "databaseId": 25045313992,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/25045313992",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -471,17 +493,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25037356831",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-28T05:40:51Z",
-    "databaseId": 25036013753,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/25036013753",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -526,16 +537,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/25034075208",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-28T04:16:07Z",
-    "databaseId": 25033578957,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25033578957",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
