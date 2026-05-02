@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-02T06:28:01Z",
+    "databaseId": 25245799682,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25245799682",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-02T05:58:34Z",
     "databaseId": 25245295851,
     "event": "schedule",
@@ -284,17 +295,6 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/25201174466",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-01T03:37:04Z",
-    "databaseId": 25201047128,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25201047128",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
