@@ -449,27 +449,5 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/25146721588",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-30T03:26:01Z",
-    "databaseId": 25145753353,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25145753353",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-04-30T03:26:01Z",
-    "databaseId": 25145753481,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25145753481",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
