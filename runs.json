@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-03T07:07:26Z",
+    "databaseId": 25272697639,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25272697639",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-03T06:19:00Z",
     "databaseId": 25271811176,
     "event": "schedule",
@@ -196,17 +207,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25201833190",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-01T04:10:30Z",
-    "databaseId": 25201818201,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25201818201",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
