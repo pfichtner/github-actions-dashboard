@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-04T15:25:08Z",
+    "databaseId": 25327660718,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/25327660718",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T15:25:08Z",
+    "databaseId": 25327660730,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/25327660730",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T15:25:06Z",
+    "databaseId": 25327659762,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/25327659762",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-04T07:37:25Z",
     "databaseId": 25306918038,
     "event": "schedule",
@@ -272,17 +305,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/testtypes/actions/runs/25300435994",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T04:03:54Z",
-    "databaseId": 25300417099,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/25300417099",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
   },
   {

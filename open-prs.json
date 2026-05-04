@@ -40,19 +40,6 @@
   },
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-04T04:04:37Z",
-    "headRefName": "dependabot/github_actions/github/codeql-action-4.35.3",
-    "number": 522,
-    "title": "Bump github/codeql-action from 4.35.2 to 4.35.3",
-    "url": "https://github.com/pfichtner/testtypes/pull/522",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
