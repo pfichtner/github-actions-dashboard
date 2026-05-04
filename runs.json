@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-04T07:37:25Z",
+    "databaseId": 25306918038,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25306918038",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T07:11:12Z",
+    "databaseId": 25305937498,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25305937498",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T07:11:12Z",
+    "databaseId": 25305937500,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25305937500",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T07:10:47Z",
+    "databaseId": 25305922066,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25305922066",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T07:10:47Z",
+    "databaseId": 25305922086,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25305922086",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-04T06:31:38Z",
     "databaseId": 25304570469,
     "event": "schedule",
@@ -68,56 +123,12 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-04T04:11:37Z",
-    "databaseId": 25300608278,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25300608278",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T04:11:37Z",
     "databaseId": 25300608292,
     "event": "pull_request",
     "headBranch": "dependabot/github_actions/github/codeql-action-4.35.3",
     "status": "completed",
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25300608292",
     "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T04:11:34Z",
-    "databaseId": 25300607399,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25300607399",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T04:11:22Z",
-    "databaseId": 25300602409,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.19.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25300602409",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T04:11:22Z",
-    "databaseId": 25300602417,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.19.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25300602417",
-    "workflowName": "Go",
     "repository": "pfichtner/mqtt-machine-state"
   },
   {
@@ -154,7 +165,7 @@
     "repository": "pfichtner/pfichtner-freetz"
   },
   {
-    "conclusion": "failure",
+    "conclusion": "success",
     "createdAt": "2026-05-04T04:06:19Z",
     "databaseId": 25300477265,
     "event": "pull_request",
@@ -173,17 +184,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/25300476419",
     "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T04:05:42Z",
-    "databaseId": 25300462864,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25300462864",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/virtualavr"
   },
   {

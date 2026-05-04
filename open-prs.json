@@ -5,32 +5,6 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-05-04T04:11:33Z",
-    "headRefName": "dependabot/github_actions/github/codeql-action-4.35.3",
-    "number": 232,
-    "title": "Bump github/codeql-action from 4.35.2 to 4.35.3",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/232",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-04T04:11:18Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.19.1",
-    "number": 231,
-    "title": "Bump step-security/harden-runner from 2.19.0 to 2.19.1",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/231",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-05-04T04:06:16Z",
     "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.13",
     "number": 350,
