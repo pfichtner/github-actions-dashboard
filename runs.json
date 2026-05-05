@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-05T11:50:03Z",
+    "databaseId": 25374612131,
+    "event": "schedule",
+    "headBranch": "master",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/25374612131",
+    "workflowName": "ESPHome CI Compile",
+    "repository": "pfichtner/esphome-configs"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-05T09:22:09Z",
     "databaseId": 25368207516,
     "event": "schedule",
