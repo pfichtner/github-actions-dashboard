@@ -310,17 +310,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-05T05:31:41Z",
-    "databaseId": 25359627557,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25359627557",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-05T05:31:41Z",
     "databaseId": 25359627544,
     "event": "dynamic",
     "headBranch": "main",
@@ -339,6 +328,17 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/25359627563",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-05T05:31:41Z",
+    "databaseId": 25359627557,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25359627557",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
     "conclusion": "success",
@@ -497,17 +497,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-04T05:12:28Z",
-    "databaseId": 25302246662,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25302246662",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T05:12:28Z",
     "databaseId": 25302246688,
     "event": "dynamic",
     "headBranch": "main",
@@ -515,6 +504,17 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/25302246688",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-04T05:12:28Z",
+    "databaseId": 25302246662,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25302246662",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
     "conclusion": "success",
