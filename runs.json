@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-07T15:39:02Z",
+    "databaseId": 25506041410,
+    "event": "push",
+    "headBranch": "mutation-enhancements",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/25506041410",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-07T13:51:38Z",
     "databaseId": 25500066513,
     "event": "dynamic",
@@ -75,17 +86,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25476678187",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-07T04:49:59Z",
-    "databaseId": 25476678148,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25476678148",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
