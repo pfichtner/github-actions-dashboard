@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-07T03:26:14Z",
+    "databaseId": 25474373135,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25474373135",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-07T03:26:14Z",
+    "databaseId": 25474373136,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25474373136",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-06T13:08:34Z",
     "databaseId": 25437205453,
     "event": "schedule",
@@ -453,17 +475,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-05T04:37:47Z",
-    "databaseId": 25358118275,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25358118275",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-05T04:37:47Z",
     "databaseId": 25358118276,
     "event": "dynamic",
     "headBranch": "main",
@@ -537,16 +548,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/25300505418",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-04T03:33:09Z",
-    "databaseId": 25299671811,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25299671811",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
