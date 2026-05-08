@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-08T13:23:43Z",
+    "databaseId": 25558021914,
+    "event": "push",
+    "headBranch": "feature/records",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/25558021914",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-08T13:17:28Z",
+    "databaseId": 25557730745,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/25557730745",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-05-08T11:58:17Z",
+    "databaseId": 25554313282,
+    "event": "push",
+    "headBranch": "mutation-enhancements",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/25554313282",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-05-08T11:57:13Z",
+    "databaseId": 25554270207,
+    "event": "push",
+    "headBranch": "mutation-enhancements",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/25554270207",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-05-08T11:37:08Z",
+    "databaseId": 25553448295,
+    "event": "push",
+    "headBranch": "mutation-enhancements",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/25553448295",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-08T06:37:12Z",
     "databaseId": 25541051432,
     "event": "push",
@@ -99,12 +154,12 @@
     "repository": "pfichtner/mqtt-machine-state"
   },
   {
-    "conclusion": "",
+    "conclusion": "cancelled",
     "createdAt": "2026-05-08T06:18:24Z",
     "databaseId": 25540350982,
     "event": "pull_request",
     "headBranch": "renovate/jest-monorepo",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/25540350982",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
@@ -152,28 +207,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25537380723",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T04:48:39Z",
-    "databaseId": 25537380415,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25537380415",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T04:48:39Z",
-    "databaseId": 25537380674,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25537380674",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
@@ -342,39 +375,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-07T22:46:13Z",
-    "databaseId": 25526200948,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25526200948",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-05-07T22:38:28Z",
-    "databaseId": 25525915943,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25525915943",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-07T15:39:02Z",
-    "databaseId": 25506041410,
-    "event": "push",
-    "headBranch": "mutation-enhancements",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25506041410",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-07T06:27:30Z",
     "databaseId": 25479743256,
     "event": "schedule",
@@ -537,16 +537,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/25414797166",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-05T11:50:03Z",
-    "databaseId": 25374612131,
-    "event": "schedule",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/25374612131",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
   }
 ]
