@@ -1,55 +1,18 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-05-08T04:11:34Z",
-    "headRefName": "dependabot/github_actions/github/codeql-action-4.35.4",
-    "number": 233,
-    "title": "Bump github/codeql-action from 4.35.3 to 4.35.4",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/233",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-08T04:06:26Z",
-    "headRefName": "dependabot/npm_and_yarn/jest-30.4.0",
-    "number": 351,
-    "title": "Bump jest from 30.3.0 to 30.4.0",
-    "url": "https://github.com/pfichtner/virtualavr/pull/351",
+    "createdAt": "2026-05-08T06:18:21Z",
+    "headRefName": "renovate/jest-monorepo",
+    "number": 352,
+    "title": "Update dependency jest to v30.4.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/352",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-08T04:05:30Z",
-    "headRefName": "dependabot/github_actions/github/codeql-action-4.35.4",
-    "number": 493,
-    "title": "Bump github/codeql-action from 4.35.3 to 4.35.4",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/493",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-08T04:04:36Z",
-    "headRefName": "dependabot/github_actions/github/codeql-action-4.35.4",
-    "number": 523,
-    "title": "Bump github/codeql-action from 4.35.3 to 4.35.4",
-    "url": "https://github.com/pfichtner/testtypes/pull/523",
-    "repository": "pfichtner/testtypes"
   },
   {
     "author": {
