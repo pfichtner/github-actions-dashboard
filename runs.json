@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-09T06:35:13Z",
+    "databaseId": 25594265714,
+    "event": "pull_request",
+    "headBranch": "renovate/jest-monorepo",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594265714",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-09T06:35:10Z",
+    "databaseId": 25594264921,
+    "event": "push",
+    "headBranch": "renovate/jest-monorepo",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594264921",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-09T06:34:07Z",
+    "databaseId": 25594243530,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594243530",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-09T06:07:16Z",
     "databaseId": 25593704772,
     "event": "schedule",
@@ -188,28 +221,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-08T06:18:19Z",
-    "databaseId": 25540348270,
-    "event": "push",
-    "headBranch": "renovate/jest-monorepo",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25540348270",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T06:17:23Z",
-    "databaseId": 25540314361,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25540314361",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-08T05:48:41Z",
     "databaseId": 25539320966,
     "event": "schedule",
@@ -306,17 +317,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/25536106150",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T04:06:30Z",
-    "databaseId": 25536098813,
-    "event": "pull_request",
-    "headBranch": "dependabot/npm_and_yarn/jest-30.4.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25536098813",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",

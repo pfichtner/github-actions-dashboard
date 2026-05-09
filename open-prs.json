@@ -10,7 +10,7 @@
     "createdAt": "2026-05-08T06:18:21Z",
     "headRefName": "renovate/jest-monorepo",
     "number": 352,
-    "title": "Update dependency jest to v30.4.0",
+    "title": "Update dependency jest to v30.4.2",
     "url": "https://github.com/pfichtner/virtualavr/pull/352",
     "repository": "pfichtner/virtualavr"
   },
