@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-10T13:33:53Z",
+    "databaseId": 25630081602,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25630081602",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-10T12:34:47Z",
+    "databaseId": 25628867234,
+    "event": "workflow_dispatch",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25628867234",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-10T07:15:09Z",
     "databaseId": 25622676403,
     "event": "pull_request",
@@ -51,17 +73,6 @@
     "headBranch": "renovate/jest-monorepo",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594265714",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-09T06:35:10Z",
-    "databaseId": 25594264921,
-    "event": "push",
-    "headBranch": "renovate/jest-monorepo",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594264921",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
@@ -328,17 +339,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/25536106150",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T04:05:53Z",
-    "databaseId": 25536079898,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25536079898",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
