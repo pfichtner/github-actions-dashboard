@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-10T07:15:09Z",
+    "databaseId": 25622676403,
+    "event": "pull_request",
+    "headBranch": "renovate/jest-monorepo",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25622676403",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-10T07:15:06Z",
+    "databaseId": 25622675587,
+    "event": "push",
+    "headBranch": "renovate/jest-monorepo",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25622675587",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-10T07:14:07Z",
+    "databaseId": 25622658985,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25622658985",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-10T06:26:32Z",
     "databaseId": 25621799872,
     "event": "schedule",
@@ -30,17 +63,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594264921",
     "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-09T06:34:07Z",
-    "databaseId": 25594243530,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25594243530",
-    "workflowName": "Renovate",
     "repository": "pfichtner/virtualavr"
   },
   {
@@ -188,17 +210,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-08T06:36:55Z",
-    "databaseId": 25541040705,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25541040705",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-08T06:36:47Z",
     "databaseId": 25541036232,
     "event": "push",
@@ -218,17 +229,6 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/25541036248",
     "workflowName": "Go",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "cancelled",
-    "createdAt": "2026-05-08T06:18:24Z",
-    "databaseId": 25540350982,
-    "event": "pull_request",
-    "headBranch": "renovate/jest-monorepo",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25540350982",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
