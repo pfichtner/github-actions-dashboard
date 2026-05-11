@@ -1,6 +1,32 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-11T04:07:05Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.14",
+    "number": 353,
+    "title": "Bump renovatebot/github-action from 46.1.13 to 46.1.14",
+    "url": "https://github.com/pfichtner/virtualavr/pull/353",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-11T04:05:30Z",
+    "headRefName": "dependabot/github_actions/actions/dependency-review-action-5.0.0",
+    "number": 494,
+    "title": "Bump actions/dependency-review-action from 4.9.0 to 5.0.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/494",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
