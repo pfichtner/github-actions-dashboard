@@ -339,38 +339,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25630617958",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T13:23:43Z",
-    "databaseId": 25558021914,
-    "event": "push",
-    "headBranch": "feature/records",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25558021914",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-08T13:17:28Z",
-    "databaseId": 25557730745,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25557730745",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-05-08T11:58:17Z",
-    "databaseId": 25554313282,
-    "event": "push",
-    "headBranch": "mutation-enhancements",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/25554313282",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
   }
 ]
