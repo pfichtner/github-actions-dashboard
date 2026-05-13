@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-13T16:46:11Z",
+    "databaseId": 25813229687,
+    "event": "workflow_dispatch",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25813229687",
+    "workflowName": "Update Vagrant Box",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-13T16:43:46Z",
+    "databaseId": 25813104479,
+    "event": "workflow_dispatch",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25813104479",
+    "workflowName": "Update Vagrant Box",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-05-13T16:28:49Z",
+    "databaseId": 25812331656,
+    "event": "push",
+    "headBranch": "0.0.6",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25812331656",
+    "workflowName": "Build, Export and Release VirtualBox Image",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-13T14:35:09Z",
     "databaseId": 25805968714,
     "event": "push",
@@ -320,17 +353,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-12T09:52:56Z",
-    "databaseId": 25726982604,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25726982604",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-12T08:50:23Z",
     "databaseId": 25723887798,
     "event": "dynamic",
@@ -482,17 +504,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/25716030196",
     "workflowName": "Scorecard supply-chain security",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-11T05:25:41Z",
-    "databaseId": 25652000899,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25652000899",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
     "conclusion": "success",
