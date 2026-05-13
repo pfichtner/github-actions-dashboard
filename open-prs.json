@@ -1,45 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-13T04:06:18Z",
-    "headRefName": "dependabot/npm_and_yarn/ws-8.20.1",
-    "number": 355,
-    "title": "Bump ws from 8.20.0 to 8.20.1",
-    "url": "https://github.com/pfichtner/virtualavr/pull/355",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-13T04:06:01Z",
-    "headRefName": "dependabot/maven/demo/java/sketchtest/org.slf4j-slf4j-api-2.0.18",
-    "number": 354,
-    "title": "Bump org.slf4j:slf4j-api from 2.0.17 to 2.0.18 in /demo/java/sketchtest",
-    "url": "https://github.com/pfichtner/virtualavr/pull/354",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-05-13T03:26:22Z",
-    "headRefName": "dependabot/maven/org.slf4j-slf4j-api-2.0.18",
-    "number": 79,
-    "title": "Bump org.slf4j:slf4j-api from 2.0.17 to 2.0.18",
-    "url": "https://github.com/pfichtner/vaadoo/pull/79",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
