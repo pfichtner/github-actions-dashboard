@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-13T14:35:09Z",
+    "databaseId": 25805968714,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25805968714",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-13T13:33:37Z",
+    "databaseId": 25802466183,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25802466183",
+    "workflowName": "Update Vagrant Box",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-13T07:38:59Z",
     "databaseId": 25785361553,
     "event": "schedule",
@@ -68,17 +90,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-13T04:48:09Z",
-    "databaseId": 25778949198,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25778949198",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-13T04:48:09Z",
     "databaseId": 25778949071,
     "event": "dynamic",
     "headBranch": "main",
@@ -86,6 +97,17 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/25778949071",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-13T04:48:09Z",
+    "databaseId": 25778949198,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25778949198",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
     "conclusion": "success",
@@ -255,17 +277,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-13T03:25:41Z",
-    "databaseId": 25776363962,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/25776363962",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-13T03:25:41Z",
     "databaseId": 25776363965,
     "event": "dynamic",
     "headBranch": "main",
@@ -288,17 +299,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-12T09:52:56Z",
-    "databaseId": 25726982604,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25726982604",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-12T09:52:56Z",
     "databaseId": 25726982289,
     "event": "dynamic",
     "headBranch": "main",
@@ -317,6 +317,17 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/25726982328",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-12T09:52:56Z",
+    "databaseId": 25726982604,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25726982604",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
     "conclusion": "success",
