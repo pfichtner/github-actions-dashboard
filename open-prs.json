@@ -1,6 +1,45 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-15T04:05:36Z",
+    "headRefName": "dependabot/maven/org.ow2.asm.version-9.10",
+    "number": 498,
+    "title": "Bump org.ow2.asm.version from 9.9.1 to 9.10",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/498",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-15T04:05:35Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.19.3",
+    "number": 497,
+    "title": "Bump step-security/harden-runner from 2.19.2 to 2.19.3",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/497",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-15T03:27:02Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.5.0",
+    "number": 81,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.4.0 to 3.5.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/81",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
