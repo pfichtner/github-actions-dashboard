@@ -515,38 +515,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/25841052659",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-13T16:46:11Z",
-    "databaseId": 25813229687,
-    "event": "workflow_dispatch",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25813229687",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-13T16:43:46Z",
-    "databaseId": 25813104479,
-    "event": "workflow_dispatch",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25813104479",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-05-13T16:28:49Z",
-    "databaseId": 25812331656,
-    "event": "push",
-    "headBranch": "0.0.6",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/25812331656",
-    "workflowName": "Build, Export and Release VirtualBox Image",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
