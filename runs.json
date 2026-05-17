@@ -504,16 +504,5 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/25841247783",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-14T04:07:08Z",
-    "databaseId": 25841052659,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/com.approvaltests-approvaltests-30.1.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/25841052659",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/mockapproval"
   }
 ]
