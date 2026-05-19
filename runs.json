@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-19T04:13:18Z",
+    "databaseId": 26075746142,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26075746142",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-18T08:32:16Z",
     "databaseId": 26022425287,
     "event": "schedule",
@@ -338,17 +349,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/testtypes/actions/runs/26013835526",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:37:49Z",
-    "databaseId": 26013817934,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26013817934",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
   },
   {
