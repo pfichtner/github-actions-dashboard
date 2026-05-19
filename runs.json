@@ -1,14 +1,201 @@
 [
   {
     "conclusion": "success",
-    "createdAt": "2026-05-19T10:44:31Z",
-    "databaseId": 26092183058,
-    "event": "schedule",
+    "createdAt": "2026-05-19T15:41:20Z",
+    "databaseId": 26108078046,
+    "event": "dynamic",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26092183058",
-    "workflowName": "Scorecard supply-chain security",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26108078046",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:40:19Z",
+    "databaseId": 26108018522,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26108018522",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:39:58Z",
+    "databaseId": 26107998042,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26107998042",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:39:58Z",
+    "databaseId": 26107998162,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26107998162",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:38:36Z",
+    "databaseId": 26107921201,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26107921201",
+    "workflowName": "CodeQL",
     "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:38:36Z",
+    "databaseId": 26107921202,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26107921202",
+    "workflowName": "Dependency Review",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:38:36Z",
+    "databaseId": 26107921206,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26107921206",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:37:35Z",
+    "databaseId": 26107861337,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26107861337",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:37:35Z",
+    "databaseId": 26107861889,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26107861889",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:37:11Z",
+    "databaseId": 26107835511,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.24.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26107835511",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:37:06Z",
+    "databaseId": 26107830847,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26107830847",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:36:27Z",
+    "databaseId": 26107793795,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26107793795",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:36:16Z",
+    "databaseId": 26107782365,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26107782365",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T14:50:20Z",
+    "databaseId": 26105074489,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26105074489",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T14:50:18Z",
+    "databaseId": 26105071635,
+    "event": "push",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26105071635",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T14:49:07Z",
+    "databaseId": 26105002634,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26105002634",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T14:48:55Z",
+    "databaseId": 26104991300,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.6.3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26104991300",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T14:48:51Z",
+    "databaseId": 26104987555,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-enforcer-plugin-3.6.3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26104987555",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
@@ -45,17 +232,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-19T04:13:18Z",
-    "databaseId": 26075746142,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26075746142",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-18T08:32:16Z",
     "databaseId": 26022425287,
     "event": "schedule",
@@ -75,83 +251,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26020640907",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:42Z",
-    "databaseId": 26017390150,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26017390150",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:40Z",
-    "databaseId": 26017389224,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26017389224",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:40Z",
-    "databaseId": 26017389226,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26017389226",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:39Z",
-    "databaseId": 26017388765,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26017388765",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:35Z",
-    "databaseId": 26017386193,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26017386193",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:35Z",
-    "databaseId": 26017386201,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26017386201",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:35Z",
-    "databaseId": 26017386220,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26017386220",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -331,94 +430,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-18T04:39:55Z",
-    "databaseId": 26013877584,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26013877584",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:39:55Z",
-    "databaseId": 26013877594,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26013877594",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:39:55Z",
-    "databaseId": 26013877601,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26013877601",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:39:19Z",
-    "databaseId": 26013860481,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26013860481",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:05:53Z",
-    "databaseId": 26012913705,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.5.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26012913705",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:05:49Z",
-    "databaseId": 26012912039,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.5.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26012912039",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:05:09Z",
-    "databaseId": 26012894486,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26012894486",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:05:09Z",
-    "databaseId": 26012894489,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26012894489",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-17T15:34:35Z",
     "databaseId": 25995097901,
     "event": "schedule",
@@ -426,17 +437,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25995097901",
     "workflowName": "Matrix Docker Build & Push",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-17T06:37:29Z",
-    "databaseId": 25983675204,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25983675204",
-    "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
   }
 ]
