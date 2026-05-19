@@ -1,6 +1,138 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-19T17:14:47Z",
+    "databaseId": 26113188805,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/26113188805",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T17:14:46Z",
+    "databaseId": 26113187749,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.24.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/26113187749",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T17:14:45Z",
+    "databaseId": 26113186743,
+    "event": "push",
+    "headBranch": "dependabot/github_actions/codecov/codecov-action-6.0.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/26113186743",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T17:14:44Z",
+    "databaseId": 26113185664,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.24.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/26113185664",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T17:14:15Z",
+    "databaseId": 26113159784,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/26113159784",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T17:14:12Z",
+    "databaseId": 26113156856,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/26113156856",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:59:39Z",
+    "databaseId": 26109121526,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/26109121526",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:59:39Z",
+    "databaseId": 26109121684,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/26109121684",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:52:00Z",
+    "databaseId": 26108691987,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26108691987",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:52:00Z",
+    "databaseId": 26108692020,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26108692020",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:43:37Z",
+    "databaseId": 26108209422,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/26108209422",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T15:43:37Z",
+    "databaseId": 26108209490,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/26108209490",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-19T15:41:20Z",
     "databaseId": 26108078046,
     "event": "dynamic",
@@ -276,39 +408,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-18T06:30:16Z",
-    "databaseId": 26017372600,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26017372600",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:18:34Z",
-    "databaseId": 26016948457,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.5.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26016948457",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:18:30Z",
-    "databaseId": 26016946226,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.5.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26016946226",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-18T06:17:53Z",
     "databaseId": 26016924445,
     "event": "dynamic",
@@ -317,28 +416,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/26016924445",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:17:53Z",
-    "databaseId": 26016924398,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26016924398",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T06:17:53Z",
-    "databaseId": 26016924449,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26016924449",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
@@ -365,33 +442,11 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-18T04:46:35Z",
-    "databaseId": 26014068616,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26014068616",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:46:35Z",
     "databaseId": 26014068642,
     "event": "pull_request",
     "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
     "status": "completed",
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26014068642",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:46:33Z",
-    "databaseId": 26014067736,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26014067736",
     "workflowName": "Go",
     "repository": "pfichtner/mqtt-machine-state"
   },
