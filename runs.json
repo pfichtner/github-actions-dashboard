@@ -1,6 +1,50 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-19T10:44:31Z",
+    "databaseId": 26092183058,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26092183058",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T08:02:58Z",
+    "databaseId": 26084423967,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26084423967",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T07:33:08Z",
+    "databaseId": 26083066769,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26083066769",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-19T06:28:35Z",
+    "databaseId": 26080362275,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26080362275",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-19T04:13:18Z",
     "databaseId": 26075746142,
     "event": "dynamic",
@@ -321,17 +365,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-05-18T04:39:19Z",
-    "databaseId": 26013860470,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26013860470",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:39:19Z",
     "databaseId": 26013860481,
     "event": "pull_request",
     "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
@@ -339,17 +372,6 @@
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26013860481",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-18T04:38:26Z",
-    "databaseId": 26013835526,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action-4.35.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26013835526",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -408,34 +430,12 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-17T07:22:04Z",
-    "databaseId": 25984528946,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/25984528946",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-17T06:37:29Z",
     "databaseId": 25983675204,
     "event": "schedule",
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25983675204",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-16T06:13:28Z",
-    "databaseId": 25954719867,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/25954719867",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
   }
