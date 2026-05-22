@@ -1,6 +1,45 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-22T04:12:52Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.19.4",
+    "number": 237,
+    "title": "Bump step-security/harden-runner from 2.19.3 to 2.19.4",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/237",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-22T04:06:48Z",
+    "headRefName": "dependabot/github_actions/docker/build-push-action-7.2.0",
+    "number": 358,
+    "title": "Bump docker/build-push-action from 7.1.0 to 7.2.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/358",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-22T04:05:42Z",
+    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.19.4",
+    "number": 501,
+    "title": "Bump step-security/harden-runner from 2.19.3 to 2.19.4",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/501",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
