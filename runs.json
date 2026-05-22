@@ -1,23 +1,56 @@
 [
   {
-    "conclusion": "failure",
-    "createdAt": "2026-05-22T10:34:12Z",
-    "databaseId": 26282784959,
+    "conclusion": "success",
+    "createdAt": "2026-05-22T17:45:30Z",
+    "databaseId": 26303153202,
     "event": "push",
-    "headBranch": "main",
+    "headBranch": "0.0.3",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26282784959",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26303153202",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-05-22T10:17:58Z",
-    "databaseId": 26282076837,
+    "conclusion": "success",
+    "createdAt": "2026-05-22T17:44:52Z",
+    "databaseId": 26303123014,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26282076837",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26303123014",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-22T17:35:40Z",
+    "databaseId": 26302706318,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26302706318",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-22T17:32:43Z",
+    "databaseId": 26302570788,
+    "event": "pull_request",
+    "headBranch": "bug/get-no-such-element-exception",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26302570788",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-22T17:31:26Z",
+    "databaseId": 26302512747,
+    "event": "push",
+    "headBranch": "bug/get-no-such-element-exception",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26302512747",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
@@ -309,28 +342,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-22T03:25:44Z",
-    "databaseId": 26266658084,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26266658084",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-22T03:25:44Z",
-    "databaseId": 26266658096,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26266658096",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-21T09:30:30Z",
     "databaseId": 26217721693,
     "event": "push",
@@ -463,17 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-05-21T03:26:17Z",
-    "databaseId": 26203606193,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26203606193",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-05-20T14:00:58Z",
     "databaseId": 26167555211,
     "event": "schedule",
@@ -537,16 +537,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26150203901",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-19T17:14:12Z",
-    "databaseId": 26113156856,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/26113156856",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
