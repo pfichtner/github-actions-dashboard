@@ -1,5 +1,27 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-05-24T10:12:49Z",
+    "databaseId": 26358467468,
+    "event": "pull_request",
+    "headBranch": "feat/ConstraintValidator#initialize",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26358467468",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-05-24T10:12:47Z",
+    "databaseId": 26358466754,
+    "event": "push",
+    "headBranch": "feat/ConstraintValidator#initialize",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26358466754",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-05-24T09:32:42Z",
     "databaseId": 26357671409,
@@ -108,28 +130,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26324703501",
     "workflowName": "Cleanup untagged GHCR images",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-22T22:46:20Z",
-    "databaseId": 26315606926,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26315606926",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-22T22:32:50Z",
-    "databaseId": 26315169744,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26315169744",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
