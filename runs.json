@@ -1,5 +1,16 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-05-24T15:41:36Z",
+    "databaseId": 26365550118,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26365550118",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-05-24T10:12:49Z",
     "databaseId": 26358467468,
@@ -317,17 +328,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/26267866360",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-22T04:06:48Z",
-    "databaseId": 26267837335,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26267837335",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
