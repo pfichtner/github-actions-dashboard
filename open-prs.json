@@ -1,6 +1,110 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:40:34Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.36.0",
+    "number": 238,
+    "title": "Bump github/codeql-action from 4.35.5 to 4.36.0",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/238",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:34:56Z",
+    "headRefName": "dependabot/npm_and_yarn/ws-8.21.0",
+    "number": 362,
+    "title": "Bump ws from 8.20.1 to 8.21.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/362",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:34:49Z",
+    "headRefName": "dependabot/github_actions/docker/metadata-action-6.1.0",
+    "number": 361,
+    "title": "Bump docker/metadata-action from 6.0.0 to 6.1.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/361",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:34:45Z",
+    "headRefName": "dependabot/github_actions/docker/login-action-4.2.0",
+    "number": 360,
+    "title": "Bump docker/login-action from 4.1.0 to 4.2.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/360",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:33:43Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.36.0",
+    "number": 503,
+    "title": "Bump github/codeql-action from 4.35.5 to 4.36.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/503",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:33:25Z",
+    "headRefName": "dependabot/maven/org.ow2.asm.version-9.10.1",
+    "number": 502,
+    "title": "Bump org.ow2.asm.version from 9.10 to 9.10.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/502",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:32:52Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action-4.36.0",
+    "number": 531,
+    "title": "Bump github/codeql-action from 4.35.5 to 4.36.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/531",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-05-25T04:32:48Z",
+    "headRefName": "dependabot/maven/org.pitest-pitest-maven-1.25.0",
+    "number": 530,
+    "title": "Bump org.pitest:pitest-maven from 1.24.1 to 1.25.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/530",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
