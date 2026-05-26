@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-26T04:13:29Z",
+    "databaseId": 26431845935,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26431845935",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-25T20:53:59Z",
     "databaseId": 26419392658,
     "event": "push",
@@ -184,17 +195,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/testtypes/actions/runs/26389594726",
     "workflowName": "CodeQL",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-25T07:46:56Z",
-    "databaseId": 26389592428,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26389592428",
-    "workflowName": "Java CI with Maven",
     "repository": "pfichtner/testtypes"
   },
   {
