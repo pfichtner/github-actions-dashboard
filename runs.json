@@ -537,38 +537,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26442847062",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-25T12:58:08Z",
-    "databaseId": 26401703361,
-    "event": "push",
-    "headBranch": "esp32h2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ESP32-RaceBox-mini-Emulator/actions/runs/26401703361",
-    "workflowName": "ESP32 Compile Check",
-    "repository": "pfichtner/ESP32-RaceBox-mini-Emulator"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-25T12:53:57Z",
-    "databaseId": 26401535637,
-    "event": "push",
-    "headBranch": "esp32h2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ESP32-RaceBox-mini-Emulator/actions/runs/26401535637",
-    "workflowName": "ESP32 Compile Check",
-    "repository": "pfichtner/ESP32-RaceBox-mini-Emulator"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-05-25T12:25:17Z",
-    "databaseId": 26400386612,
-    "event": "push",
-    "headBranch": "esp32h2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ESP32-RaceBox-mini-Emulator/actions/runs/26400386612",
-    "workflowName": "ESP32 Compile Check",
-    "repository": "pfichtner/ESP32-RaceBox-mini-Emulator"
   }
 ]
