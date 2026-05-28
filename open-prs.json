@@ -7,6 +7,21 @@
       "name": "Peter Fichtner"
     },
     "baseRefName": "main",
+    "createdAt": "2026-05-28T21:22:38Z",
+    "headRefName": "feat/ConstraintValidator#initialize#3",
+    "number": 93,
+    "title": "Feat/constraint validator#initialize#3",
+    "url": "https://github.com/pfichtner/vaadoo/pull/93",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-05-24T09:32:38Z",
     "headRefName": "feat/ConstraintValidator#initialize",
     "number": 89,

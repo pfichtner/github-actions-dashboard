@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-05-28T21:22:42Z",
+    "databaseId": 26603068259,
+    "event": "pull_request",
+    "headBranch": "feat/ConstraintValidator#initialize#3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26603068259",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-05-28T21:21:18Z",
+    "databaseId": 26603006047,
+    "event": "push",
+    "headBranch": "feat/ConstraintValidator#initialize#3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26603006047",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-28T08:27:42Z",
     "databaseId": 26563681093,
     "event": "schedule",
@@ -414,28 +436,6 @@
     "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.6.0",
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/26552833569",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-28T03:27:38Z",
-    "databaseId": 26552832327,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.6.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26552832327",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-28T03:27:26Z",
-    "databaseId": 26552826231,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.5.6",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26552826231",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
   },
