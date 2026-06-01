@@ -7,6 +7,21 @@
       "name": "Peter Fichtner"
     },
     "baseRefName": "main",
+    "createdAt": "2026-06-01T10:03:13Z",
+    "headRefName": "renovate/logback-monorepo",
+    "number": 368,
+    "title": "Update dependency ch.qos.logback:logback-classic to v1.5.34",
+    "url": "https://github.com/pfichtner/virtualavr/pull/368",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-05-28T21:22:38Z",
     "headRefName": "feat/ConstraintValidator#initialize#3",
     "number": 93,
