@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-01T04:43:32Z",
+    "databaseId": 26735608568,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26735608568",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-01T04:18:13Z",
+    "databaseId": 26734892751,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26734892751",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-01T03:59:50Z",
+    "databaseId": 26734394408,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26734394408",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-01T02:56:11Z",
+    "databaseId": 26732695076,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26732695076",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-01T02:35:20Z",
+    "databaseId": 26732171850,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26732171850",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-05-31T15:45:56Z",
     "databaseId": 26717080571,
     "event": "schedule",
@@ -141,225 +196,5 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/26621572070",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:59:54Z",
-    "databaseId": 26618987128,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/net.javacrumbs.json-unit-json-unit-assertj-5.1.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26618987128",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:59:52Z",
-    "databaseId": 26618986108,
-    "event": "push",
-    "headBranch": "dependabot/maven/net.javacrumbs.json-unit-json-unit-assertj-5.1.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26618986108",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:59:49Z",
-    "databaseId": 26618984827,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.25.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/26618984827",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:59:10Z",
-    "databaseId": 26618963301,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/26618963301",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:18:04Z",
-    "databaseId": 26617658799,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/26617658799",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:18:04Z",
-    "databaseId": 26617658824,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/26617658824",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:13:04Z",
-    "databaseId": 26617511542,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26617511542",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:13:04Z",
-    "databaseId": 26617511658,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/26617511658",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:07:47Z",
-    "databaseId": 26617352213,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/26617352213",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:07:47Z",
-    "databaseId": 26617352255,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/26617352255",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:06:12Z",
-    "databaseId": 26617305181,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26617305181",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:06:12Z",
-    "databaseId": 26617305358,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26617305358",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:05:00Z",
-    "databaseId": 26617267457,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.25.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26617267457",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:04:51Z",
-    "databaseId": 26617263390,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26617263390",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:04:51Z",
-    "databaseId": 26617263455,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26617263455",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T04:04:13Z",
-    "databaseId": 26617243763,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26617243763",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T03:26:33Z",
-    "databaseId": 26616101946,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26616101946",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-29T03:26:33Z",
-    "databaseId": 26616101984,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26616101984",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-28T21:22:42Z",
-    "databaseId": 26603068259,
-    "event": "pull_request",
-    "headBranch": "feat/ConstraintValidator#initialize#3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26603068259",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-28T21:21:18Z",
-    "databaseId": 26603006047,
-    "event": "push",
-    "headBranch": "feat/ConstraintValidator#initialize#3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/26603006047",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   }
 ]
