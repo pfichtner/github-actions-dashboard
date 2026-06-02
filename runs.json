@@ -1,6 +1,50 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-02T11:43:22Z",
+    "databaseId": 26817468643,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/26817468643",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-02T08:53:14Z",
+    "databaseId": 26809223419,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26809223419",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-02T08:17:01Z",
+    "databaseId": 26807422822,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26807422822",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-02T06:58:29Z",
+    "databaseId": 26803854496,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/26803854496",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-02T04:13:51Z",
     "databaseId": 26797961026,
     "event": "dynamic",
@@ -144,17 +188,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-01T09:50:55Z",
-    "databaseId": 26747690512,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.25.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/26747690512",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-01T09:07:03Z",
     "databaseId": 26745642928,
     "event": "schedule",
@@ -240,17 +273,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26741117410",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-01T07:23:38Z",
-    "databaseId": 26741052946,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26741052946",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -392,17 +414,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26706673102",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-05-30T06:38:15Z",
-    "databaseId": 26677083461,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26677083461",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
   }
