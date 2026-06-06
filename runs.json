@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-06T07:34:01Z",
+    "databaseId": 27056341730,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/27056341730",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-06T06:44:28Z",
+    "databaseId": 27055324045,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27055324045",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-06T05:46:25Z",
+    "databaseId": 27054147440,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27054147440",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-05T13:40:47Z",
     "databaseId": 27018315846,
     "event": "schedule",
@@ -342,17 +375,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-04T08:38:43Z",
-    "databaseId": 26940777353,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/26940777353",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-04T08:09:14Z",
     "databaseId": 26939358926,
     "event": "schedule",
@@ -441,17 +463,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-04T04:31:35Z",
-    "databaseId": 26930837405,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26930837405",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-04T04:28:03Z",
     "databaseId": 26930703272,
     "event": "dynamic",
@@ -515,17 +526,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/26915425298",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-03T21:52:20Z",
-    "databaseId": 26915297992,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/26915297992",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
