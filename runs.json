@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-07T19:57:05Z",
+    "databaseId": 27103151864,
+    "event": "push",
+    "headBranch": "debug-info",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/27103151864",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-07T15:49:09Z",
     "databaseId": 27097293510,
     "event": "schedule",
