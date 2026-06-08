@@ -449,16 +449,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27055324045",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-05T13:40:47Z",
-    "databaseId": 27018315846,
-    "event": "schedule",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/27018315846",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
   }
 ]
