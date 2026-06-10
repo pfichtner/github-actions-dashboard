@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-06-10T04:03:01Z",
-    "headRefName": "dependabot/maven/org.pitest-pitest-maven-1.25.4",
-    "number": 544,
-    "title": "Bump org.pitest:pitest-maven from 1.25.3 to 1.25.4",
-    "url": "https://github.com/pfichtner/testtypes/pull/544",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
