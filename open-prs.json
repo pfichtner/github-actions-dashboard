@@ -1,6 +1,21 @@
 [
   {
     "author": {
+      "id": "MDQ6VXNlcjI0NjM4Ng==",
+      "is_bot": false,
+      "login": "ntninja",
+      "name": "Erin of Yukis"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-06-13T15:50:42Z",
+    "headRefName": "patch-1",
+    "number": 102,
+    "title": "entrypoint: Do not attempt to drop to builduser if workspace appears to be owned by `root`",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/102",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
