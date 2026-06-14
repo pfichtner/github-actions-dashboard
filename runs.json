@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "failure",
+    "createdAt": "2026-06-14T16:01:50Z",
+    "databaseId": 27504344201,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27504344201",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "failure",
     "createdAt": "2026-06-14T09:10:01Z",
     "databaseId": 27494207451,
     "event": "release",
@@ -97,17 +108,6 @@
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/27442250204",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-12T08:13:10Z",
-    "databaseId": 27403503980,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27403503980",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
