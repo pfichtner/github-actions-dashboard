@@ -1,6 +1,6 @@
 [
   {
-    "conclusion": "failure",
+    "conclusion": "success",
     "createdAt": "2026-06-14T16:01:50Z",
     "databaseId": 27504344201,
     "event": "schedule",
