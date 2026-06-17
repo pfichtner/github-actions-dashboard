@@ -1,6 +1,105 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-17T09:19:31Z",
+    "databaseId": 27678819517,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/27678819517",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T08:50:48Z",
+    "databaseId": 27677251236,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27677251236",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:41Z",
+    "databaseId": 27669069123,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/27669069123",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:27Z",
+    "databaseId": 27669060126,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/27669060126",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:23Z",
+    "databaseId": 27669057364,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/27669057364",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:23Z",
+    "databaseId": 27669057392,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/27669057392",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:23Z",
+    "databaseId": 27669057396,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/27669057396",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:15Z",
+    "databaseId": 27669052282,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/27669052282",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-17T05:59:09Z",
+    "databaseId": 27669048651,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/27669048651",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-17T04:44:10Z",
     "databaseId": 27666341759,
     "event": "pull_request",
@@ -34,17 +133,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-17T04:44:02Z",
-    "databaseId": 27666336895,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.7.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/27666336895",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-17T04:43:21Z",
     "databaseId": 27666314424,
     "event": "dynamic",
@@ -53,17 +141,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/27666314424",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-17T04:43:21Z",
-    "databaseId": 27666314425,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/27666314425",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
@@ -108,17 +185,6 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/27664992417",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-17T04:03:29Z",
-    "databaseId": 27664952229,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/actions/setup-java-5.3.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/27664952229",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -210,28 +276,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-17T04:02:46Z",
-    "databaseId": 27664925482,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/27664925482",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-17T04:02:46Z",
-    "databaseId": 27664925515,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/27664925515",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-17T04:02:32Z",
     "databaseId": 27664917602,
     "event": "dynamic",
@@ -283,28 +327,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/27663634637",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-17T03:23:57Z",
-    "databaseId": 27663633190,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.sonatype.central-central-publishing-maven-plugin-0.11.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/27663633190",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-17T03:23:33Z",
-    "databaseId": 27663619913,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/27663619913",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
   },
   {
@@ -441,17 +463,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-16T04:02:55Z",
-    "databaseId": 27593290086,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/27593290086",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-16T04:02:26Z",
     "databaseId": 27593272125,
     "event": "dynamic",
@@ -515,16 +526,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/27523290878",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-15T04:03:46Z",
-    "databaseId": 27523234345,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27523234345",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
