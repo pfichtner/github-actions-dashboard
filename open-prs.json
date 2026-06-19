@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-06-19T04:03:45Z",
-    "headRefName": "dependabot/github_actions/actions/checkout-7",
-    "number": 155,
-    "title": "Bump actions/checkout from 6 to 7",
-    "url": "https://github.com/pfichtner/mockapproval/pull/155",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
