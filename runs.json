@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-21T08:46:35Z",
+    "databaseId": 27899093177,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/27899093177",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-21T08:18:35Z",
+    "databaseId": 27898437817,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27898437817",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-20T08:03:16Z",
     "databaseId": 27865066768,
     "event": "schedule",
@@ -441,17 +463,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-19T04:03:29Z",
-    "databaseId": 27804606078,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/actions/checkout-7.0.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/27804606078",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-19T04:03:05Z",
     "databaseId": 27804591777,
     "event": "dynamic",
@@ -504,16 +515,5 @@
     "url": "https://github.com/pfichtner/RFLink32/actions/runs/27772447124",
     "workflowName": "Rflink Build Tests",
     "repository": "pfichtner/RFLink32"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-18T08:27:40Z",
-    "databaseId": 27746814226,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27746814226",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
