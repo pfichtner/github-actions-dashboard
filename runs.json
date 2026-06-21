@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-21T16:13:36Z",
+    "databaseId": 27910109768,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27910109768",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-21T08:46:35Z",
     "databaseId": 27899093177,
     "event": "schedule",
@@ -463,17 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-19T04:03:05Z",
-    "databaseId": 27804591777,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27804591777",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-19T03:23:59Z",
     "databaseId": 27803401868,
     "event": "pull_request",
@@ -504,16 +504,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/27803398983",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-18T16:00:56Z",
-    "databaseId": 27772447124,
-    "event": "push",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/RFLink32/actions/runs/27772447124",
-    "workflowName": "Rflink Build Tests",
-    "repository": "pfichtner/RFLink32"
   }
 ]
