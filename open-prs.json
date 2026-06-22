@@ -1,45 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-06-22T04:44:53Z",
-    "headRefName": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.2",
-    "number": 116,
-    "title": "Bump au.com.dius.pact.consumer:junit5 from 4.7.1 to 4.7.2",
-    "url": "https://github.com/pfichtner/pacto/pull/116",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-06-22T04:04:11Z",
-    "headRefName": "dependabot/github_actions/actions/checkout-7",
-    "number": 105,
-    "title": "Bump actions/checkout from 6 to 7",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/105",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-06-22T04:04:00Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.16",
-    "number": 374,
-    "title": "Bump renovatebot/github-action from 46.1.15 to 46.1.16",
-    "url": "https://github.com/pfichtner/virtualavr/pull/374",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
