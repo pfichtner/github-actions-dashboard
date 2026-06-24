@@ -1,6 +1,105 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-06-24T07:59:55Z",
+    "databaseId": 28084098953,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/28084098953",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T07:29:22Z",
+    "databaseId": 28082563833,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/28082563833",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T05:54:41Z",
+    "databaseId": 28078342618,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/28078342618",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T05:54:34Z",
+    "databaseId": 28078338019,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/28078338019",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T05:54:30Z",
+    "databaseId": 28078335302,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/28078335302",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T04:44:05Z",
+    "databaseId": 28075719254,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/28075719254",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T04:44:03Z",
+    "databaseId": 28075717618,
+    "event": "push",
+    "headBranch": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/28075717618",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T04:44:03Z",
+    "databaseId": 28075718063,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/actions/cache-6",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/28075718063",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-06-24T04:43:25Z",
+    "databaseId": 28075695573,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/28075695573",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-06-24T04:04:51Z",
     "databaseId": 28074348738,
     "event": "dynamic",
@@ -97,28 +196,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/28074278846",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-24T04:02:49Z",
-    "databaseId": 28074274075,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/28074274075",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-24T04:02:49Z",
-    "databaseId": 28074274100,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/28074274100",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -240,28 +317,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/28002736392",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-23T04:43:06Z",
-    "databaseId": 28002736054,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/28002736054",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-23T04:43:06Z",
-    "databaseId": 28002736072,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/28002736072",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
   },
   {
     "conclusion": "success",
@@ -419,39 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-06-22T06:44:20Z",
-    "databaseId": 27934632614,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/27934632614",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-22T04:44:57Z",
-    "databaseId": 27930160441,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/27930160441",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-22T04:44:55Z",
-    "databaseId": 27930159365,
-    "event": "push",
-    "headBranch": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/27930159365",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-06-22T04:44:18Z",
     "databaseId": 27930140225,
     "event": "dynamic",
@@ -493,17 +515,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/27928753155",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-22T04:03:37Z",
-    "databaseId": 27928735878,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/27928735878",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
