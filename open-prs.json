@@ -1,6 +1,32 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-06-24T04:03:45Z",
+    "headRefName": "dependabot/maven/demo/java/sketchtest/ch.qos.logback-logback-classic-1.5.35",
+    "number": 375,
+    "title": "Bump ch.qos.logback:logback-classic from 1.5.34 to 1.5.35 in /demo/java/sketchtest",
+    "url": "https://github.com/pfichtner/virtualavr/pull/375",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-06-24T04:03:34Z",
+    "headRefName": "dependabot/github_actions/actions/cache-6",
+    "number": 106,
+    "title": "Bump actions/cache from 5 to 6",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/106",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
