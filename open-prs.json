@@ -1,29 +1,18 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-06-26T04:03:43Z",
-    "headRefName": "dependabot/maven/demo/java/sketchtest/ch.qos.logback-logback-classic-1.5.36",
-    "number": 376,
-    "title": "Bump ch.qos.logback:logback-classic from 1.5.35 to 1.5.36 in /demo/java/sketchtest",
-    "url": "https://github.com/pfichtner/virtualavr/pull/376",
+    "createdAt": "2026-06-26T08:17:30Z",
+    "headRefName": "renovate/logback-monorepo",
+    "number": 377,
+    "title": "Update dependency ch.qos.logback:logback-classic to v1.5.36",
+    "url": "https://github.com/pfichtner/virtualavr/pull/377",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-06-26T04:03:09Z",
-    "headRefName": "dependabot/github_actions/actions/setup-java-5.4.0",
-    "number": 513,
-    "title": "Bump actions/setup-java from 5.3.0 to 5.4.0",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/513",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "author": {
