@@ -10,7 +10,7 @@
     "createdAt": "2026-06-26T08:17:30Z",
     "headRefName": "renovate/logback-monorepo",
     "number": 377,
-    "title": "Update dependency ch.qos.logback:logback-classic to v1.5.36",
+    "title": "Update dependency ch.qos.logback:logback-classic to v1.5.37",
     "url": "https://github.com/pfichtner/virtualavr/pull/377",
     "repository": "pfichtner/virtualavr"
   },
