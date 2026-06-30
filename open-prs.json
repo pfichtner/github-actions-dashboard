@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-06-30T03:23:54Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.8.0",
+    "number": 104,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.7.0 to 3.8.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/104",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
