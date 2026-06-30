@@ -1,5 +1,16 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-06-30T20:32:19Z",
+    "databaseId": 28473963295,
+    "event": "push",
+    "headBranch": "reimplement-mjsip",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28473963295",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-06-30T10:39:56Z",
     "databaseId": 28438331927,
@@ -403,17 +414,6 @@
     "headBranch": "dependabot/maven/org.junit-junit-bom-6.1.1",
     "status": "completed",
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28347886163",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-29T04:06:33Z",
-    "databaseId": 28347884924,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.junit-junit-bom-6.1.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28347884924",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
