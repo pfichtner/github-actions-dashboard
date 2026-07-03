@@ -5,6 +5,149 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-07-03T04:43:51Z",
+    "headRefName": "dependabot/maven/net.bytebuddy-byte-buddy-1.18.11",
+    "number": 121,
+    "title": "Bump net.bytebuddy:byte-buddy from 1.18.10 to 1.18.11",
+    "url": "https://github.com/pfichtner/pacto/pull/121",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:05:17Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
+    "number": 244,
+    "title": "Bump github/codeql-action/analyze from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/244",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:05:11Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.36.3",
+    "number": 243,
+    "title": "Bump github/codeql-action/init from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/243",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:05:04Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.36.3",
+    "number": 242,
+    "title": "Bump github/codeql-action/autobuild from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/242",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:39Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
+    "number": 517,
+    "title": "Bump github/codeql-action/analyze from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/517",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:29Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.36.3",
+    "number": 516,
+    "title": "Bump github/codeql-action/init from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/516",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:22Z",
+    "headRefName": "dependabot/github_actions/docker/metadata-action-6.2.0",
+    "number": 383,
+    "title": "Bump docker/metadata-action from 6.1.0 to 6.2.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/383",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:21Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3",
+    "number": 515,
+    "title": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/515",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:18Z",
+    "headRefName": "dependabot/github_actions/docker/login-action-4.3.0",
+    "number": 382,
+    "title": "Bump docker/login-action from 4.2.0 to 4.3.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/382",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:11Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.36.3",
+    "number": 514,
+    "title": "Bump github/codeql-action/autobuild from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/514",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-03T04:03:06Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.36.3",
+    "number": 549,
+    "title": "Bump github/codeql-action/upload-sarif from 4.36.2 to 4.36.3",
+    "url": "https://github.com/pfichtner/testtypes/pull/549",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-07-03T03:23:59Z",
     "headRefName": "dependabot/maven/bytebuddy.version-1.18.11",
     "number": 105,
