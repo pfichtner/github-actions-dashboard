@@ -1,5 +1,49 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T03:24:02Z",
+    "databaseId": 28636293648,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/bytebuddy.version-1.18.11",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28636293648",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T03:24:00Z",
+    "databaseId": 28636292072,
+    "event": "push",
+    "headBranch": "dependabot/maven/bytebuddy.version-1.18.11",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28636292072",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T03:23:09Z",
+    "databaseId": 28636265236,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28636265236",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T03:23:09Z",
+    "databaseId": 28636265318,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28636265318",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-07-02T08:55:59Z",
     "databaseId": 28577919650,
@@ -233,17 +277,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-07-02T03:23:08Z",
-    "databaseId": 28563065442,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28563065442",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-02T03:23:08Z",
     "databaseId": 28563065470,
     "event": "dynamic",
     "headBranch": "main",
@@ -452,28 +485,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-01T03:26:41Z",
-    "databaseId": 28491379686,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28491379686",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-01T03:26:40Z",
-    "databaseId": 28491379669,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28491379669",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-07-01T02:27:26Z",
     "databaseId": 28489309257,
     "event": "schedule",
@@ -493,17 +504,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/28428332761",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-06-30T06:26:19Z",
-    "databaseId": 28424842224,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28424842224",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
