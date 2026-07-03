@@ -1,6 +1,116 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-03T18:41:29Z",
+    "databaseId": 28678038364,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28678038364",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:41:29Z",
+    "databaseId": 28678038365,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28678038365",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:41:29Z",
+    "databaseId": 28678038386,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28678038386",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-07-03T18:41:14Z",
+    "databaseId": 28678029013,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28678029013",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:41:14Z",
+    "databaseId": 28678029015,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28678029015",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:40:24Z",
+    "databaseId": 28677995173,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28677995173",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:40:24Z",
+    "databaseId": 28677995199,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28677995199",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:40:05Z",
+    "databaseId": 28677982299,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28677982299",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-07-03T18:40:05Z",
+    "databaseId": 28677982312,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28677982312",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-03T18:39:57Z",
+    "databaseId": 28677977465,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28677977465",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-03T08:50:36Z",
     "databaseId": 28649557676,
     "event": "push",
@@ -53,39 +163,6 @@
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/28649521202",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-03T08:49:30Z",
-    "databaseId": 28649501074,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28649501074",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-03T08:49:30Z",
-    "databaseId": 28649501082,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28649501082",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-03T08:49:30Z",
-    "databaseId": 28649501105,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28649501105",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -188,28 +265,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-03T04:05:22Z",
-    "databaseId": 28637647315,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28637647315",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-03T04:05:22Z",
-    "databaseId": 28637647323,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28637647323",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-07-03T04:05:19Z",
     "databaseId": 28637645518,
     "event": "dynamic",
@@ -221,17 +276,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-03T04:05:19Z",
-    "databaseId": 28637645695,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28637645695",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-07-03T04:05:18Z",
     "databaseId": 28637645460,
     "event": "dynamic",
@@ -240,50 +284,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28637645460",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-03T04:05:15Z",
-    "databaseId": 28637643299,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/init-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28637643299",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-03T04:05:15Z",
-    "databaseId": 28637643302,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/init-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/28637643302",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-03T04:03:43Z",
-    "databaseId": 28637590851,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28637590851",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-03T04:03:43Z",
-    "databaseId": 28637590864,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.36.3",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28637590864",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
