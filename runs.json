@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "failure",
+    "createdAt": "2026-07-04T17:12:26Z",
+    "databaseId": 28713628583,
+    "event": "push",
+    "headBranch": "debug-ci-integration-test",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28713628583",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "failure",
     "createdAt": "2026-07-04T11:37:36Z",
     "databaseId": 28704981631,
     "event": "push",
@@ -40,17 +51,6 @@
     "headBranch": "reimplement-mjsip",
     "status": "completed",
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28704653555",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-04T11:21:01Z",
-    "databaseId": 28704583996,
-    "event": "push",
-    "headBranch": "reimplement-mjsip",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28704583996",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
