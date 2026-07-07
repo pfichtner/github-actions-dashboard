@@ -482,16 +482,5 @@
     "url": "https://github.com/pfichtner/esphome-configs/actions/runs/28740017604",
     "workflowName": "ESPHome CI Compile",
     "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-04T17:12:26Z",
-    "databaseId": 28713628583,
-    "event": "push",
-    "headBranch": "debug-ci-integration-test",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/28713628583",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
   }
 ]
