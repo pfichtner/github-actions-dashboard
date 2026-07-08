@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-08T12:56:31Z",
+    "databaseId": 28944312133,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/28944312133",
+    "workflowName": "Update Vagrant Box",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-08T07:09:51Z",
     "databaseId": 28924443533,
     "event": "schedule",
@@ -526,16 +537,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/28765708552",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-05T11:59:11Z",
-    "databaseId": 28740017604,
-    "event": "schedule",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/28740017604",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
   }
 ]
