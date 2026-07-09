@@ -1,6 +1,45 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-09T04:03:38Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.37.0",
+    "number": 520,
+    "title": "Bump github/codeql-action/autobuild from 4.36.3 to 4.37.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/520",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-09T04:03:24Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.0",
+    "number": 552,
+    "title": "Bump github/codeql-action/upload-sarif from 4.36.3 to 4.37.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/552",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-09T04:03:17Z",
+    "headRefName": "dependabot/maven/org.pitest-pitest-maven-1.25.7",
+    "number": 551,
+    "title": "Bump org.pitest:pitest-maven from 1.25.6 to 1.25.7",
+    "url": "https://github.com/pfichtner/testtypes/pull/551",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",

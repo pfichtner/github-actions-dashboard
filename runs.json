@@ -1,5 +1,71 @@
 [
   {
+    "conclusion": "",
+    "createdAt": "2026-07-09T04:02:55Z",
+    "databaseId": 28993140817,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "in_progress",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28993140817",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "",
+    "createdAt": "2026-07-09T04:02:55Z",
+    "databaseId": 28993140854,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "in_progress",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28993140854",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "",
+    "createdAt": "2026-07-09T04:02:42Z",
+    "databaseId": 28993133177,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "in_progress",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/28993133177",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "",
+    "createdAt": "2026-07-09T04:02:42Z",
+    "databaseId": 28993133282,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "in_progress",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/28993133282",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-09T03:23:28Z",
+    "databaseId": 28991770284,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28991770284",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-09T03:23:28Z",
+    "databaseId": 28991770324,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28991770324",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-07-08T12:56:31Z",
     "databaseId": 28944312133,
@@ -107,28 +173,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28920777578",
     "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-08T05:51:25Z",
-    "databaseId": 28920770130,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28920770130",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-08T05:51:25Z",
-    "databaseId": 28920770148,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/28920770148",
-    "workflowName": "Scorecard supply-chain security",
     "repository": "pfichtner/log4shell-hunter"
   },
   {
@@ -287,17 +331,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-08T04:03:02Z",
-    "databaseId": 28916570362,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.pitest-pitest-maven-1.25.6",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/28916570362",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-07-08T04:02:55Z",
     "databaseId": 28916565726,
     "event": "dynamic",
@@ -339,17 +372,6 @@
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/28916561668",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-08T04:02:22Z",
-    "databaseId": 28916544181,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/28916544181",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -464,17 +486,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-07-07T03:23:20Z",
-    "databaseId": 28839200827,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28839200827",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-07T03:23:20Z",
     "databaseId": 28839200846,
     "event": "dynamic",
     "headBranch": "main",
@@ -526,16 +537,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/28766948601",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-06T03:24:21Z",
-    "databaseId": 28765708552,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/28765708552",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
