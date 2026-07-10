@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-10T04:03:53Z",
+    "headRefName": "dependabot/maven/demo/java/sketchtest/ch.qos.logback-logback-classic-1.5.38",
+    "number": 386,
+    "title": "Bump ch.qos.logback:logback-classic from 1.5.37 to 1.5.38 in /demo/java/sketchtest",
+    "url": "https://github.com/pfichtner/virtualavr/pull/386",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
