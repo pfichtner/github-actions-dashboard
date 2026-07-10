@@ -1,5 +1,27 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-07-10T21:09:35Z",
+    "databaseId": 29123818804,
+    "event": "push",
+    "headBranch": "reimplement-mjsip",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29123818804",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-07-10T19:41:18Z",
+    "databaseId": 29118842422,
+    "event": "push",
+    "headBranch": "reimplement-mjsip",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29118842422",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-07-10T16:10:20Z",
     "databaseId": 29106411394,
@@ -29,17 +51,6 @@
     "headBranch": "reimplement-mjsip",
     "status": "completed",
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29101862938",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-10T14:56:59Z",
-    "databaseId": 29101771476,
-    "event": "push",
-    "headBranch": "reimplement-mjsip",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29101771476",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
@@ -130,17 +141,6 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/29069707324",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-10T04:06:37Z",
-    "databaseId": 29068288296,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29068288296",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
