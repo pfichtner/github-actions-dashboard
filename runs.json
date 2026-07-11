@@ -1,45 +1,56 @@
 [
   {
     "conclusion": "success",
-    "createdAt": "2026-07-11T09:01:07Z",
-    "databaseId": 29147051143,
+    "createdAt": "2026-07-11T13:21:40Z",
+    "databaseId": 29154180967,
     "event": "push",
-    "headBranch": "reimplement-mjsip",
+    "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29147051143",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-11T08:52:07Z",
-    "databaseId": 29146801644,
-    "event": "push",
-    "headBranch": "reimplement-mjsip",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29146801644",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29154180967",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-11T08:49:39Z",
-    "databaseId": 29146732944,
+    "createdAt": "2026-07-11T11:24:50Z",
+    "databaseId": 29150924125,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29146732944",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29150924125",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-11T08:45:23Z",
-    "databaseId": 29146623747,
+    "createdAt": "2026-07-11T11:11:14Z",
+    "databaseId": 29150551279,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29146623747",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29150551279",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-11T11:04:14Z",
+    "databaseId": 29150362650,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29150362650",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-11T10:51:00Z",
+    "databaseId": 29150006509,
+    "event": "pull_request",
+    "headBranch": "reimplement-mjsip",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29150006509",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
@@ -75,17 +86,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/29140346465",
     "workflowName": "Cleanup untagged GHCR images",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-10T21:22:46Z",
-    "databaseId": 29124513869,
-    "event": "push",
-    "headBranch": "reimplement-mjsip",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29124513869",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
@@ -493,16 +493,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/28991770324",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-08T12:56:31Z",
-    "databaseId": 28944312133,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/28944312133",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
