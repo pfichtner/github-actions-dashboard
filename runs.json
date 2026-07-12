@@ -1,6 +1,72 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-12T17:01:15Z",
+    "databaseId": 29201208360,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29201208360",
+    "workflowName": "Tests",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-12T16:58:55Z",
+    "databaseId": 29201128115,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29201128115",
+    "workflowName": "Tests",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-12T16:57:28Z",
+    "databaseId": 29201085071,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29201085071",
+    "workflowName": "Tests",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-12T16:54:10Z",
+    "databaseId": 29200987159,
+    "event": "pull_request",
+    "headBranch": "feature/animated-patterns",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29200987159",
+    "workflowName": "Tests",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-12T15:31:46Z",
+    "databaseId": 29198360007,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/29198360007",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-12T14:27:50Z",
+    "databaseId": 29196287772,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29196287772",
+    "workflowName": "Tests",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-12T07:10:38Z",
     "databaseId": 29183795649,
     "event": "schedule",
@@ -229,17 +295,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/29068178833",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-10T04:03:28Z",
-    "databaseId": 29068165495,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/29068165495",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
