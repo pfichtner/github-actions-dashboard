@@ -1,6 +1,71 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-13T04:08:03Z",
+    "headRefName": "dependabot/maven/org.testcontainers-testcontainers-2.0.5",
+    "number": 127,
+    "title": "Bump org.testcontainers:testcontainers from 1.21.4 to 2.0.5",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/127",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-13T04:07:54Z",
+    "headRefName": "dependabot/maven/org.slf4j-slf4j-api-2.0.18",
+    "number": 126,
+    "title": "Bump org.slf4j:slf4j-api from 2.0.7 to 2.0.18",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/126",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-13T04:07:51Z",
+    "headRefName": "dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.6.3",
+    "number": 125,
+    "title": "Bump org.codehaus.mojo:exec-maven-plugin from 3.5.0 to 3.6.3",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/125",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-13T04:07:48Z",
+    "headRefName": "dependabot/maven/org.junit-junit-bom-6.1.2",
+    "number": 124,
+    "title": "Bump org.junit:junit-bom from 6.1.1 to 6.1.2",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/124",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-13T04:07:42Z",
+    "headRefName": "dependabot/maven/ch.qos.logback-logback-classic-1.5.38",
+    "number": 123,
+    "title": "Bump ch.qos.logback:logback-classic from 1.5.18 to 1.5.38",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/123",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
