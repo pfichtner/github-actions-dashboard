@@ -1,14 +1,69 @@
 [
   {
-    "conclusion": "",
-    "createdAt": "2026-07-13T07:27:53Z",
-    "databaseId": 29232156162,
+    "conclusion": "success",
+    "createdAt": "2026-07-13T11:10:52Z",
+    "databaseId": 29245353414,
     "event": "push",
     "headBranch": "main",
-    "status": "in_progress",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29232156162",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29245353414",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-13T10:19:06Z",
+    "databaseId": 29242326431,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29242326431",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-13T10:18:38Z",
+    "databaseId": 29242299427,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29242299427",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-13T10:18:26Z",
+    "databaseId": 29242287704,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29242287704",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-13T10:18:15Z",
+    "databaseId": 29242277027,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29242277027",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-13T07:50:03Z",
+    "databaseId": 29233352077,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/29233352077",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "failure",
@@ -22,23 +77,23 @@
     "repository": "pfichtner/mockapproval"
   },
   {
-    "conclusion": "",
+    "conclusion": "success",
     "createdAt": "2026-07-13T07:26:12Z",
     "databaseId": 29232069456,
     "event": "push",
     "headBranch": "main",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/29232069456",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
   {
-    "conclusion": "",
+    "conclusion": "success",
     "createdAt": "2026-07-13T07:25:49Z",
     "databaseId": 29232048075,
     "event": "push",
     "headBranch": "main",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/29232048075",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
@@ -154,50 +209,6 @@
     "repository": "pfichtner/pacto"
   },
   {
-    "conclusion": "",
-    "createdAt": "2026-07-13T04:08:07Z",
-    "databaseId": 29223197184,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.testcontainers-testcontainers-2.0.5",
-    "status": "in_progress",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29223197184",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-13T04:08:04Z",
-    "databaseId": 29223195703,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.testcontainers-testcontainers-2.0.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29223195703",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-13T04:07:57Z",
-    "databaseId": 29223191281,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.slf4j-slf4j-api-2.0.18",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29223191281",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-13T04:07:55Z",
-    "databaseId": 29223190087,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.slf4j-slf4j-api-2.0.18",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29223190087",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-07-13T04:06:25Z",
     "databaseId": 29223132914,
@@ -284,17 +295,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/29223046809",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-13T04:04:11Z",
-    "databaseId": 29223044686,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.1.19",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/29223044686",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
