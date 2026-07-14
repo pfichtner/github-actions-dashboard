@@ -1,32 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-07-14T04:06:34Z",
-    "headRefName": "dependabot/maven/org.graalvm.buildtools-native-maven-plugin-1.1.4",
-    "number": 129,
-    "title": "Bump org.graalvm.buildtools:native-maven-plugin from 0.10.6 to 1.1.4",
-    "url": "https://github.com/pfichtner/jsipdialer/pull/129",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-07-14T04:06:30Z",
-    "headRefName": "dependabot/maven/org.graalvm.sdk-nativeimage-25.1.3",
-    "number": 128,
-    "title": "Bump org.graalvm.sdk:nativeimage from 24.1.1 to 25.1.3",
-    "url": "https://github.com/pfichtner/jsipdialer/pull/128",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
