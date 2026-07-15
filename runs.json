@@ -570,27 +570,5 @@
     "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29212018922",
     "workflowName": "Tests",
     "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-12T17:19:29Z",
-    "databaseId": 29201778347,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29201778347",
-    "workflowName": "Tests",
-    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-12T17:01:15Z",
-    "databaseId": 29201208360,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29201208360",
-    "workflowName": "Tests",
-    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
   }
 ]
