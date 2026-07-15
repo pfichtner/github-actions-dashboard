@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-07-15T04:03:39Z",
-    "headRefName": "dependabot/npm_and_yarn/ws-8.21.1",
-    "number": 390,
-    "title": "Bump ws from 8.21.0 to 8.21.1",
-    "url": "https://github.com/pfichtner/virtualavr/pull/390",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
