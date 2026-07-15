@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-15T02:26:06Z",
+    "databaseId": 29384076950,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/29384076950",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-14T19:38:21Z",
     "databaseId": 29362579550,
     "event": "push",
@@ -425,17 +436,6 @@
     "headBranch": "dependabot/maven/org.junit-junit-bom-6.1.2",
     "status": "completed",
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/29223072357",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-13T04:04:51Z",
-    "databaseId": 29223070643,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.junit-junit-bom-6.1.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/29223070643",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/mockapproval"
   },
