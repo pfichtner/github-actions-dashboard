@@ -1,5 +1,27 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-07-16T03:23:29Z",
+    "databaseId": 29468863732,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/29468863732",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-16T03:23:29Z",
+    "databaseId": 29468863846,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/29468863846",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-07-15T20:36:46Z",
     "databaseId": 29448955187,
@@ -529,17 +551,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-14T03:23:38Z",
-    "databaseId": 29303408861,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/29303408861",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-07-13T06:47:30Z",
     "databaseId": 29230023594,
     "event": "push",
@@ -581,16 +592,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/29223132914",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-13T03:24:56Z",
-    "databaseId": 29221640987,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/29221640987",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
