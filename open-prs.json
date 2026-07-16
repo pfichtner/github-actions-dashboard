@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-16T04:05:10Z",
+    "headRefName": "dependabot/github_actions/actions/setup-go-7",
+    "number": 249,
+    "title": "Bump actions/setup-go from 6 to 7",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/249",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
