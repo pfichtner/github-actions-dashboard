@@ -1,6 +1,123 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:05:49Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.37.1",
+    "number": 252,
+    "title": "Bump github/codeql-action/init from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/252",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:05:40Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.37.1",
+    "number": 251,
+    "title": "Bump github/codeql-action/analyze from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/251",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:05:32Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.37.1",
+    "number": 250,
+    "title": "Bump github/codeql-action/autobuild from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/250",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:03:59Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.37.1",
+    "number": 528,
+    "title": "Bump github/codeql-action/init from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/528",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:03:51Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.37.1",
+    "number": 527,
+    "title": "Bump github/codeql-action/analyze from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/527",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:03:43Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.37.1",
+    "number": 526,
+    "title": "Bump github/codeql-action/autobuild from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/526",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:03:33Z",
+    "headRefName": "dependabot/github_actions/actions/setup-java-5.6.0",
+    "number": 525,
+    "title": "Bump actions/setup-java from 5.5.0 to 5.6.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/525",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:03:30Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.1",
+    "number": 524,
+    "title": "Bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/524",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-17T04:03:14Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.1",
+    "number": 554,
+    "title": "Bump github/codeql-action/upload-sarif from 4.37.0 to 4.37.1",
+    "url": "https://github.com/pfichtner/testtypes/pull/554",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjI0NjM4Ng==",
       "is_bot": false,
       "login": "ntninja",
