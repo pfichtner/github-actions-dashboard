@@ -1,5 +1,27 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-07-17T13:49:25Z",
+    "databaseId": 29585454273,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29585454273",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-07-17T13:45:47Z",
+    "databaseId": 29585220731,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29585220731",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-07-17T07:47:15Z",
     "databaseId": 29564200793,
@@ -407,17 +429,6 @@
     "repository": "pfichtner/pacto"
   },
   {
-    "conclusion": "success",
-    "createdAt": "2026-07-16T04:05:53Z",
-    "databaseId": 29470525634,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29470525634",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
     "conclusion": "failure",
     "createdAt": "2026-07-16T04:05:53Z",
     "databaseId": 29470525689,
@@ -559,17 +570,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/29389653824",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-15T04:05:37Z",
-    "databaseId": 29388121827,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29388121827",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
