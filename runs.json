@@ -1,23 +1,56 @@
 [
   {
-    "conclusion": "failure",
-    "createdAt": "2026-07-17T13:49:25Z",
-    "databaseId": 29585454273,
+    "conclusion": "success",
+    "createdAt": "2026-07-17T14:40:00Z",
+    "databaseId": 29588922510,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29585454273",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29588922510",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-17T14:39:09Z",
+    "databaseId": 29588865751,
+    "event": "push",
+    "headBranch": "v0.0.5",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29588865751",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-17T14:27:09Z",
+    "databaseId": 29588043135,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29588043135",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "failure",
-    "createdAt": "2026-07-17T13:45:47Z",
-    "databaseId": 29585220731,
+    "createdAt": "2026-07-17T14:21:18Z",
+    "databaseId": 29587642250,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29585220731",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29587642250",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-07-17T14:10:07Z",
+    "databaseId": 29586860618,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29586860618",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
   },
@@ -220,28 +253,6 @@
     "repository": "pfichtner/pacto"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-07-17T04:06:13Z",
-    "databaseId": 29554016971,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29554016971",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-17T04:06:13Z",
-    "databaseId": 29554016990,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29554016990",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-07-17T04:03:28Z",
     "databaseId": 29553898327,
@@ -427,17 +438,6 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/29472061661",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-16T04:05:53Z",
-    "databaseId": 29470525689,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29470525689",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
