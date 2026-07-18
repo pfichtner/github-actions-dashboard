@@ -504,38 +504,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/29468863846",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-15T20:36:46Z",
-    "databaseId": 29448955187,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29448955187",
-    "workflowName": "Tests",
-    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-15T20:33:33Z",
-    "databaseId": 29448753438,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29448753438",
-    "workflowName": "Tests",
-    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-07-15T20:10:40Z",
-    "databaseId": 29447303735,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/29447303735",
-    "workflowName": "Tests",
-    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
   }
 ]
