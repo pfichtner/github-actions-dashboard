@@ -372,16 +372,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/29633063678",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-17T14:40:00Z",
-    "databaseId": 29588922510,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/29588922510",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
   }
 ]
