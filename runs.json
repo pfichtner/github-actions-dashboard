@@ -1,6 +1,50 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-26T02:52:32Z",
+    "databaseId": 30185247601,
+    "event": "pull_request",
+    "headBranch": "dependabot/github_actions/actions/setup-python-7",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/30185247601",
+    "workflowName": "Tests",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-26T02:52:00Z",
+    "databaseId": 30185233873,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/30185233873",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-26T02:52:00Z",
+    "databaseId": 30185233943,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/30185233943",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-26T02:52:00Z",
+    "databaseId": 30185233948,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/30185233948",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-25T12:18:13Z",
     "databaseId": 30157749896,
     "event": "push",
@@ -471,27 +515,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/29978553785",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-23T03:24:08Z",
-    "databaseId": 29976901331,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-jar-plugin-3.5.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/29976901331",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-23T03:24:04Z",
-    "databaseId": 29976898630,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-jar-plugin-3.5.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/29976898630",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   }
 ]
