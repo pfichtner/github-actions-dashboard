@@ -5,6 +5,71 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-07-27T04:45:28Z",
+    "headRefName": "dependabot/maven/org.codehaus.mojo-flatten-maven-plugin-1.8.0",
+    "number": 127,
+    "title": "Bump org.codehaus.mojo:flatten-maven-plugin from 1.7.3 to 1.8.0",
+    "url": "https://github.com/pfichtner/pacto/pull/127",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-27T04:04:18Z",
+    "headRefName": "dependabot/github_actions/actions/checkout-7",
+    "number": 108,
+    "title": "Bump actions/checkout from 6 to 7",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/108",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-27T04:04:09Z",
+    "headRefName": "dependabot/github_actions/actions/cache-6",
+    "number": 107,
+    "title": "Bump actions/cache from 5 to 6",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/107",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-27T04:03:51Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.1.21",
+    "number": 399,
+    "title": "Bump renovatebot/github-action from 46.1.20 to 46.1.21",
+    "url": "https://github.com/pfichtner/virtualavr/pull/399",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-27T04:03:44Z",
+    "headRefName": "dependabot/github_actions/docker/login-action-4.5.1",
+    "number": 398,
+    "title": "Bump docker/login-action from 4.5.0 to 4.5.1",
+    "url": "https://github.com/pfichtner/virtualavr/pull/398",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-07-27T03:25:33Z",
     "headRefName": "dependabot/maven/org.codehaus.mojo-flatten-maven-plugin-1.8.0",
     "number": 107,
