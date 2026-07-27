@@ -1,6 +1,72 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-27T03:25:37Z",
+    "databaseId": 30234578385,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.codehaus.mojo-flatten-maven-plugin-1.8.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30234578385",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-27T03:25:34Z",
+    "databaseId": 30234576727,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.codehaus.mojo-flatten-maven-plugin-1.8.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30234576727",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-27T03:24:57Z",
+    "databaseId": 30234551191,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30234551191",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-27T03:24:57Z",
+    "databaseId": 30234551396,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30234551396",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-27T02:49:31Z",
+    "databaseId": 30233091850,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/30233091850",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-27T02:13:00Z",
+    "databaseId": 30231639129,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/30231639129",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-26T11:21:11Z",
     "databaseId": 30199962521,
     "event": "push",
@@ -141,17 +207,6 @@
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/30153408233",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-25T09:49:08Z",
-    "databaseId": 30153406650,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/30153406650",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -394,27 +449,5 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/30065744896",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-24T03:23:51Z",
-    "databaseId": 30064123003,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30064123003",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-24T03:23:51Z",
-    "databaseId": 30064123004,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30064123004",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
