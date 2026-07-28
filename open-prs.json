@@ -5,6 +5,45 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-07-28T04:43:59Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.9.0",
+    "number": 128,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.8.0 to 3.9.0",
+    "url": "https://github.com/pfichtner/pacto/pull/128",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-28T04:05:58Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.9.0",
+    "number": 133,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.8.0 to 3.9.0",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/133",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-07-28T03:24:21Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.9.0",
+    "number": 108,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.8.0 to 3.9.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/108",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-07-23T04:03:03Z",
     "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.3",
     "number": 558,
