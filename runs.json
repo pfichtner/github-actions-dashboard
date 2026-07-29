@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-29T13:11:04Z",
+    "databaseId": 30454852586,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/30454852586",
+    "workflowName": "Update Vagrant Box",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-29T07:24:05Z",
     "databaseId": 30431513391,
     "event": "schedule",
@@ -79,17 +90,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-07-29T04:43:37Z",
-    "databaseId": 30423052208,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/30423052208",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-29T04:43:37Z",
     "databaseId": 30423052258,
     "event": "dynamic",
     "headBranch": "main",
@@ -108,6 +108,17 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/30423052365",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-29T04:43:37Z",
+    "databaseId": 30423052208,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/30423052208",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
     "conclusion": "failure",
@@ -526,16 +537,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/30236089606",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-26T11:21:11Z",
-    "databaseId": 30199962521,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/30199962521",
-    "workflowName": "Tests",
-    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
   }
 ]
