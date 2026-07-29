@@ -1,22 +1,33 @@
 [
   {
-    "conclusion": "",
+    "conclusion": "success",
+    "createdAt": "2026-07-29T07:24:05Z",
+    "databaseId": 30431513391,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30431513391",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-29T06:33:38Z",
     "databaseId": 30428563276,
     "event": "push",
     "headBranch": "main",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/30428563276",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
   {
-    "conclusion": "",
+    "conclusion": "success",
     "createdAt": "2026-07-29T06:33:32Z",
     "databaseId": 30428558190,
     "event": "push",
     "headBranch": "main",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/30428558190",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
@@ -33,12 +44,12 @@
     "repository": "pfichtner/jsipdialer"
   },
   {
-    "conclusion": "",
+    "conclusion": "success",
     "createdAt": "2026-07-29T06:33:21Z",
     "databaseId": 30428547107,
     "event": "push",
     "headBranch": "main",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/30428547107",
     "workflowName": "GraalVM Native Image builds",
     "repository": "pfichtner/jsipdialer"
@@ -161,17 +172,6 @@
     "headBranch": "dependabot/maven/demo/java/sketchtest/ch.qos.logback-logback-classic-1.6.1",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/30421223718",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-29T04:03:18Z",
-    "databaseId": 30421215278,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/docker/login-action-4.5.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30421215278",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
