@@ -5,19 +5,6 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-07-30T04:03:38Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.2.0",
-    "number": 403,
-    "title": "Bump renovatebot/github-action from 46.1.21 to 46.2.0",
-    "url": "https://github.com/pfichtner/virtualavr/pull/403",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-07-30T04:03:32Z",
     "headRefName": "dependabot/github_actions/docker/login-action-4.6.0",
     "number": 402,

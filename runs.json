@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-07-30T10:08:49Z",
+    "databaseId": 30533542636,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30533542636",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-07-30T07:16:22Z",
+    "databaseId": 30522383991,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30522383991",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-30T06:14:29Z",
     "databaseId": 30518970743,
     "event": "schedule",
@@ -122,17 +144,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-07-30T04:03:34Z",
-    "databaseId": 30512825780,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/docker/login-action-4.6.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30512825780",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-07-30T04:03:18Z",
     "databaseId": 30512814109,
     "event": "dynamic",
@@ -163,17 +174,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/30512803545",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-30T04:02:57Z",
-    "databaseId": 30512797594,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30512797594",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
