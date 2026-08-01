@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-08-01T15:39:03Z",
+    "databaseId": 30706381934,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/30706381934",
+    "workflowName": "Matrix Docker Build & Push",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-08-01T09:49:08Z",
     "databaseId": 30694491765,
     "event": "push",
@@ -328,17 +339,6 @@
     "url": "https://github.com/pfichtner/RFLink32/actions/runs/30537066135",
     "workflowName": "Rflink Build Tests",
     "repository": "pfichtner/RFLink32"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-30T06:14:29Z",
-    "databaseId": 30518970743,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/30518970743",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
