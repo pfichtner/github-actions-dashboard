@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-08-01T03:21:35Z",
+    "databaseId": 30681834894,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/30681834894",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-01T02:56:35Z",
+    "databaseId": 30680999864,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30680999864",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-01T01:47:01Z",
+    "databaseId": 30678659578,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/30678659578",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-07-31T07:27:11Z",
     "databaseId": 30612868550,
     "event": "schedule",
@@ -251,17 +284,6 @@
     "url": "https://github.com/pfichtner/RFLink32/actions/runs/30537066135",
     "workflowName": "Rflink Build Tests",
     "repository": "pfichtner/RFLink32"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-30T10:08:49Z",
-    "databaseId": 30533542636,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/30533542636",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -526,38 +548,5 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/30421210484",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-29T04:02:28Z",
-    "databaseId": 30421176218,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/30421176218",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-29T04:02:21Z",
-    "databaseId": 30421171602,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/30421171602",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-07-29T03:23:21Z",
-    "databaseId": 30419442969,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/30419442969",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
