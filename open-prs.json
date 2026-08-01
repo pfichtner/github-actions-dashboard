@@ -5,19 +5,6 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-07-30T04:03:32Z",
-    "headRefName": "dependabot/github_actions/docker/login-action-4.6.0",
-    "number": 402,
-    "title": "Bump docker/login-action from 4.5.2 to 4.6.0",
-    "url": "https://github.com/pfichtner/virtualavr/pull/402",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
     "createdAt": "2026-07-23T04:03:03Z",
     "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.3",
     "number": 558,
