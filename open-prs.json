@@ -1,6 +1,149 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:44:05Z",
+    "headRefName": "dependabot/maven/au.com.dius.pact.consumer-junit5-4.7.5",
+    "number": 133,
+    "title": "Bump au.com.dius.pact.consumer:junit5 from 4.7.4 to 4.7.5",
+    "url": "https://github.com/pfichtner/pacto/pull/133",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:44:03Z",
+    "headRefName": "dependabot/maven/net.javacrumbs.json-unit-json-unit-assertj-6.1.0",
+    "number": 132,
+    "title": "Bump net.javacrumbs.json-unit:json-unit-assertj from 6.0.1 to 6.1.0",
+    "url": "https://github.com/pfichtner/pacto/pull/132",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:06:05Z",
+    "headRefName": "dependabot/maven/org.graalvm.buildtools-native-maven-plugin-1.1.9",
+    "number": 143,
+    "title": "Bump org.graalvm.buildtools:native-maven-plugin from 1.1.8 to 1.1.9",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/143",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:05:58Z",
+    "headRefName": "dependabot/maven/org.apache.maven.wrapper-maven-wrapper-3.3.4",
+    "number": 142,
+    "title": "Bump org.apache.maven.wrapper:maven-wrapper from 3.3.2 to 3.3.4",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/142",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:05:47Z",
+    "headRefName": "dependabot/maven/org.apache.maven-apache-maven-3.9.16",
+    "number": 141,
+    "title": "Bump org.apache.maven:apache-maven from 3.9.9 to 3.9.16",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/141",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:03:24Z",
+    "headRefName": "dependabot/maven/org.apache.maven.wrapper-maven-wrapper-3.3.4",
+    "number": 554,
+    "title": "build(deps): bump org.apache.maven.wrapper:maven-wrapper from 3.1.0 to 3.3.4",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/554",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:03:15Z",
+    "headRefName": "dependabot/maven/org.apache.maven-apache-maven-3.9.16",
+    "number": 566,
+    "title": "Bump org.apache.maven:apache-maven from 3.6.3 to 3.9.16",
+    "url": "https://github.com/pfichtner/testtypes/pull/566",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:03:13Z",
+    "headRefName": "dependabot/maven/org.apache.maven-apache-maven-3.9.16",
+    "number": 553,
+    "title": "build(deps): bump org.apache.maven:apache-maven from 3.9.8 to 3.9.16",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/553",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T04:03:05Z",
+    "headRefName": "dependabot/maven/org.apache.maven.wrapper-maven-wrapper-3.3.4",
+    "number": 565,
+    "title": "Bump org.apache.maven.wrapper:maven-wrapper from 3.1.0 to 3.3.4",
+    "url": "https://github.com/pfichtner/testtypes/pull/565",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T03:24:29Z",
+    "headRefName": "dependabot/maven/org.apache.maven-apache-maven-3.9.16",
+    "number": 110,
+    "title": "Bump org.apache.maven:apache-maven from 3.9.6 to 3.9.16",
+    "url": "https://github.com/pfichtner/vaadoo/pull/110",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-14T03:24:15Z",
+    "headRefName": "dependabot/maven/org.apache.maven.wrapper-maven-wrapper-3.3.4",
+    "number": 109,
+    "title": "Bump org.apache.maven.wrapper:maven-wrapper from 3.1.1 to 3.3.4",
+    "url": "https://github.com/pfichtner/vaadoo/pull/109",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
