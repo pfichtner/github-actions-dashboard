@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-08-13T15:13:35Z",
+    "databaseId": 31714257215,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/31714257215",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-13T14:00:36Z",
+    "databaseId": 31707883231,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/31707883231",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-08-13T10:10:06Z",
     "databaseId": 31689884337,
     "event": "push",
@@ -328,28 +350,6 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/31564173562",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-08-12T04:07:31Z",
-    "databaseId": 31562241819,
-    "event": "push",
-    "headBranch": "dependabot/maven/ch.qos.logback-logback-classic-1.6.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/31562241819",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-08-12T04:06:42Z",
-    "databaseId": 31562199339,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/31562199339",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
