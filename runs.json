@@ -1,11 +1,33 @@
 [
   {
-    "conclusion": "",
+    "conclusion": "success",
+    "createdAt": "2026-08-17T01:10:07Z",
+    "databaseId": 31984149206,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/31984149206",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-17T00:50:52Z",
+    "databaseId": 31983201843,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/31983201843",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-08-16T12:46:21Z",
     "databaseId": 31947960176,
     "event": "workflow_dispatch",
     "headBranch": "main",
-    "status": "in_progress",
+    "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/31947960176",
     "workflowName": "Matrix Docker Build & Push",
     "repository": "pfichtner/pfichtner-freetz"
@@ -306,17 +328,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/31824926500",
     "workflowName": "CodeQL",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-14T17:37:44Z",
-    "databaseId": 31824866209,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.apache.maven-apache-maven-3.9.16",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/31824866209",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
