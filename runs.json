@@ -504,16 +504,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/31864029786",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-15T01:11:20Z",
-    "databaseId": 31855821154,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/31855821154",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/mockapproval"
   }
 ]
