@@ -1,5 +1,38 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-08-21T19:51:03Z",
+    "databaseId": 32520572641,
+    "event": "release",
+    "headBranch": "0.4.5",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32520572641",
+    "workflowName": "Publish Docker image",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-08-21T19:31:13Z",
+    "databaseId": 32518881307,
+    "event": "release",
+    "headBranch": "0.4.5",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32518881307",
+    "workflowName": "Publish Docker image",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-21T18:19:58Z",
+    "databaseId": 32512792644,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/ar7json/actions/runs/32512792644",
+    "workflowName": "Build",
+    "repository": "pfichtner/ar7json"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-08-21T11:32:42Z",
     "databaseId": 32477685284,
@@ -276,17 +309,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-08-20T14:01:20Z",
-    "databaseId": 32377636142,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/32377636142",
-    "workflowName": "Build",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-08-20T10:29:21Z",
     "databaseId": 32359179102,
     "event": "push",
@@ -452,17 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-08-20T04:02:55Z",
-    "databaseId": 32330428542,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32330428542",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-08-20T04:02:30Z",
     "databaseId": 32330401947,
     "event": "dynamic",
@@ -537,17 +548,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/32216841016",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T04:23:39Z",
-    "databaseId": 32215598199,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32215598199",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
