@@ -1,5 +1,49 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-08-22T09:50:13Z",
+    "databaseId": 32566006726,
+    "event": "release",
+    "headBranch": "0.4.5",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32566006726",
+    "workflowName": "Publish Docker image",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-22T05:01:46Z",
+    "databaseId": 32553267152,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/32553267152",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-22T04:19:27Z",
+    "databaseId": 32551394455,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32551394455",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-08-22T02:45:00Z",
+    "databaseId": 32547096678,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32547096678",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-08-21T19:51:03Z",
     "databaseId": 32520572641,
@@ -88,17 +132,6 @@
     "repository": "pfichtner/pacto"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-08-21T04:25:19Z",
-    "databaseId": 32446885669,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32446885669",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-08-21T04:05:08Z",
     "databaseId": 32445662356,
@@ -163,17 +196,6 @@
     "url": "https://github.com/pfichtner/mockapproval/actions/runs/32445542797",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-21T04:02:56Z",
-    "databaseId": 32445529905,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32445529905",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
@@ -364,17 +386,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-08-20T05:06:38Z",
-    "databaseId": 32334349549,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/32334349549",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-08-20T04:45:05Z",
     "databaseId": 32333018155,
     "event": "pull_request",
@@ -394,17 +405,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/32332967986",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-20T04:23:21Z",
-    "databaseId": 32331708152,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/32331708152",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "failure",
@@ -526,71 +526,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/32328228601",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T11:46:13Z",
-    "databaseId": 32249228677,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/32249228677",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T04:44:19Z",
-    "databaseId": 32216841016,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/32216841016",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T04:03:56Z",
-    "databaseId": 32214380484,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/32214380484",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T04:02:57Z",
-    "databaseId": 32214319764,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/32214319764",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T04:02:21Z",
-    "databaseId": 32214285304,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/32214285304",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-19T04:02:14Z",
-    "databaseId": 32214278620,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/32214278620",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   }
 ]
