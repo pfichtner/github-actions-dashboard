@@ -1,6 +1,17 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-08-24T20:05:54Z",
+    "databaseId": 32771938608,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/ar7json/actions/runs/32771938608",
+    "workflowName": "Build",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-08-24T12:26:22Z",
     "databaseId": 32727099491,
     "event": "push",
@@ -40,17 +51,6 @@
     "headBranch": "v0.1.1",
     "status": "completed",
     "url": "https://github.com/pfichtner/ar7json/actions/runs/32723671012",
-    "workflowName": "Build",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-08-24T11:34:38Z",
-    "databaseId": 32722555823,
-    "event": "push",
-    "headBranch": "v0.1.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/32722555823",
     "workflowName": "Build",
     "repository": "pfichtner/ar7json"
   },
