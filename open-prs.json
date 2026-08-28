@@ -1,6 +1,21 @@
 [
   {
     "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-28T16:54:49Z",
+    "headRefName": "renovate/jest-monorepo",
+    "number": 416,
+    "title": "Update dependency jest to v30.5.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/416",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
       "is_bot": true,
       "login": "app/dependabot"
     },
