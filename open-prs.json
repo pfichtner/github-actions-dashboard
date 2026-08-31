@@ -1,6 +1,201 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:47:28Z",
+    "headRefName": "dependabot/maven/nl.jqno.equalsverifier-equalsverifier-4.5.2",
+    "number": 141,
+    "title": "Bump nl.jqno.equalsverifier:equalsverifier from 4.5.1 to 4.5.2",
+    "url": "https://github.com/pfichtner/pacto/pull/141",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:47:24Z",
+    "headRefName": "dependabot/maven/org.pitest-pitest-maven-1.30.0",
+    "number": 140,
+    "title": "Bump org.pitest:pitest-maven from 1.25.9 to 1.30.0",
+    "url": "https://github.com/pfichtner/pacto/pull/140",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:47:14Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.10.1",
+    "number": 139,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.10.0 to 3.10.1",
+    "url": "https://github.com/pfichtner/pacto/pull/139",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:10:39Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.37.9",
+    "number": 278,
+    "title": "Bump github/codeql-action/autobuild from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/278",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:10:35Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.37.9",
+    "number": 569,
+    "title": "build(deps): bump github/codeql-action/init from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/569",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:09:31Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.37.9",
+    "number": 277,
+    "title": "Bump github/codeql-action/init from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/277",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:09:04Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9",
+    "number": 568,
+    "title": "build(deps): bump github/codeql-action/upload-sarif from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/568",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:08:35Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.10.1",
+    "number": 150,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.10.0 to 3.10.1",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/150",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:08:18Z",
+    "headRefName": "dependabot/maven/org.graalvm.buildtools-native-maven-plugin-1.1.11",
+    "number": 149,
+    "title": "Bump org.graalvm.buildtools:native-maven-plugin from 1.1.10 to 1.1.11",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/149",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:08:13Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.37.9",
+    "number": 276,
+    "title": "Bump github/codeql-action/analyze from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/276",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:07:41Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.37.9",
+    "number": 567,
+    "title": "build(deps): bump github/codeql-action/autobuild from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/567",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:06:28Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.37.9",
+    "number": 566,
+    "title": "build(deps): bump github/codeql-action/analyze from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/566",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:06:04Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.37.9",
+    "number": 572,
+    "title": "Bump github/codeql-action/upload-sarif from 4.37.8 to 4.37.9",
+    "url": "https://github.com/pfichtner/testtypes/pull/572",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T04:04:52Z",
+    "headRefName": "dependabot/maven/org.pitest-pitest-maven-1.30.0",
+    "number": 571,
+    "title": "Bump org.pitest:pitest-maven from 1.25.9 to 1.30.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/571",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-08-31T03:25:52Z",
+    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.10.1",
+    "number": 116,
+    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.10.0 to 3.10.1",
+    "url": "https://github.com/pfichtner/vaadoo/pull/116",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
