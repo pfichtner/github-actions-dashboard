@@ -1,6 +1,58 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-03T04:04:05Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.2.5",
+    "number": 420,
+    "title": "Bump renovatebot/github-action from 46.2.4 to 46.2.5",
+    "url": "https://github.com/pfichtner/virtualavr/pull/420",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-03T04:03:31Z",
+    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
+    "number": 571,
+    "title": "build(deps-dev): bump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/571",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-03T04:03:19Z",
+    "headRefName": "dependabot/maven/demo/java/sketchtest/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
+    "number": 419,
+    "title": "Bump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0 in /demo/java/sketchtest",
+    "url": "https://github.com/pfichtner/virtualavr/pull/419",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-03T03:24:21Z",
+    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
+    "number": 117,
+    "title": "Bump org.apache.maven.plugins:maven-compiler-plugin from 3.15.0 to 3.16.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/117",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
