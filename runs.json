@@ -1,5 +1,401 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-09-04T04:06:53Z",
+    "databaseId": 33835605446,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-failsafe-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33835605446",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-04T04:06:52Z",
+    "databaseId": 33835604599,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33835604599",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:06:01Z",
+    "databaseId": 33835554139,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33835554139",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:06:00Z",
+    "databaseId": 33835553195,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33835553195",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:50Z",
+    "databaseId": 33835482563,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/33835482563",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:49Z",
+    "databaseId": 33835482007,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/33835482007",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:33Z",
+    "databaseId": 33835466925,
+    "event": "pull_request",
+    "headBranch": "dependabot/npm_and_yarn/avr8js-0.21.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33835466925",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:30Z",
+    "databaseId": 33835463696,
+    "event": "push",
+    "headBranch": "dependabot/npm_and_yarn/avr8js-0.21.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33835463696",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:29Z",
+    "databaseId": 33835462308,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33835462308",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-04T04:04:25Z",
+    "databaseId": 33835458845,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-failsafe-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33835458845",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-04T04:04:25Z",
+    "databaseId": 33835458998,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33835458998",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:23Z",
+    "databaseId": 33835456110,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-failsafe-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33835456110",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:16Z",
+    "databaseId": 33835448326,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/demo/java/sketchtest/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33835448326",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:13Z",
+    "databaseId": 33835446003,
+    "event": "push",
+    "headBranch": "dependabot/maven/demo/java/sketchtest/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33835446003",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:11Z",
+    "databaseId": 33835443191,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/maven.surefire.version-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33835443191",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:11Z",
+    "databaseId": 33835443193,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/maven.surefire.version-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33835443193",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:04:11Z",
+    "databaseId": 33835443221,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/maven.surefire.version-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33835443221",
+    "workflowName": "Dependency Review",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:57Z",
+    "databaseId": 33835430229,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33835430229",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mockapproval"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:44Z",
+    "databaseId": 33835418518,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/33835418518",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:41Z",
+    "databaseId": 33835415243,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-failsafe-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/33835415243",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:41Z",
+    "databaseId": 33835415116,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/33835415116",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:34Z",
+    "databaseId": 33835408764,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33835408764",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:18Z",
+    "databaseId": 33835391176,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33835391176",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:18Z",
+    "databaseId": 33835391213,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33835391213",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:09Z",
+    "databaseId": 33835381853,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/33835381853",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T04:03:09Z",
+    "databaseId": 33835381965,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/33835381965",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T03:25:26Z",
+    "databaseId": 33833149493,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33833149493",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T03:25:24Z",
+    "databaseId": 33833146927,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33833146927",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T03:24:31Z",
+    "databaseId": 33833091039,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33833091039",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-04T03:24:31Z",
+    "databaseId": 33833091399,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33833091399",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-03T18:29:51Z",
+    "databaseId": 33790845103,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33790845103",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-03T18:06:17Z",
+    "databaseId": 33788510178,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33788510178",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-03T18:00:58Z",
+    "databaseId": 33787977430,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33787977430",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-03T17:38:03Z",
+    "databaseId": 33785710783,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33785710783",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-03T17:34:49Z",
+    "databaseId": 33785396641,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33785396641",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-03T17:23:02Z",
+    "databaseId": 33784226197,
+    "event": "dynamic",
+    "headBranch": "gh-pages",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner.github.io/actions/runs/33784226197",
+    "workflowName": "pages-build-deployment",
+    "repository": "pfichtner/pfichtner.github.io"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-09-03T12:29:47Z",
     "databaseId": 33755537750,
@@ -9,17 +405,6 @@
     "url": "https://github.com/pfichtner/pfichtner.github.io/actions/runs/33755537750",
     "workflowName": "pages-build-deployment",
     "repository": "pfichtner/pfichtner.github.io"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T09:08:21Z",
-    "databaseId": 33737177717,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33737177717",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -42,61 +427,6 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/33724368176",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T06:40:45Z",
-    "databaseId": 33724343644,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33724343644",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T06:40:40Z",
-    "databaseId": 33724336567,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33724336567",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T06:40:40Z",
-    "databaseId": 33724336568,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33724336568",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T06:40:40Z",
-    "databaseId": 33724336601,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33724336601",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T06:40:32Z",
-    "databaseId": 33724326889,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33724326889",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -130,17 +460,6 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/33716099012",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:05:05Z",
-    "databaseId": 33713733201,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33713733201",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "failure",
@@ -177,72 +496,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-03T04:04:09Z",
-    "databaseId": 33713675294,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.2.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33713675294",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:04:06Z",
-    "databaseId": 33713671494,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.2.5",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/33713671494",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:03:36Z",
-    "databaseId": 33713639815,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33713639815",
-    "workflowName": "Dependency Review",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:03:36Z",
-    "databaseId": 33713639822,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/33713639822",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:03:12Z",
-    "databaseId": 33713614576,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33713614576",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:03:12Z",
-    "databaseId": 33713614577,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33713614577",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-09-03T04:02:58Z",
     "databaseId": 33713599379,
     "event": "dynamic",
@@ -251,17 +504,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/33713599379",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:02:22Z",
-    "databaseId": 33713562939,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/33713562939",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -276,50 +518,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-03T03:24:25Z",
-    "databaseId": 33711237934,
-    "event": "pull_request",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33711237934",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T03:24:23Z",
-    "databaseId": 33711235962,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-compiler-plugin-3.16.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33711235962",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T03:23:42Z",
-    "databaseId": 33711194581,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33711194581",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T03:23:41Z",
-    "databaseId": 33711194191,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/33711194191",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-09-02T15:09:24Z",
     "databaseId": 33646711678,
     "event": "schedule",
@@ -328,17 +526,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/33646711678",
     "workflowName": "Update Vagrant Box",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T11:34:03Z",
-    "databaseId": 33625267002,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/33625267002",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -383,17 +570,6 @@
     "url": "https://github.com/pfichtner/ar7json/actions/runs/33620084536",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T10:12:35Z",
-    "databaseId": 33618261875,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/33618261875",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
   },
   {
     "conclusion": "success",
@@ -452,61 +628,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-02T04:09:22Z",
-    "databaseId": 33589711255,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.21.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/33589711255",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-09-02T04:05:33Z",
-    "databaseId": 33589472325,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33589472325",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T04:05:32Z",
-    "databaseId": 33589472184,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33589472184",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T04:03:58Z",
-    "databaseId": 33589372980,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33589372980",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T04:03:58Z",
-    "databaseId": 33589373100,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33589373100",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-09-02T04:03:35Z",
     "databaseId": 33589348338,
     "event": "dynamic",
@@ -514,39 +635,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/33589348338",
     "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T04:02:21Z",
-    "databaseId": 33589272246,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/33589272246",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T04:02:21Z",
-    "databaseId": 33589272271,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/33589272271",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-01T17:55:24Z",
-    "databaseId": 33540601315,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/33540601315",
-    "workflowName": "Matrix Docker Build & Push",
     "repository": "pfichtner/pfichtner-freetz"
   },
   {
@@ -570,27 +658,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/33471263110",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-01T04:07:16Z",
-    "databaseId": 33468654625,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/33468654625",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-01T04:04:29Z",
-    "databaseId": 33468485296,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mockapproval/actions/runs/33468485296",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mockapproval"
   }
 ]
