@@ -7,6 +7,21 @@
       "name": "Peter Fichtner"
     },
     "baseRefName": "main",
+    "createdAt": "2026-09-05T08:33:55Z",
+    "headRefName": "renovate/slf4j-monorepo",
+    "number": 423,
+    "title": "Update dependency org.slf4j:slf4j-api to v2.0.19",
+    "url": "https://github.com/pfichtner/virtualavr/pull/423",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-08-28T16:54:49Z",
     "headRefName": "renovate/jest-monorepo",
     "number": 416,
