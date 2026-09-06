@@ -1,6 +1,94 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-09-06T02:52:56Z",
+    "databaseId": 34007602259,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/34007602259",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-06T02:52:56Z",
+    "databaseId": 34007602348,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/34007602348",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-06T02:52:56Z",
+    "databaseId": 34007602366,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/34007602366",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-05T19:00:04Z",
+    "databaseId": 33985758613,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33985758613",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-05T18:39:30Z",
+    "databaseId": 33984742468,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33984742468",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-05T18:25:46Z",
+    "databaseId": 33984031127,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33984031127",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-05T18:15:45Z",
+    "databaseId": 33983504424,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33983504424",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-09-05T18:11:44Z",
+    "databaseId": 33983289368,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33983289368",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-09-05T13:32:04Z",
     "databaseId": 33969166927,
     "event": "schedule",
@@ -9,39 +97,6 @@
     "url": "https://github.com/pfichtner/esphome-configs/actions/runs/33969166927",
     "workflowName": "ESPHome CI Compile",
     "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-05T09:25:45Z",
-    "databaseId": 33957955341,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33957955341",
-    "workflowName": "CI",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-09-05T09:08:45Z",
-    "databaseId": 33957182660,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33957182660",
-    "workflowName": "CI",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-05T08:44:25Z",
-    "databaseId": 33956089129,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33956089129",
-    "workflowName": "CI",
-    "repository": "pfichtner/espressomachine"
   },
   {
     "conclusion": "success",
@@ -100,17 +155,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-05T08:31:15Z",
-    "databaseId": 33955488299,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33955488299",
-    "workflowName": "CI",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-09-05T07:53:02Z",
     "databaseId": 33953763039,
     "event": "schedule",
@@ -130,17 +174,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/33949984391",
     "workflowName": "Cleanup untagged GHCR images",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-04T20:57:15Z",
-    "databaseId": 33918770412,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/33918770412",
-    "workflowName": "CI",
-    "repository": "pfichtner/espressomachine"
   },
   {
     "conclusion": "success",
@@ -559,38 +592,5 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/33716099012",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:04:09Z",
-    "databaseId": 33713675083,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/33713675083",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-03T04:04:09Z",
-    "databaseId": 33713675087,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/33713675087",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-02T15:09:24Z",
-    "databaseId": 33646711678,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/33646711678",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
