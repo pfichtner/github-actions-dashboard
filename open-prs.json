@@ -1,33 +1,16 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
+      "is_bot": true,
+      "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-09-05T08:33:55Z",
-    "headRefName": "renovate/slf4j-monorepo",
-    "number": 423,
-    "title": "Update dependency org.slf4j:slf4j-api to v2.0.19",
-    "url": "https://github.com/pfichtner/virtualavr/pull/423",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-08-28T16:54:49Z",
-    "headRefName": "renovate/jest-monorepo",
-    "number": 416,
-    "title": "Update dependency jest to v30.5.1",
-    "url": "https://github.com/pfichtner/virtualavr/pull/416",
-    "repository": "pfichtner/virtualavr"
+    "createdAt": "2026-09-07T03:26:11Z",
+    "headRefName": "dependabot/maven/org.projectlombok-lombok-1.18.48",
+    "number": 120,
+    "title": "Bump org.projectlombok:lombok from 1.18.46 to 1.18.48",
+    "url": "https://github.com/pfichtner/vaadoo/pull/120",
+    "repository": "pfichtner/vaadoo"
   },
   {
     "author": {
@@ -35,12 +18,12 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-08-27T04:03:42Z",
-    "headRefName": "dependabot/github_actions/actions/setup-java-6",
-    "number": 160,
-    "title": "Bump actions/setup-java from 5 to 6",
-    "url": "https://github.com/pfichtner/mockapproval/pull/160",
-    "repository": "pfichtner/mockapproval"
+    "createdAt": "2026-09-07T03:26:02Z",
+    "headRefName": "dependabot/maven/bytebuddy.version-1.18.13",
+    "number": 119,
+    "title": "Bump bytebuddy.version from 1.18.12 to 1.18.13",
+    "url": "https://github.com/pfichtner/vaadoo/pull/119",
+    "repository": "pfichtner/vaadoo"
   },
   {
     "author": {
