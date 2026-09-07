@@ -1,32 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-09-07T03:26:11Z",
-    "headRefName": "dependabot/maven/org.projectlombok-lombok-1.18.48",
-    "number": 120,
-    "title": "Bump org.projectlombok:lombok from 1.18.46 to 1.18.48",
-    "url": "https://github.com/pfichtner/vaadoo/pull/120",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-09-07T03:26:02Z",
-    "headRefName": "dependabot/maven/bytebuddy.version-1.18.13",
-    "number": 119,
-    "title": "Bump bytebuddy.version from 1.18.12 to 1.18.13",
-    "url": "https://github.com/pfichtner/vaadoo/pull/119",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
