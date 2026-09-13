@@ -1,6 +1,21 @@
 [
   {
     "author": {
+      "id": "MDQ6VXNlcjgyNTkyNTU2",
+      "is_bot": false,
+      "login": "LizenzFass78851",
+      "name": ""
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-12T16:52:10Z",
+    "headRefName": "pr--ghcr",
+    "number": 127,
+    "title": "ci(build-ghcr): use for parts of workflow a reusable job",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/127",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
