@@ -1,18 +1,133 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjgyNTkyNTU2",
-      "is_bot": false,
-      "login": "LizenzFass78851",
-      "name": ""
+      "is_bot": true,
+      "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-09-12T16:52:10Z",
-    "headRefName": "pr--ghcr",
-    "number": 127,
-    "title": "ci(build-ghcr): use for parts of workflow a reusable job",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/127",
-    "repository": "pfichtner/pfichtner-freetz"
+    "createdAt": "2026-09-14T04:08:20Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.38.0",
+    "number": 282,
+    "title": "Bump github/codeql-action/analyze from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/282",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:07:31Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/analyze-4.38.0",
+    "number": 577,
+    "title": "build(deps): bump github/codeql-action/analyze from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/577",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:07:13Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.38.0",
+    "number": 281,
+    "title": "Bump github/codeql-action/autobuild from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/281",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:06:34Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/autobuild-4.38.0",
+    "number": 576,
+    "title": "build(deps): bump github/codeql-action/autobuild from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/576",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:06:12Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.38.0",
+    "number": 280,
+    "title": "Bump github/codeql-action/init from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/280",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:05:37Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/init-4.38.0",
+    "number": 575,
+    "title": "build(deps): bump github/codeql-action/init from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/575",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:04:37Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.0",
+    "number": 425,
+    "title": "Bump renovatebot/github-action from 46.2.6 to 46.3.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/425",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:04:28Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0",
+    "number": 574,
+    "title": "build(deps): bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/574",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:04:24Z",
+    "headRefName": "dependabot/github_actions/github/codeql-action/upload-sarif-4.38.0",
+    "number": 575,
+    "title": "Bump github/codeql-action/upload-sarif from 4.37.9 to 4.38.0",
+    "url": "https://github.com/pfichtner/testtypes/pull/575",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-14T04:03:26Z",
+    "headRefName": "dependabot/github_actions/actions/setup-java-6.0.1",
+    "number": 573,
+    "title": "build(deps): bump actions/setup-java from 6.0.0 to 6.0.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/573",
+    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "author": {
