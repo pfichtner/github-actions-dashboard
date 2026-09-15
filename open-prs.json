@@ -1,6 +1,32 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-15T04:06:11Z",
+    "headRefName": "dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.6.4",
+    "number": 156,
+    "title": "Bump org.codehaus.mojo:exec-maven-plugin from 3.6.3 to 3.6.4",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/156",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-15T03:25:13Z",
+    "headRefName": "dependabot/maven/org.codehaus.mojo-build-helper-maven-plugin-3.6.2",
+    "number": 123,
+    "title": "Bump org.codehaus.mojo:build-helper-maven-plugin from 3.6.1 to 3.6.2",
+    "url": "https://github.com/pfichtner/vaadoo/pull/123",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
