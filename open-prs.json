@@ -1,6 +1,71 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-18T04:05:43Z",
+    "headRefName": "dependabot/github_actions/docker/setup-buildx-action-4.4.0",
+    "number": 130,
+    "title": "build(deps): bump docker/setup-buildx-action from 4.3.0 to 4.4.0",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/130",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-18T04:05:13Z",
+    "headRefName": "dependabot/github_actions/docker/build-push-action-7.4.0",
+    "number": 427,
+    "title": "Bump docker/build-push-action from 7.3.0 to 7.4.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/427",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-18T04:05:09Z",
+    "headRefName": "dependabot/github_actions/docker/build-push-action-7.4.0",
+    "number": 129,
+    "title": "build(deps): bump docker/build-push-action from 7.3.0 to 7.4.0",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/129",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-18T04:04:52Z",
+    "headRefName": "dependabot/github_actions/docker/setup-qemu-action-4.4.0",
+    "number": 128,
+    "title": "build(deps): bump docker/setup-qemu-action from 4.3.0 to 4.4.0",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/128",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-18T03:24:07Z",
+    "headRefName": "dependabot/maven/bytebuddy.version-1.18.14",
+    "number": 125,
+    "title": "Bump bytebuddy.version from 1.18.13 to 1.18.14",
+    "url": "https://github.com/pfichtner/vaadoo/pull/125",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
