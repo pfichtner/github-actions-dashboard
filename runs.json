@@ -1,6 +1,127 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-09-22T16:33:46Z",
+    "databaseId": 35754931204,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35754931204",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T15:53:35Z",
+    "databaseId": 35750351572,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35750351572",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T15:53:35Z",
+    "databaseId": 35750351792,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35750351792",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T15:38:50Z",
+    "databaseId": 35748817310,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35748817310",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T14:03:06Z",
+    "databaseId": 35737603558,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35737603558",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T12:39:20Z",
+    "databaseId": 35728491199,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/35728491199",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T09:26:48Z",
+    "databaseId": 35710420011,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/35710420011",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T08:50:42Z",
+    "databaseId": 35707022845,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/35707022845",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T07:44:55Z",
+    "databaseId": 35701160505,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/35701160505",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T06:58:33Z",
+    "databaseId": 35697301731,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/35697301731",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-22T06:58:29Z",
+    "databaseId": 35697297272,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/35697297272",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-09-22T04:43:30Z",
     "databaseId": 35687964308,
     "event": "dynamic",
@@ -200,28 +321,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-09-22T04:02:51Z",
-    "databaseId": 35685379096,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/35685379096",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-22T04:02:51Z",
-    "databaseId": 35685379198,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/35685379198",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-22T04:02:51Z",
     "databaseId": 35685379252,
     "event": "dynamic",
     "headBranch": "main",
@@ -298,61 +397,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-21T18:13:48Z",
-    "databaseId": 35637039285,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35637039285",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-21T14:03:46Z",
-    "databaseId": 35609611495,
-    "event": "push",
-    "headBranch": "v0.1.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35609611495",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-21T14:03:46Z",
-    "databaseId": 35609611505,
-    "event": "push",
-    "headBranch": "v0.1.1",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35609611505",
-    "workflowName": "release",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-21T14:03:35Z",
-    "databaseId": 35609592658,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35609592658",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-21T13:47:30Z",
-    "databaseId": 35607878313,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/35607878313",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-09-21T10:01:36Z",
     "databaseId": 35586490176,
     "event": "push",
@@ -365,17 +409,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-09-21T10:01:31Z",
-    "databaseId": 35586482428,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/35586482428",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-21T10:01:31Z",
     "databaseId": 35586482609,
     "event": "dynamic",
     "headBranch": "main",
@@ -383,17 +416,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/35586482609",
     "workflowName": "CodeQL",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-21T10:01:20Z",
-    "databaseId": 35586465104,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/35586465104",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -528,17 +550,6 @@
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-09-21T04:09:06Z",
-    "databaseId": 35559913339,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.graalvm.buildtools-native-maven-plugin-1.1.13",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/35559913339",
-    "workflowName": "GraalVM Native Image builds",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-09-21T04:05:58Z",
     "databaseId": 35559740861,
@@ -636,16 +647,5 @@
     "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/35485096077",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-19T08:19:36Z",
-    "databaseId": 35431696020,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/35431696020",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
