@@ -1,6 +1,47 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-23T10:35:05Z",
+    "headRefName": "dependabot/cargo/clap-4.6.7",
+    "number": 10,
+    "title": "chore(deps): bump clap from 4.6.6 to 4.6.7",
+    "url": "https://github.com/pfichtner/ar7json/pull/10",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-23T10:35:00Z",
+    "headRefName": "dependabot/cargo/clap_complete-4.6.11",
+    "number": 9,
+    "title": "chore(deps): bump clap_complete from 4.6.9 to 4.6.11",
+    "url": "https://github.com/pfichtner/ar7json/pull/9",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-23T09:30:38Z",
+    "headRefName": "renovate/slf4j-monorepo",
+    "number": 430,
+    "title": "Update dependency org.slf4j:slf4j-api to v2.0.20",
+    "url": "https://github.com/pfichtner/virtualavr/pull/430",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
