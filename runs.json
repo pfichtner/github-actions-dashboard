@@ -1,58 +1,91 @@
 [
   {
     "conclusion": "success",
-    "createdAt": "2026-09-26T01:23:48Z",
-    "databaseId": 36208275806,
+    "createdAt": "2026-09-26T11:25:08Z",
+    "databaseId": 36238755892,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36238755892",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-26T11:08:50Z",
+    "databaseId": 36237911247,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36237911247",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-26T09:29:50Z",
+    "databaseId": 36232947958,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/36232947958",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-26T09:15:06Z",
+    "databaseId": 36232200573,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36232200573",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-09-26T09:13:09Z",
+    "databaseId": 36232102653,
     "event": "push",
     "headBranch": "dependabot/maven/org.assertj-assertj-core-3.27.7",
     "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36208275806",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36232102653",
     "workflowName": "ci",
     "repository": "pfichtner/java-refactoring-mcp"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-26T01:23:43Z",
-    "databaseId": 36208271235,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15",
+    "createdAt": "2026-09-26T09:13:06Z",
+    "databaseId": 36232100622,
+    "event": "dynamic",
+    "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36208271235",
-    "workflowName": "ci",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36232100622",
+    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/java-refactoring-mcp"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-26T01:23:38Z",
-    "databaseId": 36208265811,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.tngtech.archunit-archunit-1.5.0",
+    "createdAt": "2026-09-26T08:51:45Z",
+    "databaseId": 36231050979,
+    "event": "schedule",
+    "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36208265811",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/36231050979",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-26T01:23:38Z",
-    "databaseId": 36208266140,
-    "event": "push",
-    "headBranch": "dependabot/maven/org.slf4j-slf4j-simple-2.0.20",
+    "createdAt": "2026-09-26T06:51:21Z",
+    "databaseId": 36224999885,
+    "event": "schedule",
+    "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36208266140",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-26T01:23:36Z",
-    "databaseId": 36208264626,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/codecov/codecov-action-7",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/36208264626",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/36224999885",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
   },
   {
     "conclusion": "success",
@@ -255,17 +288,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-09-25T04:02:35Z",
-    "databaseId": 36092807975,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/36092807975",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-25T04:02:35Z",
     "databaseId": 36092808069,
     "event": "dynamic",
     "headBranch": "main",
@@ -463,17 +485,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-09-24T04:02:49Z",
-    "databaseId": 35953967004,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/35953967004",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-09-24T04:02:28Z",
     "databaseId": 35953941852,
     "event": "dynamic",
@@ -559,60 +570,5 @@
     "url": "https://github.com/pfichtner/ar7json/actions/runs/35905058651",
     "workflowName": "Build",
     "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-23T15:29:00Z",
-    "databaseId": 35881880306,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/35881880306",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-23T10:35:09Z",
-    "databaseId": 35849641605,
-    "event": "pull_request",
-    "headBranch": "dependabot/cargo/clap-4.6.7",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/35849641605",
-    "workflowName": "Build",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-23T10:35:04Z",
-    "databaseId": 35849634002,
-    "event": "pull_request",
-    "headBranch": "dependabot/cargo/clap_complete-4.6.11",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/35849634002",
-    "workflowName": "Build",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-23T10:34:16Z",
-    "databaseId": 35849555996,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/35849555996",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-09-23T08:52:12Z",
-    "databaseId": 35839583325,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/35839583325",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
