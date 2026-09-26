@@ -1,6 +1,97 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:47Z",
+    "headRefName": "dependabot/maven/org.assertj-assertj-core-3.27.7",
+    "number": 14,
+    "title": "chore(deps): bump org.assertj:assertj-core from 3.27.3 to 3.27.7",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/14",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:42Z",
+    "headRefName": "dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.15",
+    "number": 13,
+    "title": "chore(deps): bump org.jacoco:jacoco-maven-plugin from 0.8.13 to 0.8.15",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/13",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:37Z",
+    "headRefName": "dependabot/maven/org.slf4j-slf4j-simple-2.0.20",
+    "number": 12,
+    "title": "chore(deps): bump org.slf4j:slf4j-simple from 2.0.19 to 2.0.20",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/12",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:36Z",
+    "headRefName": "dependabot/github_actions/codecov/codecov-action-7",
+    "number": 11,
+    "title": "chore(deps): bump codecov/codecov-action from 5 to 7",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/11",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:36Z",
+    "headRefName": "dependabot/maven/com.tngtech.archunit-archunit-1.5.0",
+    "number": 10,
+    "title": "chore(deps): bump com.tngtech.archunit:archunit from 1.3.0 to 1.5.0",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/10",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:32Z",
+    "headRefName": "dependabot/maven/info.picocli-picocli-4.7.7",
+    "number": 9,
+    "title": "chore(deps): bump info.picocli:picocli from 4.7.6 to 4.7.7",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/9",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-09-26T01:23:24Z",
+    "headRefName": "dependabot/github_actions/softprops/action-gh-release-3",
+    "number": 8,
+    "title": "chore(deps): bump softprops/action-gh-release from 2 to 3",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/8",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
