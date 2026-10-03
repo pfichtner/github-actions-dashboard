@@ -1,47 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-03T01:22:46Z",
-    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-shade-plugin-3.6.2",
-    "number": 16,
-    "title": "chore(deps): bump org.apache.maven.plugins:maven-shade-plugin from 3.6.0 to 3.6.2",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/16",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-03T01:22:40Z",
-    "headRefName": "dependabot/maven/com.tngtech.archunit-archunit-1.5.1",
-    "number": 15,
-    "title": "chore(deps): bump com.tngtech.archunit:archunit from 1.5.0 to 1.5.1",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/15",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-09-25T09:46:23Z",
-    "headRefName": "renovate/logback-monorepo",
-    "number": 432,
-    "title": "Update dependency ch.qos.logback:logback-classic to v1.6.5",
-    "url": "https://github.com/pfichtner/virtualavr/pull/432",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
