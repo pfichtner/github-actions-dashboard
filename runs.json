@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-04T10:43:42Z",
+    "databaseId": 37196303491,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37196303491",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-04T10:15:35Z",
+    "databaseId": 37194786313,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/37194786313",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-04T02:52:45Z",
     "databaseId": 37172389567,
     "event": "dynamic",
@@ -386,17 +408,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-02T04:05:31Z",
-    "databaseId": 36963015909,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.3.6",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/36963015909",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-02T04:05:00Z",
     "databaseId": 36962975823,
     "event": "pull_request",
@@ -493,38 +504,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/36959972060",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-01T19:45:09Z",
-    "databaseId": 36916585232,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/36916585232",
-    "workflowName": "Matrix Docker Build & Push",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-01T09:44:05Z",
-    "databaseId": 36844634715,
-    "event": "dynamic",
-    "headBranch": "gh-pages",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/36844634715",
-    "workflowName": "pages-build-deployment",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-01T09:38:12Z",
-    "databaseId": 36844007532,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/36844007532",
-    "workflowName": "Mutation Testing",
-    "repository": "pfichtner/pacto"
   }
 ]
