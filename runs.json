@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-06T14:15:07Z",
+    "databaseId": 37477388035,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37477388035",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-06T11:28:09Z",
+    "databaseId": 37456599239,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37456599239",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-06T10:50:20Z",
+    "databaseId": 37452419265,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/37452419265",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-06T09:03:01Z",
+    "databaseId": 37440269789,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/37440269789",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-06T08:04:45Z",
+    "databaseId": 37433719245,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37433719245",
+    "workflowName": "CI",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-06T04:44:22Z",
     "databaseId": 37415123407,
     "event": "pull_request",
@@ -53,17 +108,6 @@
     "url": "https://github.com/pfichtner/pacto/actions/runs/37415055858",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T04:43:29Z",
-    "databaseId": 37415055612,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37415055612",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/espressomachine"
   },
   {
     "conclusion": "success",
@@ -430,28 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-05T04:03:48Z",
-    "databaseId": 37261897575,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37261897575",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-05T04:02:34Z",
-    "databaseId": 37261817921,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37261817921",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-05T04:02:34Z",
     "databaseId": 37261817997,
     "event": "dynamic",
@@ -460,17 +482,6 @@
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37261817997",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-05T04:02:25Z",
-    "databaseId": 37261808437,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/37261808437",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -537,38 +548,5 @@
     "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/37172389678",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-03T12:03:18Z",
-    "databaseId": 37121628651,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/37121628651",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-03T12:03:08Z",
-    "databaseId": 37121620280,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/37121620280",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-03T09:28:20Z",
-    "databaseId": 37113158864,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/37113158864",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
