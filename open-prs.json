@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-06T04:44:17Z",
+    "headRefName": "dependabot/maven/teavm-backend/llvm/teavm.version-0.16.0",
+    "number": 16,
+    "title": "Bump teavm.version from 0.15.0 to 0.16.0 in /teavm-backend/llvm",
+    "url": "https://github.com/pfichtner/espressomachine/pull/16",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
