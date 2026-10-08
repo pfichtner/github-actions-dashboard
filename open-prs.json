@@ -1,45 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-08T04:08:01Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.22.0",
-    "number": 289,
-    "title": "Bump step-security/harden-runner from 2.21.1 to 2.22.0",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/pull/289",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-08T04:04:11Z",
-    "headRefName": "dependabot/github_actions/step-security/harden-runner-2.22.0",
-    "number": 589,
-    "title": "build(deps): bump step-security/harden-runner from 2.21.1 to 2.22.0",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/589",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-08T04:03:46Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.7",
-    "number": 440,
-    "title": "Bump renovatebot/github-action from 46.3.6 to 46.3.7",
-    "url": "https://github.com/pfichtner/virtualavr/pull/440",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
