@@ -1,57 +1,277 @@
 [
   {
     "conclusion": "success",
-    "createdAt": "2026-10-08T17:13:54Z",
-    "databaseId": 37814944814,
+    "createdAt": "2026-10-09T04:44:43Z",
+    "databaseId": 37885306643,
+    "event": "pull_request",
+    "headBranch": "dependabot/maven/net.javacrumbs.json-unit-json-unit-assertj-6.3.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/37885306643",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:44:40Z",
+    "databaseId": 37885302195,
+    "event": "push",
+    "headBranch": "dependabot/maven/net.javacrumbs.json-unit-json-unit-assertj-6.3.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/37885302195",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:52Z",
+    "databaseId": 37885241774,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37885241774",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:51Z",
+    "databaseId": 37885240102,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/37885240102",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:50Z",
+    "databaseId": 37885239404,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37885239404",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:50Z",
+    "databaseId": 37885239456,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37885239456",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:50Z",
+    "databaseId": 37885239743,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37885239743",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:50Z",
+    "databaseId": 37885239363,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/37885239363",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:43:50Z",
+    "databaseId": 37885239520,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/37885239520",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:05:49Z",
+    "databaseId": 37882285059,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/37882285059",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:05:47Z",
+    "databaseId": 37882283219,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/37882283219",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:04:27Z",
+    "databaseId": 37882178287,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/37882178287",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:04:27Z",
+    "databaseId": 37882178353,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/37882178353",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:50Z",
+    "databaseId": 37882053580,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/37882053580",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:41Z",
+    "databaseId": 37882041591,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37882041591",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:41Z",
+    "databaseId": 37882041662,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37882041662",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:41Z",
+    "databaseId": 37882041846,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37882041846",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:24Z",
+    "databaseId": 37882019768,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37882019768",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:24Z",
+    "databaseId": 37882019809,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37882019809",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:17Z",
+    "databaseId": 37882009612,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/37882009612",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T04:02:17Z",
+    "databaseId": 37882009830,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/37882009830",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T03:25:28Z",
+    "databaseId": 37879209011,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/37879209011",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-09T03:25:27Z",
+    "databaseId": 37879207072,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/37879207072",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-08T22:19:15Z",
+    "databaseId": 37852713529,
     "event": "push",
     "headBranch": "main",
     "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37814944814",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37852713529",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-08T17:07:35Z",
-    "databaseId": 37814132739,
-    "event": "pull_request",
-    "headBranch": "feature/eeprom-peripheral",
+    "createdAt": "2026-10-08T21:38:15Z",
+    "databaseId": 37848174109,
+    "event": "release",
+    "headBranch": "0.3.0",
     "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37814132739",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T16:38:48Z",
-    "databaseId": 37810418612,
-    "event": "push",
-    "headBranch": "feature/eeprom-peripheral",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37810418612",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-10-08T15:27:36Z",
-    "databaseId": 37800938087,
-    "event": "push",
-    "headBranch": "feature/eeprom-peripheral",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37800938087",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-10-08T15:21:38Z",
-    "databaseId": 37800110330,
-    "event": "push",
-    "headBranch": "feature/eeprom-peripheral",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37800110330",
-    "workflowName": "Docker Image CI",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/37848174109",
+    "workflowName": "Publish Docker image",
     "repository": "pfichtner/virtualavr"
   },
   {
@@ -155,61 +375,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-08T04:44:45Z",
-    "databaseId": 37728950908,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37728950908",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:44:45Z",
-    "databaseId": 37728951026,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37728951026",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:44:45Z",
-    "databaseId": 37728951048,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37728951048",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:44:44Z",
-    "databaseId": 37728950678,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/37728950678",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:08:06Z",
-    "databaseId": 37726013554,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.22.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/37726013554",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-08T04:08:06Z",
     "databaseId": 37726013562,
     "event": "pull_request",
@@ -217,17 +382,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/37726013562",
     "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:08:02Z",
-    "databaseId": 37726009313,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.22.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/37726009313",
-    "workflowName": "Go",
     "repository": "pfichtner/mqtt-machine-state"
   },
   {
@@ -251,28 +405,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/37725774819",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:04:16Z",
-    "databaseId": 37725710958,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.22.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37725710958",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-08T04:04:16Z",
-    "databaseId": 37725710974,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/step-security/harden-runner-2.22.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/37725710974",
-    "workflowName": "Dependency Review",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -375,17 +507,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-07T04:44:35Z",
-    "databaseId": 37572911099,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/37572911099",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-07T04:44:34Z",
     "databaseId": 37572910843,
     "event": "dynamic",
@@ -394,39 +515,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/37572910843",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-07T04:44:34Z",
-    "databaseId": 37572910907,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/37572910907",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-07T04:44:34Z",
-    "databaseId": 37572911034,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/37572911034",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-07T04:05:48Z",
-    "databaseId": 37569812678,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/37569812678",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
   },
   {
     "conclusion": "success",
@@ -453,17 +541,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-10-07T04:03:09Z",
-    "databaseId": 37569600970,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/37569600970",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-07T04:03:09Z",
     "databaseId": 37569601022,
     "event": "dynamic",
     "headBranch": "main",
@@ -475,17 +552,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-10-07T03:24:26Z",
-    "databaseId": 37566596848,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/37566596848",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-07T03:24:26Z",
     "databaseId": 37566596876,
     "event": "dynamic",
     "headBranch": "main",
@@ -493,82 +559,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/37566596876",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T10:50:20Z",
-    "databaseId": 37452419265,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/37452419265",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T09:03:01Z",
-    "databaseId": 37440269789,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/37440269789",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T04:43:30Z",
-    "databaseId": 37415057271,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/37415057271",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T04:43:29Z",
-    "databaseId": 37415055965,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/37415055965",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T04:05:24Z",
-    "databaseId": 37412041852,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/37412041852",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-06T03:23:34Z",
-    "databaseId": 37408757354,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/37408757354",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-10-05T19:22:54Z",
-    "databaseId": 37362988523,
-    "event": "schedule",
-    "headBranch": "master",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/37362988523",
-    "workflowName": "ESPHome CI Compile",
-    "repository": "pfichtner/esphome-configs"
   }
 ]
