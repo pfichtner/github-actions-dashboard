@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-13T04:15:00Z",
+    "databaseId": 38345526326,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/38345526326",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-12T22:12:32Z",
+    "databaseId": 38315313993,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/38315313993",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-12T14:38:23Z",
     "databaseId": 38264381333,
     "event": "pull_request",
@@ -229,17 +251,6 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/38251682337",
     "workflowName": "Go",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-12T12:49:08Z",
-    "databaseId": 38251435776,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/38251435776",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -515,27 +526,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/38036006724",
     "workflowName": "Cleanup untagged GHCR images",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-10T01:23:30Z",
-    "databaseId": 38012994626,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/38012994626",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-10T01:23:30Z",
-    "databaseId": 38012994627,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/38012994627",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/java-refactoring-mcp"
   }
 ]

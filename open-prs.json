@@ -1,19 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-12T14:38:16Z",
-    "headRefName": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.10.4",
-    "number": 150,
-    "title": "Bump com.diffplug.spotless:spotless-maven-plugin from 3.10.3 to 3.10.4",
-    "url": "https://github.com/pfichtner/pacto/pull/150",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
