@@ -7,6 +7,21 @@
       "name": "Peter Fichtner"
     },
     "baseRefName": "main",
+    "createdAt": "2026-10-14T09:41:46Z",
+    "headRefName": "renovate/org.sonatype.central-central-publishing-maven-plugin-0.x",
+    "number": 445,
+    "title": "Update dependency org.sonatype.central:central-publishing-maven-plugin to v0.12.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/445",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-05-28T21:22:38Z",
     "headRefName": "feat/ConstraintValidator#initialize#3",
     "number": 93,
