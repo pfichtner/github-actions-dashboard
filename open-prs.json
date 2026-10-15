@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-15T04:03:23Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.8",
+    "number": 446,
+    "title": "Bump renovatebot/github-action from 46.3.7 to 46.3.8",
+    "url": "https://github.com/pfichtner/virtualavr/pull/446",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
