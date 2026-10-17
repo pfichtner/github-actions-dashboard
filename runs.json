@@ -1,6 +1,83 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-17T14:33:19Z",
+    "databaseId": 39041248032,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39041248032",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-17T13:45:02Z",
+    "databaseId": 39037839940,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39037839940",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-17T13:42:04Z",
+    "databaseId": 39037642755,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39037642755",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-17T12:11:45Z",
+    "databaseId": 39031567620,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39031567620",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-17T10:25:14Z",
+    "databaseId": 39024822386,
+    "event": "release",
+    "headBranch": "0.3.3",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39024822386",
+    "workflowName": "Publish Docker image",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-17T08:04:45Z",
+    "databaseId": 39016012888,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/39016012888",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-17T06:22:40Z",
+    "databaseId": 39009677499,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/39009677499",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-17T01:22:02Z",
     "databaseId": 38990543620,
     "event": "dynamic",
@@ -20,61 +97,6 @@
     "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/38990543895",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-16T19:10:28Z",
-    "databaseId": 38952943313,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/38952943313",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-16T18:05:50Z",
-    "databaseId": 38944691338,
-    "event": "release",
-    "headBranch": "0.3.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/38944691338",
-    "workflowName": "Publish Docker image",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-16T18:05:48Z",
-    "databaseId": 38944688057,
-    "event": "push",
-    "headBranch": "0.3.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/38944688057",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-16T17:52:54Z",
-    "databaseId": 38943067808,
-    "event": "push",
-    "headBranch": "0.3.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/38943067808",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-16T17:52:26Z",
-    "databaseId": 38943010937,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/38943010937",
-    "workflowName": "Dependency Graph",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -386,17 +408,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-15T04:02:49Z",
-    "databaseId": 38679400566,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/38679400566",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-15T04:02:25Z",
     "databaseId": 38679365804,
     "event": "dynamic",
@@ -581,27 +592,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/38590020655",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-14T15:29:00Z",
-    "databaseId": 38589705151,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/38589705151",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-14T14:53:10Z",
-    "databaseId": 38584503958,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/38584503958",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
   }
 ]
