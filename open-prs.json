@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-21T04:03:16Z",
+    "headRefName": "dependabot/maven/org.ow2.asm.version-9.11.1",
+    "number": 603,
+    "title": "build(deps): bump org.ow2.asm.version from 9.11 to 9.11.1",
+    "url": "https://github.com/pfichtner/log4shell-hunter/pull/603",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
