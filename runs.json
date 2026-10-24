@@ -1,6 +1,83 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-24T13:31:32Z",
+    "databaseId": 40098510573,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40098510573",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T09:24:35Z",
+    "databaseId": 40081833212,
+    "event": "pull_request",
+    "headBranch": "feat/tcp-serial-listen",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40081833212",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T09:24:32Z",
+    "databaseId": 40081830270,
+    "event": "push",
+    "headBranch": "feat/tcp-serial-listen",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40081830270",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T09:04:43Z",
+    "databaseId": 40080526176,
+    "event": "pull_request",
+    "headBranch": "renovate/com.google.code.gson-gson-2.x",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40080526176",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T09:04:40Z",
+    "databaseId": 40080523001,
+    "event": "push",
+    "headBranch": "renovate/com.google.code.gson-gson-2.x",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40080523001",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T08:26:17Z",
+    "databaseId": 40078032242,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/40078032242",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T06:40:12Z",
+    "databaseId": 40071110164,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/40071110164",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-24T01:22:51Z",
     "databaseId": 40049521319,
     "event": "push",
@@ -34,39 +111,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-23T15:09:24Z",
-    "databaseId": 39975831199,
-    "event": "pull_request",
-    "headBranch": "feat/tcp-serial-listen",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39975831199",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-23T15:09:21Z",
-    "databaseId": 39975824480,
-    "event": "push",
-    "headBranch": "feat/tcp-serial-listen",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39975824480",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-23T09:30:59Z",
-    "databaseId": 39932428722,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39932428722",
-    "workflowName": "Renovate",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-23T08:52:42Z",
     "databaseId": 39927779006,
     "event": "schedule",
@@ -75,28 +119,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/39927779006",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-23T07:26:44Z",
-    "databaseId": 39917779267,
-    "event": "pull_request",
-    "headBranch": "feat/tcp-serial-listen",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39917779267",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-23T07:26:40Z",
-    "databaseId": 39917771130,
-    "event": "push",
-    "headBranch": "feat/tcp-serial-listen",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/39917771130",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -441,17 +463,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-22T04:02:50Z",
-    "databaseId": 39720168868,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/39720168868",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-22T04:02:17Z",
     "databaseId": 39720117392,
     "event": "dynamic",
@@ -503,61 +514,6 @@
     "status": "completed",
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/39630768784",
     "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T10:33:14Z",
-    "databaseId": 39585425972,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/39585425972",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T10:33:13Z",
-    "databaseId": 39585424031,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/39585424031",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T08:55:33Z",
-    "databaseId": 39572968251,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/39572968251",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T04:43:42Z",
-    "databaseId": 39545623266,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/39545623266",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T04:43:36Z",
-    "databaseId": 39545613839,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/39545613839",
-    "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
