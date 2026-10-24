@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-24T01:22:51Z",
+    "databaseId": 40049521319,
+    "event": "push",
+    "headBranch": "dependabot/maven/io.modelcontextprotocol.sdk-mcp-2.1.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/40049521319",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T01:22:09Z",
+    "databaseId": 40049468519,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/40049468519",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-24T01:22:09Z",
+    "databaseId": 40049468740,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/40049468740",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-23T15:09:24Z",
     "databaseId": 39975831199,
     "event": "pull_request",
@@ -526,38 +559,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/39545613839",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T04:04:58Z",
-    "databaseId": 39542065887,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/39542065887",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T04:02:16Z",
-    "databaseId": 39541823875,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/39541823875",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-21T03:23:32Z",
-    "databaseId": 39538308571,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/39538308571",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   }
 ]
