@@ -1,34 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-24T01:22:51Z",
-    "headRefName": "dependabot/maven/io.modelcontextprotocol.sdk-mcp-2.1.0",
-    "number": 17,
-    "title": "chore(deps): bump io.modelcontextprotocol.sdk:mcp from 2.0.1 to 2.1.0",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/17",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-18T12:07:27Z",
-    "headRefName": "feat/tcp-serial-listen",
-    "number": 449,
-    "title": "Feat/tcp serial listen",
-    "url": "https://github.com/pfichtner/virtualavr/pull/449",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
