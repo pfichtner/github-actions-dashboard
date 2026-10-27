@@ -1,45 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-27T04:45:10Z",
-    "headRefName": "dependabot/maven/net.bytebuddy-byte-buddy-1.18.16",
-    "number": 155,
-    "title": "Bump net.bytebuddy:byte-buddy from 1.18.15 to 1.18.16",
-    "url": "https://github.com/pfichtner/pacto/pull/155",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-27T04:04:31Z",
-    "headRefName": "dependabot/maven/org.graalvm.buildtools-native-maven-plugin-1.1.17",
-    "number": 170,
-    "title": "Bump org.graalvm.buildtools:native-maven-plugin from 1.1.16 to 1.1.17",
-    "url": "https://github.com/pfichtner/jsipdialer/pull/170",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-27T03:25:27Z",
-    "headRefName": "dependabot/maven/bytebuddy.version-1.18.16",
-    "number": 138,
-    "title": "Bump bytebuddy.version from 1.18.15 to 1.18.16",
-    "url": "https://github.com/pfichtner/vaadoo/pull/138",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
