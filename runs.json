@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-28T17:13:03Z",
+    "databaseId": 40733569588,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/40733569588",
+    "workflowName": "Update Vagrant Box",
+    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-28T10:46:24Z",
+    "databaseId": 40674754289,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40674754289",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-28T10:34:02Z",
+    "databaseId": 40673136722,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/ar7json/actions/runs/40673136722",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-28T10:34:02Z",
+    "databaseId": 40673136789,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/ar7json/actions/runs/40673136789",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-28T10:04:33Z",
+    "databaseId": 40669212650,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/40669212650",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-28T04:44:52Z",
     "databaseId": 40634045748,
     "event": "dynamic",
@@ -419,17 +474,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-10-27T04:02:59Z",
-    "databaseId": 40447559831,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/40447559831",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-10-27T04:02:38Z",
     "databaseId": 40447525717,
     "event": "dynamic",
@@ -515,16 +559,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/40270768031",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-26T04:03:45Z",
-    "databaseId": 40267109627,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/40267109627",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
