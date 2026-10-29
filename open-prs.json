@@ -1,6 +1,45 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-29T04:04:54Z",
+    "headRefName": "dependabot/maven/ch.qos.logback-logback-classic-1.6.6",
+    "number": 171,
+    "title": "Bump ch.qos.logback:logback-classic from 1.6.5 to 1.6.6",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/171",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-29T04:03:44Z",
+    "headRefName": "dependabot/maven/demo/java/sketchtest/ch.qos.logback-logback-classic-1.6.6",
+    "number": 456,
+    "title": "Bump ch.qos.logback:logback-classic from 1.6.5 to 1.6.6 in /demo/java/sketchtest",
+    "url": "https://github.com/pfichtner/virtualavr/pull/456",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-29T04:03:42Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.10",
+    "number": 455,
+    "title": "Bump renovatebot/github-action from 46.3.9 to 46.3.10",
+    "url": "https://github.com/pfichtner/virtualavr/pull/455",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
