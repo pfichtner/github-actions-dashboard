@@ -1,6 +1,61 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-10-31T01:22:58Z",
+    "databaseId": 41155082210,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41155082210",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-31T01:22:53Z",
+    "databaseId": 41155075770,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.16",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41155075770",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-31T01:22:46Z",
+    "databaseId": 41155067025,
+    "event": "push",
+    "headBranch": "dependabot/maven/org.apache.maven.plugins-maven-failsafe-plugin-3.6.1",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41155067025",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-31T01:22:10Z",
+    "databaseId": 41155018817,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41155018817",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-10-31T01:22:10Z",
+    "databaseId": 41155018872,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41155018872",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-10-30T10:59:16Z",
     "databaseId": 41044741988,
     "event": "schedule",
@@ -548,16 +603,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/40669212650",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-10-28T04:44:52Z",
-    "databaseId": 40634045748,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/40634045748",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
