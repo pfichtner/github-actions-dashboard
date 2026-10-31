@@ -1,6 +1,21 @@
 [
   {
     "author": {
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-10-31T10:34:17Z",
+    "headRefName": "renovate/ws-8.x-lockfile",
+    "number": 457,
+    "title": "Update dependency ws to v8.22.1",
+    "url": "https://github.com/pfichtner/virtualavr/pull/457",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
       "is_bot": true,
       "login": "app/dependabot"
     },
