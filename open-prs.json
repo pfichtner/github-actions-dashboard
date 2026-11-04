@@ -1,57 +1,29 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
+      "is_bot": true,
+      "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-10-31T10:34:17Z",
-    "headRefName": "renovate/ws-8.x-lockfile",
-    "number": 457,
-    "title": "Update dependency ws to v8.22.1",
-    "url": "https://github.com/pfichtner/virtualavr/pull/457",
+    "createdAt": "2026-11-04T04:04:19Z",
+    "headRefName": "dependabot/github_actions/bats-core/bats-action-4.1.0",
+    "number": 132,
+    "title": "build(deps): bump bats-core/bats-action from 4.0.0 to 4.1.0",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/132",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-04T04:03:46Z",
+    "headRefName": "dependabot/github_actions/bats-core/bats-action-4.1.0",
+    "number": 459,
+    "title": "Bump bats-core/bats-action from 4.0.0 to 4.1.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/459",
     "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-31T01:22:57Z",
-    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-surefire-plugin-3.6.1",
-    "number": 20,
-    "title": "chore(deps): bump org.apache.maven.plugins:maven-surefire-plugin from 3.6.0 to 3.6.1",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/20",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-31T01:22:52Z",
-    "headRefName": "dependabot/maven/org.jacoco-jacoco-maven-plugin-0.8.16",
-    "number": 19,
-    "title": "chore(deps): bump org.jacoco:jacoco-maven-plugin from 0.8.15 to 0.8.16",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/19",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-10-31T01:22:45Z",
-    "headRefName": "dependabot/maven/org.apache.maven.plugins-maven-failsafe-plugin-3.6.1",
-    "number": 18,
-    "title": "chore(deps): bump org.apache.maven.plugins:maven-failsafe-plugin from 3.6.0 to 3.6.1",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/18",
-    "repository": "pfichtner/java-refactoring-mcp"
   },
   {
     "author": {
