@@ -1,32 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-11-04T04:04:19Z",
-    "headRefName": "dependabot/github_actions/bats-core/bats-action-4.1.0",
-    "number": 132,
-    "title": "build(deps): bump bats-core/bats-action from 4.0.0 to 4.1.0",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/132",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-11-04T04:03:46Z",
-    "headRefName": "dependabot/github_actions/bats-core/bats-action-4.1.0",
-    "number": 459,
-    "title": "Bump bats-core/bats-action from 4.0.0 to 4.1.0",
-    "url": "https://github.com/pfichtner/virtualavr/pull/459",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
