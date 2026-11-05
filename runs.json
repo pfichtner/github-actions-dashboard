@@ -1,6 +1,72 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-05T18:16:23Z",
+    "databaseId": 42082627425,
+    "event": "schedule",
+    "headBranch": "master",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/esphome-configs/actions/runs/42082627425",
+    "workflowName": "ESPHome CI Compile",
+    "repository": "pfichtner/esphome-configs"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-05T12:41:41Z",
+    "databaseId": 42029314970,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/42029314970",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-05T11:40:27Z",
+    "databaseId": 42020868400,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/42020868400",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-05T10:22:08Z",
+    "databaseId": 42010122259,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/42010122259",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-05T10:22:03Z",
+    "databaseId": 42010109934,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/42010109934",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-05T10:21:37Z",
+    "databaseId": 42010050812,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/42010050812",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-05T04:45:17Z",
     "databaseId": 41969745787,
     "event": "pull_request",
@@ -174,28 +240,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/41965344726",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:02:54Z",
-    "databaseId": 41965327677,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/41965327677",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:02:54Z",
-    "databaseId": 41965327864,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/41965327864",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -375,17 +419,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-04T04:44:35Z",
-    "databaseId": 41775023820,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/41775023820",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-04T04:03:49Z",
     "databaseId": 41770886427,
     "event": "dynamic",
@@ -482,17 +515,6 @@
     "url": "https://github.com/pfichtner/testtypes/actions/runs/41770743797",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-04T03:24:32Z",
-    "databaseId": 41766934230,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/41766934230",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
   },
   {
     "conclusion": "success",
@@ -603,16 +625,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/41575828224",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-03T04:03:00Z",
-    "databaseId": 41575781506,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/41575781506",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
