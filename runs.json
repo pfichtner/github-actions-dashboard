@@ -1,6 +1,226 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-06T12:24:11Z",
+    "databaseId": 42217385820,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/42217385820",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:38:58Z",
+    "databaseId": 42211805044,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/42211805044",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:12:22Z",
+    "databaseId": 42208491670,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42208491670",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:12:22Z",
+    "databaseId": 42208491679,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42208491679",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:12:21Z",
+    "databaseId": 42208491583,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42208491583",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:12:05Z",
+    "databaseId": 42208453528,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42208453528",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:12:05Z",
+    "databaseId": 42208453594,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42208453594",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:11:54Z",
+    "databaseId": 42208429678,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/42208429678",
+    "workflowName": "GraalVM Native Image builds",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-11-06T11:11:25Z",
+    "databaseId": 42208369257,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42208369257",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:11:25Z",
+    "databaseId": 42208369530,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42208369530",
+    "workflowName": "Go",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-11-06T11:11:16Z",
+    "databaseId": 42208352075,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42208352075",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/mqtt-machine-state"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-11-06T11:11:12Z",
+    "databaseId": 42208342380,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42208342380",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:11:12Z",
+    "databaseId": 42208342391,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42208342391",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:10:30Z",
+    "databaseId": 42208254250,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/42208254250",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:10:25Z",
+    "databaseId": 42208243302,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/42208243302",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:10:22Z",
+    "databaseId": 42208236800,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/42208236800",
+    "workflowName": "CodeQL",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:10:22Z",
+    "databaseId": 42208237465,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/42208237465",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:10:22Z",
+    "databaseId": 42208237605,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/42208237605",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T11:08:53Z",
+    "databaseId": 42208046255,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pacto/actions/runs/42208046255",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-06T08:09:39Z",
+    "databaseId": 42185690263,
+    "event": "push",
+    "headBranch": "feature/aggressive-inlining",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/42185690263",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-06T04:45:10Z",
     "databaseId": 42164345064,
     "event": "pull_request",
@@ -110,61 +330,6 @@
     "repository": "pfichtner/jsipdialer"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-11-06T04:04:24Z",
-    "databaseId": 42160285101,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42160285101",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:04:24Z",
-    "databaseId": 42160285107,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42160285107",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:04:22Z",
-    "databaseId": 42160280633,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/init-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42160280633",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-11-06T04:04:22Z",
-    "databaseId": 42160280769,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/init-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42160280769",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:04:20Z",
-    "databaseId": 42160278285,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/github/codeql-action/analyze-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42160278285",
-    "workflowName": "Go",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-11-06T04:03:50Z",
     "databaseId": 42160227972,
@@ -185,61 +350,6 @@
     "url": "https://github.com/pfichtner/jsipdialer/actions/runs/42160228404",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:03:47Z",
-    "databaseId": 42160224355,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/autobuild-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42160224355",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "failure",
-    "createdAt": "2026-11-06T04:03:47Z",
-    "databaseId": 42160224363,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/autobuild-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42160224363",
-    "workflowName": "CodeQL",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:03:47Z",
-    "databaseId": 42160224387,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/autobuild-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42160224387",
-    "workflowName": "Dependency Review",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:03:39Z",
-    "databaseId": 42160210814,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/upload-sarif-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42160210814",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:03:39Z",
-    "databaseId": 42160210818,
-    "event": "pull_request",
-    "headBranch": "dependabot/github_actions/github/codeql-action/upload-sarif-4.39.2",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42160210818",
-    "workflowName": "Dependency Review",
-    "repository": "pfichtner/log4shell-hunter"
   },
   {
     "conclusion": "success",
@@ -299,17 +409,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-11-06T04:02:25Z",
-    "databaseId": 42160088096,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/42160088096",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:02:25Z",
     "databaseId": 42160088325,
     "event": "dynamic",
     "headBranch": "main",
@@ -353,28 +452,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-06T03:25:16Z",
-    "databaseId": 42156443797,
-    "event": "push",
-    "headBranch": "dependabot/maven/com.diffplug.spotless-spotless-maven-plugin-3.11.0",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/42156443797",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T03:24:32Z",
-    "databaseId": 42156367272,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/42156367272",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-05T18:16:23Z",
     "databaseId": 42082627425,
     "event": "schedule",
@@ -408,28 +485,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-05T10:22:03Z",
-    "databaseId": 42010109934,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/42010109934",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T10:21:37Z",
-    "databaseId": 42010050812,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/42010050812",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-05T04:44:26Z",
     "databaseId": 41969657117,
     "event": "dynamic",
@@ -453,17 +508,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-11-05T04:03:42Z",
-    "databaseId": 41965414164,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/41965414164",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:03:42Z",
     "databaseId": 41965414477,
     "event": "dynamic",
     "headBranch": "main",
@@ -482,28 +526,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/41965344726",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:02:23Z",
-    "databaseId": 41965275773,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/41965275773",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:02:23Z",
-    "databaseId": 41965275976,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/41965275976",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -573,17 +595,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-04T04:03:07Z",
-    "databaseId": 41770813608,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/41770813608",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-03T21:54:44Z",
     "databaseId": 41726049266,
     "event": "push",
@@ -612,17 +623,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41719083054",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-03T21:08:39Z",
-    "databaseId": 41719075836,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41719075836",
     "workflowName": "ci",
     "repository": "pfichtner/java-refactoring-mcp"
   }
