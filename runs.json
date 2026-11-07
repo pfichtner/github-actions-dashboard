@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-07T01:22:07Z",
+    "databaseId": 42323690637,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/42323690637",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-07T01:22:07Z",
+    "databaseId": 42323690872,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/42323690872",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-06T12:24:11Z",
     "databaseId": 42217385820,
     "event": "schedule",
@@ -581,49 +603,5 @@
     "url": "https://github.com/pfichtner/ar7json/actions/runs/41814991834",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-04T04:44:35Z",
-    "databaseId": 41775024168,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/41775024168",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-03T21:54:44Z",
-    "databaseId": 41726049266,
-    "event": "push",
-    "headBranch": "feature/aggressive-inlining",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41726049266",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-03T21:08:58Z",
-    "databaseId": 41719124642,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41719124642",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-03T21:08:41Z",
-    "databaseId": 41719083054,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/41719083054",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
   }
 ]
