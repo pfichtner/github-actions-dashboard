@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-08T11:28:36Z",
+    "databaseId": 42475902006,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/42475902006",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-08T10:48:36Z",
+    "databaseId": 42472984853,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/42472984853",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-08T02:51:58Z",
     "databaseId": 42440306842,
     "event": "dynamic",
@@ -464,17 +486,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-11-06T04:02:57Z",
-    "databaseId": 42160140032,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/42160140032",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-06T04:02:57Z",
     "databaseId": 42160140048,
     "event": "dynamic",
     "headBranch": "main",
@@ -548,16 +559,5 @@
     "url": "https://github.com/pfichtner/esphome-configs/actions/runs/42082627425",
     "workflowName": "ESPHome CI Compile",
     "repository": "pfichtner/esphome-configs"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T11:40:27Z",
-    "databaseId": 42020868400,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/42020868400",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
