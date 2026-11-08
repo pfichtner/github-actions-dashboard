@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-08T02:51:58Z",
+    "databaseId": 42440306842,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/42440306842",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-08T02:51:57Z",
+    "databaseId": 42440306821,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/42440306821",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-08T02:51:57Z",
+    "databaseId": 42440306830,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/42440306830",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-07T11:16:44Z",
     "databaseId": 42367494840,
     "event": "schedule",
@@ -526,49 +559,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/42020868400",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:44:26Z",
-    "databaseId": 41969657117,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/41969657117",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:44:26Z",
-    "databaseId": 41969656424,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/espressomachine/actions/runs/41969656424",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/espressomachine"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-05T04:03:42Z",
-    "databaseId": 41965414477,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/jsipdialer/actions/runs/41965414477",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-04T18:43:27Z",
-    "databaseId": 41889942471,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/41889942471",
-    "workflowName": "Update Vagrant Box",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
   }
 ]
