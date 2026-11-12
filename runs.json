@@ -1,6 +1,116 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-12T17:34:03Z",
+    "databaseId": 43270797265,
+    "event": "push",
+    "headBranch": "feature/aggressive-inlining",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43270797265",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T17:28:32Z",
+    "databaseId": 43269812494,
+    "event": "push",
+    "headBranch": "feature/aggressive-inlining",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43269812494",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T13:11:02Z",
+    "databaseId": 43224851552,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/43224851552",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T11:56:18Z",
+    "databaseId": 43213424659,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/43213424659",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T10:23:31Z",
+    "databaseId": 43199945622,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/scrim/actions/runs/43199945622",
+    "workflowName": "CI",
+    "repository": "pfichtner/scrim"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-11-12T09:52:54Z",
+    "databaseId": 43195369522,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/scrim/actions/runs/43195369522",
+    "workflowName": "CI",
+    "repository": "pfichtner/scrim"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T07:56:25Z",
+    "databaseId": 43178967143,
+    "event": "push",
+    "headBranch": "feature/aggressive-inlining",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43178967143",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T07:43:28Z",
+    "databaseId": 43177359065,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/vaadoo/actions/runs/43177359065",
+    "workflowName": "Java CI with Maven",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T07:42:46Z",
+    "databaseId": 43177270282,
+    "event": "push",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/43177270282",
+    "workflowName": "Docker Image CI",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-12T07:41:29Z",
+    "databaseId": 43177117421,
+    "event": "push",
+    "headBranch": "feature/aggressive-inlining",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43177117421",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-12T04:44:37Z",
     "databaseId": 43156774811,
     "event": "dynamic",
@@ -110,17 +220,6 @@
     "repository": "pfichtner/virtualavr"
   },
   {
-    "conclusion": "failure",
-    "createdAt": "2026-11-12T04:03:48Z",
-    "databaseId": 43152289863,
-    "event": "push",
-    "headBranch": "dependabot/github_actions/renovatebot/github-action-46.3.13",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/43152289863",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
     "conclusion": "success",
     "createdAt": "2026-11-12T04:03:39Z",
     "databaseId": 43152274019,
@@ -174,17 +273,6 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/43152205326",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-12T04:02:56Z",
-    "databaseId": 43152190096,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/43152190096",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "conclusion": "success",
@@ -353,28 +441,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-11T07:26:20Z",
-    "databaseId": 42979499776,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/scrim/actions/runs/42979499776",
-    "workflowName": "CI",
-    "repository": "pfichtner/scrim"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T07:19:29Z",
-    "databaseId": 42978660988,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/scrim/actions/runs/42978660988",
-    "workflowName": "CI",
-    "repository": "pfichtner/scrim"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-11T04:44:37Z",
     "databaseId": 42961198687,
     "event": "dynamic",
@@ -518,17 +584,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-11T03:24:26Z",
-    "databaseId": 42952547224,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/vaadoo/actions/runs/42952547224",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-10T15:38:28Z",
     "databaseId": 42846457962,
     "event": "schedule",
@@ -603,16 +658,5 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42753385781",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-10T04:03:08Z",
-    "databaseId": 42753336736,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/42753336736",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
