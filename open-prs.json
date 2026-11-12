@@ -5,6 +5,45 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-11-12T04:03:55Z",
+    "headRefName": "dependabot/npm_and_yarn/ws-8.22.2",
+    "number": 464,
+    "title": "Bump ws from 8.22.1 to 8.22.2",
+    "url": "https://github.com/pfichtner/virtualavr/pull/464",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-12T04:03:47Z",
+    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.13",
+    "number": 463,
+    "title": "Bump renovatebot/github-action from 46.3.12 to 46.3.13",
+    "url": "https://github.com/pfichtner/virtualavr/pull/463",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-12T03:25:09Z",
+    "headRefName": "dependabot/maven/org.apache.commons-commons-lang3-3.22.0",
+    "number": 146,
+    "title": "Bump org.apache.commons:commons-lang3 from 3.21.0 to 3.22.0",
+    "url": "https://github.com/pfichtner/vaadoo/pull/146",
+    "repository": "pfichtner/vaadoo"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-11-10T04:45:11Z",
     "headRefName": "dependabot/maven/org.codehaus.mojo-flatten-maven-plugin-1.9.0",
     "number": 162,
