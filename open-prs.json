@@ -1,45 +1,6 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-11-13T04:04:34Z",
-    "headRefName": "dependabot/maven/org.codehaus.mojo-exec-maven-plugin-3.7.0",
-    "number": 175,
-    "title": "Bump org.codehaus.mojo:exec-maven-plugin from 3.6.4 to 3.7.0",
-    "url": "https://github.com/pfichtner/jsipdialer/pull/175",
-    "repository": "pfichtner/jsipdialer"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-11-13T04:03:48Z",
-    "headRefName": "dependabot/github_actions/peter-evans/create-pull-request-8.1.3",
-    "number": 135,
-    "title": "build(deps): bump peter-evans/create-pull-request from 8.1.2 to 8.1.3",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/135",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-11-13T03:25:11Z",
-    "headRefName": "dependabot/maven/org.codehaus.mojo-build-helper-maven-plugin-3.8.0",
-    "number": 147,
-    "title": "Bump org.codehaus.mojo:build-helper-maven-plugin from 3.7.0 to 3.8.0",
-    "url": "https://github.com/pfichtner/vaadoo/pull/147",
-    "repository": "pfichtner/vaadoo"
-  },
-  {
-    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
@@ -52,19 +13,6 @@
     "title": "Feature/aggressive inlining",
     "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/21",
     "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
-    },
-    "baseRefName": "main",
-    "createdAt": "2026-11-12T04:03:47Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.13",
-    "number": 463,
-    "title": "Bump renovatebot/github-action from 46.3.12 to 46.3.13",
-    "url": "https://github.com/pfichtner/virtualavr/pull/463",
-    "repository": "pfichtner/virtualavr"
   },
   {
     "author": {
