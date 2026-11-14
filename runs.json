@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-14T11:42:43Z",
+    "databaseId": 43591317520,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/43591317520",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-14T11:00:42Z",
+    "databaseId": 43587947051,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/43587947051",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-14T08:18:11Z",
+    "databaseId": 43575166889,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/43575166889",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-14T01:22:05Z",
     "databaseId": 43540163679,
     "event": "dynamic",
@@ -62,17 +95,6 @@
     "headBranch": "renovate/ws-8.x-lockfile",
     "status": "completed",
     "url": "https://github.com/pfichtner/virtualavr/actions/runs/43426310044",
-    "workflowName": "Docker Image CI",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-13T12:34:23Z",
-    "databaseId": 43426303244,
-    "event": "push",
-    "headBranch": "renovate/ws-8.x-lockfile",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/43426303244",
     "workflowName": "Docker Image CI",
     "repository": "pfichtner/virtualavr"
   },
@@ -485,17 +507,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-12T04:03:04Z",
-    "databaseId": 43152205326,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/43152205326",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-12T04:02:35Z",
     "databaseId": 43152152584,
     "event": "dynamic",
@@ -548,71 +559,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/43081071151",
     "workflowName": "Update Vagrant Box",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T11:29:52Z",
-    "databaseId": 43012409995,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/43012409995",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T10:33:39Z",
-    "databaseId": 43004635760,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/43004635760",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T10:33:39Z",
-    "databaseId": 43004635938,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/43004635938",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T09:50:10Z",
-    "databaseId": 42998504175,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/scrim/actions/runs/42998504175",
-    "workflowName": "CI",
-    "repository": "pfichtner/scrim"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T09:46:48Z",
-    "databaseId": 42998033610,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/scrim/actions/runs/42998033610",
-    "workflowName": "CI",
-    "repository": "pfichtner/scrim"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T09:35:47Z",
-    "databaseId": 42996507667,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/scrim/actions/runs/42996507667",
-    "workflowName": "CI",
-    "repository": "pfichtner/scrim"
   }
 ]
