@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-14T01:22:05Z",
+    "databaseId": 43540163679,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43540163679",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-14T01:22:05Z",
+    "databaseId": 43540164023,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43540164023",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-13T17:06:03Z",
     "databaseId": 43469379241,
     "event": "push",
@@ -353,28 +375,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-12T17:34:03Z",
-    "databaseId": 43270797265,
-    "event": "push",
-    "headBranch": "feature/aggressive-inlining",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43270797265",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-12T17:28:32Z",
-    "databaseId": 43269812494,
-    "event": "push",
-    "headBranch": "feature/aggressive-inlining",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/43269812494",
-    "workflowName": "ci",
-    "repository": "pfichtner/java-refactoring-mcp"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-12T11:56:18Z",
     "databaseId": 43213424659,
     "event": "schedule",
@@ -614,60 +614,5 @@
     "url": "https://github.com/pfichtner/scrim/actions/runs/42996507667",
     "workflowName": "CI",
     "repository": "pfichtner/scrim"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T04:44:37Z",
-    "databaseId": 42961198687,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/42961198687",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T04:44:37Z",
-    "databaseId": 42961198427,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pacto/actions/runs/42961198427",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pacto"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T04:03:31Z",
-    "databaseId": 42956725045,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/42956725045",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T04:02:34Z",
-    "databaseId": 42956619478,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/42956619478",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-11T04:02:24Z",
-    "databaseId": 42956602163,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/42956602163",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/testtypes"
   }
 ]
