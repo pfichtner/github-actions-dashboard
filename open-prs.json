@@ -1,18 +1,18 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjgyNTkyNTU2",
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
-      "login": "LizenzFass78851",
-      "name": ""
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-11-14T13:25:50Z",
-    "headRefName": "pr--build-action",
-    "number": 136,
-    "title": "ci(test freetz-ng build on dockerimage): improvements",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/pull/136",
-    "repository": "pfichtner/pfichtner-freetz"
+    "createdAt": "2026-11-15T12:12:30Z",
+    "headRefName": "renovate/logback-monorepo",
+    "number": 465,
+    "title": "Update dependency ch.qos.logback:logback-classic to v1.6.7",
+    "url": "https://github.com/pfichtner/virtualavr/pull/465",
+    "repository": "pfichtner/virtualavr"
   },
   {
     "author": {
