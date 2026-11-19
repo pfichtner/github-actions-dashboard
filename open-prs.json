@@ -1,15 +1,17 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-11-19T04:03:33Z",
-    "headRefName": "dependabot/github_actions/renovatebot/github-action-46.3.14",
-    "number": 466,
-    "title": "Bump renovatebot/github-action from 46.3.13 to 46.3.14",
-    "url": "https://github.com/pfichtner/virtualavr/pull/466",
+    "createdAt": "2026-11-19T13:50:22Z",
+    "headRefName": "renovate/logback-monorepo",
+    "number": 467,
+    "title": "Update dependency ch.qos.logback:logback-classic to v1.6.8",
+    "url": "https://github.com/pfichtner/virtualavr/pull/467",
     "repository": "pfichtner/virtualavr"
   },
   {
