@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-20T04:04:35Z",
+    "headRefName": "dependabot/maven/org.graalvm.buildtools-native-maven-plugin-1.1.19",
+    "number": 178,
+    "title": "Bump org.graalvm.buildtools:native-maven-plugin from 1.1.18 to 1.1.19",
+    "url": "https://github.com/pfichtner/jsipdialer/pull/178",
+    "repository": "pfichtner/jsipdialer"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",
