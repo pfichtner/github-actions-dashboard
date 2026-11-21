@@ -1,18 +1,16 @@
 [
   {
     "author": {
-      "id": "MDQ6VXNlcjE5NTg0ODU=",
-      "is_bot": false,
-      "login": "pfichtner",
-      "name": "Peter Fichtner"
+      "is_bot": true,
+      "login": "app/dependabot"
     },
     "baseRefName": "main",
-    "createdAt": "2026-11-19T13:50:22Z",
-    "headRefName": "renovate/logback-monorepo",
-    "number": 467,
-    "title": "Update dependency ch.qos.logback:logback-classic to v1.6.8",
-    "url": "https://github.com/pfichtner/virtualavr/pull/467",
-    "repository": "pfichtner/virtualavr"
+    "createdAt": "2026-11-21T01:23:00Z",
+    "headRefName": "dependabot/maven/io.modelcontextprotocol.sdk-mcp-2.2.0",
+    "number": 22,
+    "title": "chore(deps): bump io.modelcontextprotocol.sdk:mcp from 2.1.0 to 2.2.0",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/22",
+    "repository": "pfichtner/java-refactoring-mcp"
   },
   {
     "author": {
