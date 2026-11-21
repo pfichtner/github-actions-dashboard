@@ -1,6 +1,39 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-21T12:57:33Z",
+    "databaseId": 44906443239,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/44906443239",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-21T11:51:26Z",
+    "databaseId": 44901073653,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/44901073653",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-21T08:57:54Z",
+    "databaseId": 44887303338,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/44887303338",
+    "workflowName": "Cleanup untagged GHCR images",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-21T01:23:01Z",
     "databaseId": 44849853205,
     "event": "push",
@@ -222,17 +255,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-11-20T04:03:00Z",
-    "databaseId": 44671765260,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/44671765260",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-20T04:03:00Z",
     "databaseId": 44671765434,
     "event": "dynamic",
     "headBranch": "main",
@@ -408,17 +430,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-19T04:03:10Z",
-    "databaseId": 44455616672,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/44455616672",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-19T04:02:38Z",
     "databaseId": 44455554944,
     "event": "dynamic",
@@ -493,49 +504,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/44380675872",
     "workflowName": "Update Vagrant Box",
     "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-18T12:22:11Z",
-    "databaseId": 44303256477,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/44303256477",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-18T10:33:49Z",
-    "databaseId": 44286582740,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/44286582740",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-18T10:33:49Z",
-    "databaseId": 44286582742,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/ar7json/actions/runs/44286582742",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/ar7json"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-18T07:40:40Z",
-    "databaseId": 44260746336,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/44260746336",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
   }
 ]
