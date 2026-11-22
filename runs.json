@@ -1,6 +1,28 @@
 [
   {
     "conclusion": "success",
+    "createdAt": "2026-11-22T12:49:04Z",
+    "databaseId": 45024234719,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/45024234719",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-22T12:02:56Z",
+    "databaseId": 45020277558,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/45020277558",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "success",
     "createdAt": "2026-11-22T02:52:00Z",
     "databaseId": 44978027661,
     "event": "dynamic",
@@ -288,17 +310,6 @@
   {
     "conclusion": "success",
     "createdAt": "2026-11-20T04:03:00Z",
-    "databaseId": 44671765434,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/44671765434",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-20T04:03:00Z",
     "databaseId": 44671765741,
     "event": "dynamic",
     "headBranch": "main",
@@ -372,16 +383,5 @@
     "url": "https://github.com/pfichtner/vaadoo/actions/runs/44667534345",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/vaadoo"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-19T12:15:52Z",
-    "databaseId": 44522258913,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/44522258913",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
