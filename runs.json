@@ -1,5 +1,49 @@
 [
   {
+    "conclusion": "failure",
+    "createdAt": "2026-11-24T18:56:23Z",
+    "databaseId": 45464871976,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/45464871976",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/log4shell-hunter"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-24T15:12:31Z",
+    "databaseId": 45422804212,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/virtualavr/actions/runs/45422804212",
+    "workflowName": "Renovate",
+    "repository": "pfichtner/virtualavr"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-24T14:20:51Z",
+    "databaseId": 45413061293,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/45413061293",
+    "workflowName": "Update Freetz-NG Prerequisites",
+    "repository": "pfichtner/pfichtner-freetz"
+  },
+  {
+    "conclusion": "failure",
+    "createdAt": "2026-11-24T12:34:03Z",
+    "databaseId": 45394748377,
+    "event": "schedule",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/testtypes/actions/runs/45394748377",
+    "workflowName": "Scorecard supply-chain security",
+    "repository": "pfichtner/testtypes"
+  },
+  {
     "conclusion": "success",
     "createdAt": "2026-11-24T07:17:02Z",
     "databaseId": 45346793713,
@@ -40,17 +84,6 @@
     "headBranch": "main",
     "status": "completed",
     "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/45346710155",
-    "workflowName": "Java CI with Maven",
-    "repository": "pfichtner/log4shell-hunter"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-24T07:16:08Z",
-    "databaseId": 45346680635,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/log4shell-hunter/actions/runs/45346680635",
     "workflowName": "Java CI with Maven",
     "repository": "pfichtner/log4shell-hunter"
   },
@@ -229,17 +262,6 @@
     "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/45346405708",
     "workflowName": "CodeQL",
     "repository": "pfichtner/mqtt-machine-state"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-24T07:12:56Z",
-    "databaseId": 45346258261,
-    "event": "push",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/testtypes/actions/runs/45346258261",
-    "workflowName": "Scorecard supply-chain security",
-    "repository": "pfichtner/testtypes"
   },
   {
     "conclusion": "success",
@@ -485,17 +507,6 @@
   },
   {
     "conclusion": "success",
-    "createdAt": "2026-11-23T04:03:14Z",
-    "databaseId": 45109510200,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/virtualavr/actions/runs/45109510200",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/virtualavr"
-  },
-  {
-    "conclusion": "success",
     "createdAt": "2026-11-22T12:02:56Z",
     "databaseId": 45020277558,
     "event": "schedule",
@@ -537,16 +548,5 @@
     "url": "https://github.com/pfichtner/usb-traffic-light-mqtt-bridge/actions/runs/44978027448",
     "workflowName": "Dependabot Updates",
     "repository": "pfichtner/usb-traffic-light-mqtt-bridge"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-21T11:51:26Z",
-    "databaseId": 44901073653,
-    "event": "schedule",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/44901073653",
-    "workflowName": "Update Freetz-NG Prerequisites",
-    "repository": "pfichtner/pfichtner-freetz"
   }
 ]
