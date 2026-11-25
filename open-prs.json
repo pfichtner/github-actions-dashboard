@@ -5,6 +5,32 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-11-25T04:45:32Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-32.1.0",
+    "number": 170,
+    "title": "Bump com.approvaltests:approvaltests from 31.2.0 to 32.1.0",
+    "url": "https://github.com/pfichtner/pacto/pull/170",
+    "repository": "pfichtner/pacto"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-25T04:45:25Z",
+    "headRefName": "dependabot/maven/teavm-backend/llvm/teavm.version-0.17.0",
+    "number": 23,
+    "title": "Bump teavm.version from 0.16.0 to 0.17.0 in /teavm-backend/llvm",
+    "url": "https://github.com/pfichtner/espressomachine/pull/23",
+    "repository": "pfichtner/espressomachine"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-11-21T01:23:00Z",
     "headRefName": "dependabot/maven/io.modelcontextprotocol.sdk-mcp-2.2.0",
     "number": 22,
