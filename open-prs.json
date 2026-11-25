@@ -5,6 +5,45 @@
       "login": "app/dependabot"
     },
     "baseRefName": "main",
+    "createdAt": "2026-11-25T10:34:36Z",
+    "headRefName": "dependabot/cargo/clap_complete-4.6.12",
+    "number": 15,
+    "title": "chore(deps): bump clap_complete from 4.6.11 to 4.6.12",
+    "url": "https://github.com/pfichtner/ar7json/pull/15",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-25T10:34:31Z",
+    "headRefName": "dependabot/cargo/clap_mangen-0.3.4",
+    "number": 14,
+    "title": "chore(deps): bump clap_mangen from 0.3.3 to 0.3.4",
+    "url": "https://github.com/pfichtner/ar7json/pull/14",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-25T10:34:27Z",
+    "headRefName": "dependabot/cargo/clap-4.6.9",
+    "number": 13,
+    "title": "chore(deps): bump clap from 4.6.7 to 4.6.9",
+    "url": "https://github.com/pfichtner/ar7json/pull/13",
+    "repository": "pfichtner/ar7json"
+  },
+  {
+    "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
     "createdAt": "2026-11-25T04:45:32Z",
     "headRefName": "dependabot/maven/com.approvaltests-approvaltests-32.1.0",
     "number": 170,
