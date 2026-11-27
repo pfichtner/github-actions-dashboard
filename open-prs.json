@@ -1,16 +1,18 @@
 [
   {
     "author": {
-      "is_bot": true,
-      "login": "app/dependabot"
+      "id": "MDQ6VXNlcjE5NTg0ODU=",
+      "is_bot": false,
+      "login": "pfichtner",
+      "name": "Peter Fichtner"
     },
     "baseRefName": "main",
-    "createdAt": "2026-11-27T04:03:24Z",
-    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-32.2.0",
-    "number": 635,
-    "title": "build(deps-dev): bump com.approvaltests:approvaltests from 32.1.0 to 32.2.0",
-    "url": "https://github.com/pfichtner/log4shell-hunter/pull/635",
-    "repository": "pfichtner/log4shell-hunter"
+    "createdAt": "2026-11-27T14:15:40Z",
+    "headRefName": "renovate/org.awaitility-awaitility-4.x",
+    "number": 468,
+    "title": "Update dependency org.awaitility:awaitility to v4.4.0",
+    "url": "https://github.com/pfichtner/virtualavr/pull/468",
+    "repository": "pfichtner/virtualavr"
   },
   {
     "author": {
