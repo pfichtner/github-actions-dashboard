@@ -1,6 +1,19 @@
 [
   {
     "author": {
+      "is_bot": true,
+      "login": "app/dependabot"
+    },
+    "baseRefName": "main",
+    "createdAt": "2026-11-28T01:22:42Z",
+    "headRefName": "dependabot/maven/com.approvaltests-approvaltests-32.2.0",
+    "number": 23,
+    "title": "chore(deps): bump com.approvaltests:approvaltests from 31.0.0 to 32.2.0",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/pull/23",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "author": {
       "id": "MDQ6VXNlcjE5NTg0ODU=",
       "is_bot": false,
       "login": "pfichtner",

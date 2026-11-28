@@ -1,5 +1,38 @@
 [
   {
+    "conclusion": "success",
+    "createdAt": "2026-11-28T01:22:43Z",
+    "databaseId": 46092803426,
+    "event": "push",
+    "headBranch": "dependabot/maven/com.approvaltests-approvaltests-32.2.0",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/46092803426",
+    "workflowName": "ci",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-28T01:22:04Z",
+    "databaseId": 46092746271,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/46092746271",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
+    "conclusion": "success",
+    "createdAt": "2026-11-28T01:22:04Z",
+    "databaseId": 46092746272,
+    "event": "dynamic",
+    "headBranch": "main",
+    "status": "completed",
+    "url": "https://github.com/pfichtner/java-refactoring-mcp/actions/runs/46092746272",
+    "workflowName": "Dependabot Updates",
+    "repository": "pfichtner/java-refactoring-mcp"
+  },
+  {
     "conclusion": "failure",
     "createdAt": "2026-11-27T20:22:15Z",
     "databaseId": 46063164121,
@@ -570,27 +603,5 @@
     "url": "https://github.com/pfichtner/pfichtner-freetz/actions/runs/45625891394",
     "workflowName": "Update Freetz-NG Prerequisites",
     "repository": "pfichtner/pfichtner-freetz"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-25T04:44:40Z",
-    "databaseId": 45548848538,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/pfichtner-freetz-vagrantbox/actions/runs/45548848538",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/pfichtner-freetz-vagrantbox"
-  },
-  {
-    "conclusion": "success",
-    "createdAt": "2026-11-25T04:03:30Z",
-    "databaseId": 45544148914,
-    "event": "dynamic",
-    "headBranch": "main",
-    "status": "completed",
-    "url": "https://github.com/pfichtner/mqtt-machine-state/actions/runs/45544148914",
-    "workflowName": "Dependabot Updates",
-    "repository": "pfichtner/mqtt-machine-state"
   }
 ]
